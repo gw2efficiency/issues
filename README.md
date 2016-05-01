@@ -12,3 +12,9 @@
   <sub>Or just switch to the "Issues" tab in this repository, if that's what you fancy.</sub>
 
 ---
+
+<p align="center">
+  <b><a href="https://huboard.com/gw2efficiency/issues">Click here to open the board of issues.</a></b><br>
+  <sub>This is a kanban-style board with the current status as the column.</sub>
+
+---
