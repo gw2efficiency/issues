@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <b><a href="https://github.com/gw2efficiency/issues/issues">Click here to open the issues.</a></b><br>
+  <b><a href="https://github.com/gw2efficiency/issues/issues">Click here to open the list of issues.</a></b><br>
   <sub>Or just switch to the "Issues" tab in this repository, if that's what you fancy.</sub>
 
 ---
