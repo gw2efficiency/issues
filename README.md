@@ -18,3 +18,9 @@
   <sub>This is a kanban-style board with the current status as the column.</sub>
 
 ---
+
+<p align="center">
+  <b><a href="https://github.com/gw2efficiency/issues/blob/master/CHANGELOG.md">Click here to open the changelog.</a></b><br>
+  <sub>Lists all features, enhancements and bugfixes and when they happend.</sub>
+
+---
