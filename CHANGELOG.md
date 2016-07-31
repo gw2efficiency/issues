@@ -1,3 +1,30 @@
+#### v4.189.0 &mdash; 2016-07-31
+
+**Enhancements**
+
+- *Crafting/Calculator*: Add a wiki link for items in the crafting tree ([#162](https://github.com/gw2efficiency/issues/issues/162))
+- *Tradingpost*: Fix the date field for investments and history ([#67](https://github.com/gw2efficiency/issues/issues/67))
+- *Account/Guild*: Make the guild roster sortable ([#180](https://github.com/gw2efficiency/issues/issues/180))
+- *Account*: Require current password on password changes ([#27](https://github.com/gw2efficiency/issues/issues/27))
+- *Tradingpost/Current Transactions*: Show a total listing price / order price column ([#171](https://github.com/gw2efficiency/issues/issues/171))
+- *Account/Guild*: Add the new guild hall upgrades ([#185](https://github.com/gw2efficiency/issues/issues/185))
+
+**Bugfixes**
+
+- *Currencies/Spiritshards*: Fix the recipe for Cragstone ([#179](https://github.com/gw2efficiency/issues/issues/179))
+- *Crafting/Calculator*: Fix vendor items referring to their bulk items in the shopping list and calculations ([#175](https://github.com/gw2efficiency/issues/issues/175))
+- *Crafting/Calculator*: Fix crafting quantity changing after adding & removing multiple recipes ([#176](https://github.com/gw2efficiency/issues/issues/176))
+- *Currencies/Claim Tickets*: Fix not available items showing up in the list ([#188](https://github.com/gw2efficiency/issues/issues/188))
+
+**Chores**
+
+- *Community/Contributors*: Update the list of donators
+- *Translations*: Get the translation server back up and running ([#161](https://github.com/gw2efficiency/issues/issues/161))
+- *Translations*: Add missing translation flags ([#181](https://github.com/gw2efficiency/issues/issues/181))
+- *Translations*: Deploy the current translations ([#182](https://github.com/gw2efficiency/issues/issues/182))
+
+---
+
 #### v4.188.13 &mdash; 2016-07-02
 
 **Enhancements**
