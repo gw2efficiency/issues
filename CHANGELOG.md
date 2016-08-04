@@ -1,3 +1,12 @@
+#### v4.190.0 &mdash; 2016-08-04
+
+**Enhancements**
+
+- *Guides*: Update the system that handles the guides ([#189](https://github.com/gw2efficiency/issues/issues/189))
+- *Guides*: Release a new guide for AB-MultiMaps ([#189](https://github.com/gw2efficiency/issues/issues/189))
+
+---
+
 #### v4.189.0 &mdash; 2016-07-31
 
 **Enhancements**
