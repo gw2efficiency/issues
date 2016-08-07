@@ -1,3 +1,18 @@
+#### v4.191.0 &mdash; 2016-08-06
+
+**Features**
+
+- *Community/Chat*: Update the chat design ([#191](https://github.com/gw2efficiency/issues/issues/191))
+- *Community/Chat*: Show the online status for chat members ([#192](https://github.com/gw2efficiency/issues/issues/192))
+- *Community/Chat*: Add colored chat nicks ([#17](https://github.com/gw2efficiency/issues/issues/17))
+- *Community/Chat*: Add emojis into the chat ([#88](https://github.com/gw2efficiency/issues/issues/88))
+
+**Chores**
+
+- *Money*: Add buttons to donate with Patreon, Bitcoin and Flattr
+
+---
+
 #### v4.190.0 &mdash; 2016-08-04
 
 **Enhancements**
