@@ -1,3 +1,12 @@
+#### v4.191.1 &mdash; 2016-08-11
+
+**Chores**
+
+- *Translations*: Deploy the new Portuguese translations
+- *Translations*: Deploy the translation updates
+
+---
+
 #### v4.191.0 &mdash; 2016-08-06
 
 **Features**
