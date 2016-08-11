@@ -1,3 +1,11 @@
+#### v4.191.2 &mdash; 2016-08-11
+
+**Bugfixes**
+
+- *Community/Chat*: Fix submitting messages for Safari ([#200](https://github.com/gw2efficiency/issues/issues/200))
+
+---
+
 #### v4.191.1 &mdash; 2016-08-11
 
 **Chores**
