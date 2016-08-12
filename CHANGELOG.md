@@ -1,3 +1,15 @@
+#### v4.191.3 &mdash; 2016-08-12
+
+**Enhancements**
+
+- *Account/Guild*: Use crafting prices for accountbound upgrade ingredients ([#198](https://github.com/gw2efficiency/issues/issues/198))
+
+**Bugfixes**
+
+- *Account/Guild*: Fix total costs for upgrades not calculating
+
+---
+
 #### v4.191.2 &mdash; 2016-08-11
 
 **Bugfixes**
