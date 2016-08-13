@@ -1,3 +1,16 @@
+#### v4.191.4 &mdash; 2016-08-13
+
+**Enhancements**
+
+- *Community/Chat*: Add the ability for custom emojis
+- *Community/Chat*: Add `/me` action messages
+
+**Bugfixes**
+
+- *Community/Chat*: Fix notification spam in some cases
+
+---
+
 #### v4.191.3 &mdash; 2016-08-12
 
 **Enhancements**
