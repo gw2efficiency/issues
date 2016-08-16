@@ -1,3 +1,12 @@
+#### v4.191.5 &mdash; 2016-08-16
+
+**Chores**
+
+- *Guides*: Release a new guide for tradingpost flipping
+- *Translations*: Deploy the translation updates
+
+---
+
 #### v4.191.4 &mdash; 2016-08-13
 
 **Enhancements**
@@ -60,6 +69,9 @@
 **Enhancements**
 
 - *Guides*: Update the system that handles the guides ([#189](https://github.com/gw2efficiency/issues/issues/189))
+
+**Chores**
+
 - *Guides*: Release a new guide for AB-MultiMaps ([#189](https://github.com/gw2efficiency/issues/issues/189))
 
 ---
