@@ -1,3 +1,11 @@
+#### v4.191.6 &mdash; 2016-08-17
+
+**Chores**
+
+- *Currencies/Karma*: Update the karma item salvaging rates to the latest patch ([#128](https://github.com/gw2efficiency/issues/issues/128))
+
+---
+
 #### v4.191.5 &mdash; 2016-08-16
 
 **Chores**
