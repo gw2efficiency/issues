@@ -1,3 +1,16 @@
+#### v4.191.7 &mdash; 2016-08-17
+
+**Enhancements**
+
+- *Account/Overview*: Improve the account overview graph ([#119](https://github.com/gw2efficiency/issues/issues/119))
+
+**Chores**
+
+- *Account/Overview*: Refactor the account value calculation into it's own module ([#12](https://github.com/gw2efficiency/issues/issues/12))
+- *Account/Overview*: Include the new account value module into the frontend ([#201](https://github.com/gw2efficiency/issues/issues/201))
+
+---
+
 #### v4.191.6 &mdash; 2016-08-17
 
 **Chores**
