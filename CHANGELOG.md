@@ -1,3 +1,12 @@
+#### v4.191.8 &mdash; 2016-08-18
+
+**Enhancements**
+
+- *Account/Overview*: Add last update display and refresh button
+- *Account/Overview*: Fix chart tooltip sometimes clipping below the legend
+
+---
+
 #### v4.191.7 &mdash; 2016-08-17
 
 **Enhancements**
