@@ -1,3 +1,15 @@
+#### v4.191.10 &mdash; 2016-08-29
+
+**Bugfixes**
+
+- *Currencies/Claim Tickets*: Fix not loading the correct claim tickets because of wiki changes
+
+**Chores**
+
+- *Translations*: Deploy the translation updates
+
+---
+
 #### v4.191.9 &mdash; 2016-08-21
 
 **Bugfixes**
