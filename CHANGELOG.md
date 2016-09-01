@@ -1,3 +1,11 @@
+#### v4.191.11 &mdash; 2016-09-11
+
+**Bugfixes**
+
+- *Community/Lottery*: Fix layout issues when the price names are too long
+
+---
+
 #### v4.191.10 &mdash; 2016-08-29
 
 **Bugfixes**
