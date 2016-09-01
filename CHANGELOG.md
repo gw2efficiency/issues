@@ -3,6 +3,7 @@
 **Bugfixes**
 
 - *Community/Lottery*: Fix layout issues when the price names are too long
+- *Dungeons*: Update the dungeon rewards to the current patch ([#206](https://github.com/gw2efficiency/issues/issues/206))
 
 ---
 
