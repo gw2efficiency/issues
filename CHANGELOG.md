@@ -12,6 +12,7 @@
 
 - *Backend*: Fix the mail server ([#231](https://github.com/gw2efficiency/issues/issues/231))
 - *Crafting/Calculator*: Add recipe for the new legendary, Eureka
+- *Translations*: Deploy the translation updates
 
 ---
 
@@ -31,6 +32,8 @@
 - *Backend*: Move background jobs into a distributed, priority-queue based system ([#174](https://github.com/gw2efficiency/issues/issues/174))
 - *Backend*: Integrated split code of gw2-api.com directly into the codebase ([#25](https://github.com/gw2efficiency/issues/issues/25))
 - *Backend*: Renew the SSL certificate ([#218](https://github.com/gw2efficiency/issues/issues/218))
+
+---
 
 #### v4.191.11 &mdash; 2016-09-11
 
