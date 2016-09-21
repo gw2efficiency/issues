@@ -1,3 +1,37 @@
+#### v4.192.1 &mdash; 2016-09-21
+
+**Enhancements**
+
+- *Account/Guilds*: Add new guild upgrades ([#237](https://github.com/gw2efficiency/issues/issues/237))
+
+**Bugfixes**
+
+- *Account/Statistics*: Fix rank number overlap on Firefox ([#232](https://github.com/gw2efficiency/issues/issues/232))
+
+**Chores**
+
+- *Backend*: Fix the mail server ([#231](https://github.com/gw2efficiency/issues/issues/231))
+- *Crafting/Calculator*: Add recipe for the new legendary, Eureka
+
+---
+
+#### v4.192.0 &mdash; 2016-09-14
+
+**Enhancements**
+
+- *Account/Statistics*: Add a history for all statistics ([#220](https://github.com/gw2efficiency/issues/issues/220))
+- *Account/Statistics*: Ignore keys that are now invalid ([#203](https://github.com/gw2efficiency/issues/issues/203))
+- *Account/Statistics*: Fix some statistics generating with missing data ([#221](https://github.com/gw2efficiency/issues/issues/221))
+- *Account/Statistics*: Improve page layout ([#217](https://github.com/gw2efficiency/issues/issues/217))
+- *Account/Value*: Add value to more missing ascended items ([#173](https://github.com/gw2efficiency/issues/issues/173))
+
+**Chores**
+
+- *Backend*: Move to a more sophisticated server infrastructure ([#26](https://github.com/gw2efficiency/issues/issues/26))
+- *Backend*: Move background jobs into a distributed, priority-queue based system ([#174](https://github.com/gw2efficiency/issues/issues/174))
+- *Backend*: Integrated split code of gw2-api.com directly into the codebase ([#25](https://github.com/gw2efficiency/issues/issues/25))
+- *Backend*: Renew the SSL certificate ([#218](https://github.com/gw2efficiency/issues/issues/218))
+
 #### v4.191.11 &mdash; 2016-09-11
 
 **Bugfixes**
