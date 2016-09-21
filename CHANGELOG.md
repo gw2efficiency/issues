@@ -11,7 +11,7 @@
 **Chores**
 
 - *Backend*: Fix the mail server ([#231](https://github.com/gw2efficiency/issues/issues/231))
-- *Crafting/Calculator*: Add recipe for the new legendary, Eureka
+- *Crafting/Calculator*: Add the recipe for the new legendary, Eureka
 - *Translations*: Deploy the translation updates
 
 ---
@@ -21,7 +21,7 @@
 **Enhancements**
 
 - *Account/Statistics*: Add a history for all statistics ([#220](https://github.com/gw2efficiency/issues/issues/220))
-- *Account/Statistics*: Ignore keys that are now invalid ([#203](https://github.com/gw2efficiency/issues/issues/203))
+- *Account/Statistics*: Ignore keys that are went invalid ([#203](https://github.com/gw2efficiency/issues/issues/203))
 - *Account/Statistics*: Fix some statistics generating with missing data ([#221](https://github.com/gw2efficiency/issues/issues/221))
 - *Account/Statistics*: Improve page layout ([#217](https://github.com/gw2efficiency/issues/issues/217))
 - *Account/Value*: Add value to more missing ascended items ([#173](https://github.com/gw2efficiency/issues/issues/173))
