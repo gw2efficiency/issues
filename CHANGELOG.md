@@ -1,3 +1,9 @@
+#### v4.193.0 &mdash; 2016-09-22
+
+Coming soon. :fire:
+
+---
+
 #### v4.192.1 &mdash; 2016-09-21
 
 **Enhancements**
