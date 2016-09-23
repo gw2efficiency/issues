@@ -1,6 +1,21 @@
 #### v4.193.0 &mdash; 2016-09-22
 
-Coming soon. :fire:
+**Features**
+
+- *Account/Statistics*: Add new batch of player statistics ([#112](https://github.com/gw2efficiency/issues/issues/112))
+- *Account/Value*: Add gemstore items into the calculation ([#107](https://github.com/gw2efficiency/issues/issues/107))
+- *Account/Value*: Add shared inventory slots into the calculation ([#1](https://github.com/gw2efficiency/issues/issues/1))
+- *Account/Value*: Add infusions and upgrades into the calculation ([#107](https://github.com/gw2efficiency/issues/issues/107))
+- *Account/Value*: Add unlocked recipes into the calculation ([#229](https://github.com/gw2efficiency/issues/issues/229))
+- *Account/Value*: Add unlocked outfits into the calculation ([#228](https://github.com/gw2efficiency/issues/issues/228))
+- *Account/Value*: Add unlocked finishers into the calculation ([#227](https://github.com/gw2efficiency/issues/issues/227))
+- *Account/Value*: Add account unlocks into the calculation ([#184](https://github.com/gw2efficiency/issues/issues/184))
+- *Account/Value*: Add crafting professions into the calculation ([#111](https://github.com/gw2efficiency/issues/issues/111))
+- *Account/Value*: Add bag values into the calculation ([#108](https://github.com/gw2efficiency/issues/issues/108))
+
+**Enhancements**
+
+- *Account/Overview*: Add hower for character values, showing detailed information ([#239](https://github.com/gw2efficiency/issues/issues/239))
 
 ---
 
