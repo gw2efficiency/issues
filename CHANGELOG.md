@@ -1,3 +1,12 @@
+#### v4.193.1 &mdash; 2016-09-24
+
+**Enhancements**
+
+- *Account/Statistics*: Show last scan date and last standing generation date
+- *Account/Statistics*: Massively improve performance for the generation of the live standings :fire_engine::fire: ([#249](https://github.com/gw2efficiency/issues/issues/249))
+
+---
+
 #### v4.193.0 &mdash; 2016-09-22
 
 **Features**
