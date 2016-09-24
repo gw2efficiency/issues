@@ -4,6 +4,7 @@
 
 - *Account/Statistics*: Show last scan date and last standing generation date
 - *Account/Statistics*: Massively improve performance for the generation of the live standings :fire_engine::fire: ([#249](https://github.com/gw2efficiency/issues/issues/249))
+- *Graphs*: Show the local time instead of UTC on all graphs
 
 ---
 
