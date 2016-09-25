@@ -1,3 +1,19 @@
+#### v4.193.2 &mdash; 2016-09-25
+
+**Bugfixes**
+
+- *Account/Value*: Fix some miss-priced gemstore items and added missing value to some skins ([#245](https://github.com/gw2efficiency/issues/issues/245))
+- *Tradingpost*: Add "Guild Catapult" to the tradingpost blacklist ([#213](https://github.com/gw2efficiency/issues/issues/213))
+- *Crafting/Calculator*: Fix misbehaving recipe for "Lesser Vision Crystal" ([#241](https://github.com/gw2efficiency/issues/issues/241))
+- *Crafting/Calculator*: Add a vendor price to "Orichalcum Mining Pick" ([#193](https://github.com/gw2efficiency/issues/issues/193))
+- *Crafting/Calculator*: Fix the build order for precursor recipes - they now require the "Spirit of ..." items first ([#207](https://github.com/gw2efficiency/issues/issues/207))
+- *Account/Achievements*: Take filtering into account when choosing a random achievement ([#236](https://github.com/gw2efficiency/issues/issues/236))
+- *Tradingpost/Transactions*: Fix the missing listing / order price ([#247](https://github.com/gw2efficiency/issues/issues/247))
+- *Crafting/Calculator*: Fix the wiki link pointing to the wrong page for other languages than English ([#211](https://github.com/gw2efficiency/issues/issues/211))
+- *Account/Dyes*: Fix "Bloodstone Dyes" not getting recognized as gemstore dyes ([#248](https://github.com/gw2efficiency/issues/issues/248))
+
+---
+
 #### v4.193.1 &mdash; 2016-09-24
 
 **Enhancements**
