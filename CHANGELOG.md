@@ -1,3 +1,11 @@
+#### v4.193.3 &mdash; 2016-09-26
+
+**Features**
+
+- *Account/Statistics*: Add more player statistics ([#242](https://github.com/gw2efficiency/issues/issues/242))
+
+---
+
 #### v4.193.2 &mdash; 2016-09-25
 
 **Bugfixes**
