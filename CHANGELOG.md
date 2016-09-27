@@ -1,3 +1,11 @@
+#### v4.193.4 &mdash; 2016-09-27
+
+**Bugfixes**
+
+- *Account/PvP*: Fix the amount of rank points needed for advancing ranks
+
+---
+
 #### v4.193.3 &mdash; 2016-09-26
 
 **Features**
