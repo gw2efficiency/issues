@@ -1,3 +1,11 @@
+#### v4.193.5 &mdash; 2016-09-27
+
+**Features**
+
+- *Account/Overview*: Add more filters to the account search ([#59](https://github.com/gw2efficiency/issues/issues/59))
+
+---
+
 #### v4.193.4 &mdash; 2016-09-27
 
 **Bugfixes**
