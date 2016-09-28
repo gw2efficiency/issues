@@ -1,3 +1,11 @@
+#### v4.193.6 &mdash; 2016-09-28
+
+**Bugfixes**
+
+- *Account/Overview*: Fix the search failing if the user has items which are not whitelisted in the API yet
+
+---
+
 #### v4.193.5 &mdash; 2016-09-27
 
 **Features**
