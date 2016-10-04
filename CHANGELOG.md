@@ -1,3 +1,11 @@
+#### v4.193.7 &mdash; 2016-10-04
+
+**Bugfixes**
+
+- *Tradingpost/History*: Fix the missing listing / order price ([#266](https://github.com/gw2efficiency/issues/issues/266))
+
+---
+
 #### v4.193.6 &mdash; 2016-09-28
 
 **Bugfixes**
