@@ -1,3 +1,13 @@
+#### v4.193.8 &mdash; 2016-10-29
+
+**Chores**
+
+- *Translations*: Deploy the new Russian translations ([#280](https://github.com/gw2efficiency/issues/issues/280))
+- *Translations*: Deploy the translation updates ([#280](https://github.com/gw2efficiency/issues/issues/280))
+- *Gemstore*: Add new offers ([#274](https://github.com/gw2efficiency/issues/issues/274))
+
+---
+
 #### v4.193.7 &mdash; 2016-10-04
 
 **Bugfixes**
