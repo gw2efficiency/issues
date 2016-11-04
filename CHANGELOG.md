@@ -1,3 +1,15 @@
+#### v4.193.9 &mdash; 2016-11-04
+
+**Features**
+
+- *Guides*: Added a new fractal level 40 farm guide ([#286](https://github.com/gw2efficiency/issues/issues/286))
+
+**Chores**
+
+- Improved the build process of  all internal modules ([#277](https://github.com/gw2efficiency/issues/issues/277))
+
+---
+
 #### v4.193.8 &mdash; 2016-10-29
 
 **Chores**
