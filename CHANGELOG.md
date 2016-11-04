@@ -1,12 +1,20 @@
-#### v4.193.9 &mdash; 2016-11-04
+#### v4.193.10 &mdash; 2016-11-04
+
+**Bugfixes**
+
+- *Account/Overview*: Fix the page not loading on Microsoft Edge
+
+---
+
+#### v4.193.9 &mdash; 2016-11-03
 
 **Features**
 
-- *Guides*: Added a new fractal level 40 farm guide ([#286](https://github.com/gw2efficiency/issues/issues/286))
+- *Guides*: Add a new fractal level 40 farm guide ([#286](https://github.com/gw2efficiency/issues/issues/286))
 
 **Chores**
 
-- Improved the build process of  all internal modules ([#277](https://github.com/gw2efficiency/issues/issues/277))
+- Improve the build process of  all internal modules ([#277](https://github.com/gw2efficiency/issues/issues/277))
 
 ---
 
