@@ -1,3 +1,29 @@
+#### v4.193.11 &mdash; 2016-11-06
+
+**Enhancements**
+
+- *Account/Overview*: Include guild banks into the account search ([#283](https://github.com/gw2efficiency/issues/issues/283))
+- *Account/Overview*: Allow searching for upgrades in items ([#267](https://github.com/gw2efficiency/issues/issues/267))
+- *Account/Wardrobe*: Add gold and gem value in the tooltip ([#257](https://github.com/gw2efficiency/issues/issues/257))
+- *Tradingpost/Listings*: Improve the summarization of tradingpost listings ([#190](https://github.com/gw2efficiency/issues/issues/190))
+- *Account/Achievements*: Add a filter for achievements, which can still give points ([#262](https://github.com/gw2efficiency/issues/issues/262))
+- *Crafting/Calculator*: Improve the recipes using fossilized insects ([#261](https://github.com/gw2efficiency/issues/issues/261))
+- *Community/Contributors*: Clean up the layout ([#287](https://github.com/gw2efficiency/issues/issues/287))
+
+**Bugfixes**
+
+- *Account/Overview*: Fix the binding status for character equipment ([#289](https://github.com/gw2efficiency/issues/issues/289))
+- *Currencies/Dungeon Tokens*: Update the tokens per run to the new values ([#281](https://github.com/gw2efficiency/issues/issues/281))
+- *Crafting/Calculator*: Fix the recipe for "Eternal Sand" ([#278](https://github.com/gw2efficiency/issues/issues/278))
+- *Crafting/Calculator*: Fix the recipe for "Old Tom" ([#271](https://github.com/gw2efficiency/issues/issues/271))
+
+**Chores**
+
+- *Layout*: Add mobile favicons ([#268](https://github.com/gw2efficiency/issues/issues/268))
+- *Layout*: Unify the branding to the single spelling of "gw2efficiency" ([#291](https://github.com/gw2efficiency/issues/issues/291))
+
+---
+
 #### v4.193.10 &mdash; 2016-11-04
 
 **Bugfixes**
