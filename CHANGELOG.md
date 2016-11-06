@@ -21,6 +21,7 @@
 
 - *Layout*: Add mobile favicons ([#268](https://github.com/gw2efficiency/issues/issues/268))
 - *Layout*: Unify the branding to the single spelling of "gw2efficiency" ([#291](https://github.com/gw2efficiency/issues/issues/291))
+- *Account/Statistics*: Reneabled the crawling of accounts
 
 ---
 
