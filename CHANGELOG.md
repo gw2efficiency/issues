@@ -1,3 +1,22 @@
+#### v4.193.12 &mdash; 2016-11-10
+
+**Enhancements**
+
+- *Currencies/Karma*: Add a toggle for the component price ([#297](https://github.com/gw2efficiency/issues/issues/297))
+- *Account/Statistics*: Add more player statistics: Tomes of Knowledge, Blood Rubies, Petrified Wood, Permanent contracts ([#260](https://github.com/gw2efficiency/issues/issues/260))
+- *Account/Overview*: Add the ability to filter by item value ([#29](https://github.com/gw2efficiency/issues/issues/29))
+
+**Bugfixes**
+
+- *General*: Fix the datetime format in charts for some languages ([#293](https://github.com/gw2efficiency/issues/issues/293))
+- *Currencies/Dungeons & Dungeons/Overview*: Fix the amount of daily dungeon tokens ([#296](https://github.com/gw2efficiency/issues/issues/296))
+
+**Chores**
+
+- *Account/Value*: Add a value to "Mini Oxidecimus the Shadow Raven" ([#292](https://github.com/gw2efficiency/issues/issues/292))
+
+---
+
 #### v4.193.11 &mdash; 2016-11-06
 
 **Enhancements**
