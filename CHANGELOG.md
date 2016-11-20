@@ -1,3 +1,16 @@
+#### v4.193.13 &mdash; 2016-11-20
+
+**Bugfixes**
+
+- *Crafting/Calculator*: Fix completed crafting steps lingering ([#163](https://github.com/gw2efficiency/issues/issues/163))
+
+**Chores**
+
+- *Account/Value*: Update the list of gemstore items ([#298](https://github.com/gw2efficiency/issues/issues/298))
+- *Account/Statistics*: Update the list of permanent tonics ([#303](https://github.com/gw2efficiency/issues/issues/303))
+
+---
+
 #### v4.193.12 &mdash; 2016-11-10
 
 **Enhancements**
