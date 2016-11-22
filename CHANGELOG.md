@@ -1,3 +1,12 @@
+#### v4.193.14 &mdash; 2016-11-22
+
+**Chores**
+
+- *Account/Value*: Update the list of gemstore items
+- *Crafting/Calculator*: Add the recipes for the new legendary shield "Shooshadoo"
+
+---
+
 #### v4.193.13 &mdash; 2016-11-20
 
 **Bugfixes**
