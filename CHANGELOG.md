@@ -14,12 +14,12 @@
 
 **Bugfixes**
 
-- *General*: Fix one occurence of the tooltip not closing ([#545](https://github.com/gw2efficiency/issues/issues/545))
+- *General*: Fix the tooltip not closing in one case ([#545](https://github.com/gw2efficiency/issues/issues/545))
 
 **Chores**
 
 - *General*: Switch over to the new internal API client
-- *General*: Refactor the generic internal backend ([#13](https://github.com/gw2efficiency/issues/issues/13))
+- *General*: Finish refactor of the generic internal backend ([#13](https://github.com/gw2efficiency/issues/issues/13))
 - *General*: Move historic issues into the public repository ([#312](https://github.com/gw2efficiency/issues/issues/312))
 
 ---
