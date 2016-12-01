@@ -2,7 +2,7 @@
 
 **Features**
 
-- *General*: :santa: Add the christmas lottery
+- *General*: Add the christmas lottery :santa:
 
 **Bugfixes**
 
@@ -14,13 +14,13 @@
 
 **Bugfixes**
 
-- *General*: Fix one occurence of the tooltip not closing [#545](https://github.com/gw2efficiency/issues/issues/545)
+- *General*: Fix one occurence of the tooltip not closing ([#545](https://github.com/gw2efficiency/issues/issues/545))
 
 **Chores**
 
 - *General*: Switch over to the new internal API client
-- *General*: Refactor the generic internal backend [#13](https://github.com/gw2efficiency/issues/issues/13)
-- *General*: Move historic issues into the public repository [#312](https://github.com/gw2efficiency/issues/issues/312)
+- *General*: Refactor the generic internal backend ([#13](https://github.com/gw2efficiency/issues/issues/13))
+- *General*: Move historic issues into the public repository ([#312](https://github.com/gw2efficiency/issues/issues/312))
 
 ---
 
