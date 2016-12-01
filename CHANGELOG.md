@@ -7,6 +7,7 @@
 **Bugfixes**
 
 - *General:* Fix Firefox freezing for a lot of API calls
+- *Account/Statistics:* Fix playerbase statistics not getting generated
 
 ---
 
