@@ -1,3 +1,29 @@
+#### v4.193.16 &mdash; 2016-11-30
+
+**Features**
+
+- *General*: :santa: Add the christmas lottery
+
+**Bugfixes**
+
+- *General*: Fix Firefox freezing for a lot of API calls
+
+---
+
+#### v4.193.15 &mdash; 2016-11-29
+
+**Bugfixes**
+
+- *General*: Fix one occurence of the tooltip not closing [#545](https://github.com/gw2efficiency/issues/issues/545)
+
+**Chores**
+
+- *General*: Switch over to the new internal API client
+- *General*: Refactor the generic internal backend [#13](https://github.com/gw2efficiency/issues/issues/13)
+- *General*: Move historic issues into the public repository [#312](https://github.com/gw2efficiency/issues/issues/312)
+
+---
+
 #### v4.193.14 &mdash; 2016-11-22
 
 **Chores**
