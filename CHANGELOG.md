@@ -1,3 +1,11 @@
+#### v4.193.17 &mdash; 2016-12-01
+
+**Bugfixes**
+
+- *Account/Keys:* Fix account names for API keys ([#597](https://github.com/gw2efficiency/issues/issues/597))
+
+---
+
 #### v4.193.16 &mdash; 2016-11-30
 
 **Features**
