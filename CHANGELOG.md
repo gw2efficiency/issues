@@ -1,3 +1,11 @@
+#### v4.193.17 &mdash; 2016-12-07
+
+**Bugfixes**
+
+- *Community/Chat:* Fix emojis not rendering correctly
+
+---
+
 #### v4.193.17 &mdash; 2016-12-01
 
 **Bugfixes**
