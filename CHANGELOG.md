@@ -1,3 +1,38 @@
+#### 2016-12-09
+
+**Enhancements**
+
+- *Account/Achievements:* Hide daily achievements for the "Earnable AP" filter if the daily cap is reached ([#304](https://github.com/gw2efficiency/issues/issues/304))
+- *Account/Guilds:* Add an icon to show which guilds you are leading ([#602](https://github.com/gw2efficiency/issues/issues/602))
+- *Account/Overview:* Add an OpenSearch descriptor for the account search ([#210](https://github.com/gw2efficiency/issues/issues/210))
+- *Account/Statistics:* Add player statistics for Fresh Winterberries ([#606](https://github.com/gw2efficiency/issues/issues/606))
+- *Account/Statistics:* Add player statistics for mastery points ([#607](https://github.com/gw2efficiency/issues/issues/607))
+- *Account/Statistics:* Order leaderboards by descending playtime if there are ties ([#603](https://github.com/gw2efficiency/issues/issues/603))
+- *Account/Statistics:* Show shared rank behavior more clearly on the leaderboard ([#604](https://github.com/gw2efficiency/issues/issues/604))
+- *Account/Statistics:* Show the leaderboard for all values ([#605](https://github.com/gw2efficiency/issues/issues/605))
+- *Account/Wardrobe:* Add a little lock icon for skins that are hidden ingame ([#305](https://github.com/gw2efficiency/issues/issues/305))
+- *Crafting/Calculator:* Add the ability to export shopping lists to Excel ([#159](https://github.com/gw2efficiency/issues/issues/159))
+- *General:* Show the "charges" of some items (e.g. gathering tools) ([#601](https://github.com/gw2efficiency/issues/issues/601))
+- *Tradingpost/Overview:* Add tooltips to the items ([#596](https://github.com/gw2efficiency/issues/issues/596))
+
+**Bugfixes**
+
+- *Account/Characters:* Fix shared characters incorreclty requesting the API key ([#610](https://github.com/gw2efficiency/issues/issues/610))
+- *Account/Overview:* Fix search failing if the account did not fully load yet ([#308](https://github.com/gw2efficiency/issues/issues/308))
+- *Crafting/Calculator:* Fix shopping list item names sometimes overlapping ([#598](https://github.com/gw2efficiency/issues/issues/598))
+- *Crafting/Calculator:* Fix the tooltip sometimes not reloading the correct item data on subsequent hovers ([#187](https://github.com/gw2efficiency/issues/issues/187))
+- *Currencies/Gems:* Fix the gem to gold conversion not rerendering correctly ([#600](https://github.com/gw2efficiency/issues/issues/600))
+
+**Chores**
+
+- *Crafting/Calculator:* Add the recipes for "Koda's Warmth Enrichment" ([#609](https://github.com/gw2efficiency/issues/issues/609))
+- *Crafting/Calculator:* Add the recipes for "Memories of the Mother" & "Memories of the Father" ([#608](https://github.com/gw2efficiency/issues/issues/608))
+- *Crafting/Calculator:* Add the recipes for "Mini Aurine" ([#310](https://github.com/gw2efficiency/issues/issues/310))
+- *Crafting/Calculator:* Fix the "Lava Skull Backpack (Infused)" recipe ([#309](https://github.com/gw2efficiency/issues/issues/309))
+- *Currencies/Spiritshards:* Fix "Cured Thick Leather Square" only using 3 instead of 4 raw components ([#595](https://github.com/gw2efficiency/issues/issues/595))
+
+---
+
 #### 2016-12-07
 
 **Bugfixes**
