@@ -1,3 +1,25 @@
+#### 2016-12-17
+
+**Bugfixes**
+
+- *Account/Statistics:* Fix player leaderboards failing to generate in some cases ([#619](https://github.com/gw2efficiency/issues/issues/619))
+
+---
+
+#### 2016-12-14
+
+**Bugfixes**
+
+- *Account/Statistics:* Fix some statistics getting generated with too many decimal points ([#613](https://github.com/gw2efficiency/issues/issues/613))
+- *Account/Statistics:* Fix the "Mastery Points" statistics not taking into account all mastery points ([#614](https://github.com/gw2efficiency/issues/issues/614))
+- *Crafting/Calculator:* Fix "use own materials" failing when the crafted item is the result of an achievement ([#621](https://github.com/gw2efficiency/issues/issues/621))
+
+**Chores**
+
+- *Crafting/Calculator:* Update the recipe for "Endless Princess Doll Tonic" ([#622](https://github.com/gw2efficiency/issues/issues/622))
+
+---
+
 #### 2016-12-09
 
 **Enhancements**
