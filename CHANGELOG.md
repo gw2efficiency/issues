@@ -4,6 +4,10 @@
 
 - *Account/Statistics:* Fix player leaderboards failing to generate in some cases ([#619](https://github.com/gw2efficiency/issues/issues/619))
 
+**Internals**
+
+- Make sure that child jobs get queued even if parent jobs die
+
 ---
 
 ### 2016-12-14
