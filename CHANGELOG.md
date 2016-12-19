@@ -1,3 +1,15 @@
+### 2016-12-18
+
+**Bugfixes**
+
+- *Account/Characters:* Fix an API key getting required in the overview for some shared characters
+
+**Internals**
+
+- Improve the monitoring for backend jobs
+
+---
+
 ### 2016-12-17
 
 **Bugfixes**
@@ -283,7 +295,7 @@
 
 **Enhancements**
 
-- *Account/Overview:* Add hower for character values, showing detailed information ([#239](https://github.com/gw2efficiency/issues/issues/239))
+- *Account/Overview:* Add hover for character values, showing detailed information ([#239](https://github.com/gw2efficiency/issues/issues/239))
 
 ---
 
