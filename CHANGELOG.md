@@ -1,7 +1,19 @@
 ### 2016-12-23
 
+**Enhancements**
+
+- *Account/PvP:* Update the PVP panel for the new league system ([#618](https://github.com/gw2efficiency/issues/issues/618))
+- *Account/Achievements:* Move completed achievements to the bottom ([#629](https://github.com/gw2efficiency/issues/issues/629))
+- *Account/Achievements:* Clarify the "random achievement" button ([#630](https://github.com/gw2efficiency/issues/issues/630))
+- *Crafting/Calculator:* Take shared inventories into account ([#623](https://github.com/gw2efficiency/issues/issues/623))
+- *General:* Retry account names if api key invalid ([#631](https://github.com/gw2efficiency/issues/issues/631))
+
 **Chores**
 
+- *Account/Value:* Update the gemstore items ([#633](https://github.com/gw2efficiency/issues/issues/633))
+- *Account/Wallet:* Add icon for "Shard of Ascended Glory" ([#624](https://github.com/gw2efficiency/issues/issues/624))
+- *Crafting/Calculator:* Add recipes for "Mini Large Snowball" and similar ([#632](https://github.com/gw2efficiency/issues/issues/632))
+- *Crafting/Calculator:* Fix the "Fractal Capacitor" parts in Unbound ([#627](https://github.com/gw2efficiency/issues/issues/627))
 - *General:* Add two small footer ads for trial. [Read more about the ads here.](https://www.reddit.com/r/gw2efficiency/comments/5jx5cc/trialling_ads_on_gw2efficiency/)
 
 ---
