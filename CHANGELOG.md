@@ -1,12 +1,28 @@
+### 2016-12-23
+
+**Chores**
+
+- *General:* Add two small footer ads for trial. [Read more about the ads here.](https://www.reddit.com/r/gw2efficiency/comments/5jx5cc/trialling_ads_on_gw2efficiency/)
+
+---
+
+### 2016-12-21
+
+**Bugfixes**
+
+- *General:* Fix Firefox locking up on cache garbage collection ([#625](https://github.com/gw2efficiency/issues/issues/625))
+
+---
+
 ### 2016-12-18
 
 **Bugfixes**
 
-- *Account/Characters:* Fix an API key getting required in the overview for some shared characters
+- *Account/Characters:* Fix API keys getting incorrectly required in the character overview
 
 **Internals**
 
-- Improve the monitoring for backend jobs
+- Improve the monitoring for backend jobs ([#253](https://github.com/gw2efficiency/issues/issues/253))
 
 ---
 
