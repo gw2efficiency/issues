@@ -14,6 +14,7 @@
 - *Account/Wallet:* Add icon for "Shard of Ascended Glory" ([#624](https://github.com/gw2efficiency/issues/issues/624))
 - *Crafting/Calculator:* Add recipes for "Mini Large Snowball" and similar ([#632](https://github.com/gw2efficiency/issues/issues/632))
 - *Crafting/Calculator:* Fix the "Fractal Capacitor" parts in Unbound ([#627](https://github.com/gw2efficiency/issues/issues/627))
+- *Crafting/Calculator:* Add missing components for "Chest of Experimental Armor" ([#616](https://github.com/gw2efficiency/issues/issues/616))
 - *General:* Add two small footer ads for trial. [Read more about the ads here.](https://www.reddit.com/r/gw2efficiency/comments/5jx5cc/trialling_ads_on_gw2efficiency/)
 
 ---
