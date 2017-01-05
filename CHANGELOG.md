@@ -7,6 +7,7 @@
 **Chores**
 
 - *General:* Trial new ad network and layouts
+- *Community/Lottery:* Add the 2016 christmas lottery to the past lotteries
 
 ---
 
@@ -14,7 +15,7 @@
 
 **Features**
 
-- *General:* Add the regular lottery back
+- *Community/Lottery:* Add the regular lottery back
 
 ---
 
@@ -140,7 +141,7 @@
 
 **Features**
 
-- *General:* Add the christmas lottery :santa:
+- *Community/Lottery:* Add the christmas lottery :santa:
 
 **Bugfixes**
 
