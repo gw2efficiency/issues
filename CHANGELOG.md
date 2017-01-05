@@ -1,3 +1,23 @@
+### 2017-01-05
+
+**Bugfixes**
+
+- *General:* Fix a potential security issue - a user could see if an email existed in the database by mass-requesting password resets and looking at the error messages
+
+**Chores**
+
+- *General:* Trial new ad network and layouts
+
+---
+
+### 2017-01-01
+
+**Features**
+
+- *General:* Add the regular lottery back
+
+---
+
 ### 2016-12-23
 
 **Enhancements**
