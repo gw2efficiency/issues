@@ -1,3 +1,29 @@
+### 2017-01-07
+
+**Enhancements**
+
+- *Account/Achievements:* Exclude dailies from the "available" display if the daily cap is reached ([#644](https://github.com/gw2efficiency/issues/issues/644))
+- *Account/Achievements:* Exclude historic achievements when using the "Earnable AP" filter ([#638](https://github.com/gw2efficiency/issues/issues/638))
+- *Account/Achievements:* Show level and extenstion requirement for daily achievements ([#195](https://github.com/gw2efficiency/issues/issues/195))
+- *Account/Statistics:* Add player statistics for "Koda's Warmth Enrichment" ([#647](https://github.com/gw2efficiency/issues/issues/647))
+- *Account/Statistics:* Add player statistics for "Phospholuminescent Infusion" ([#645](https://github.com/gw2efficiency/issues/issues/645))
+- *Account/Statistics:* Add player statistics for "Winter's Heart Infusions" ([#646](https://github.com/gw2efficiency/issues/issues/646))
+- *Account/Statistics:* Add player statistics for gemstore toys ([#612](https://github.com/gw2efficiency/issues/issues/612))
+- *Account/Statistics:* Add player statistics for pvp league rating ([#642](https://github.com/gw2efficiency/issues/issues/642))
+- *Tradingpost/Overview:* Add the total ROI percentage ([#635](https://github.com/gw2efficiency/issues/issues/635))
+
+**Chores**
+
+- *Account/Statistics:* Update the item ids for "Preserved Queen Bee" ([#641](https://github.com/gw2efficiency/issues/issues/641))
+- *Account/Value:* Add values to the new PvP ascended gear ([#636](https://github.com/gw2efficiency/issues/issues/636))
+- *Crafting/Calculator*: Add recipes for legendary armor pieces ([#617](https://github.com/gw2efficiency/issues/issues/617))
+
+**Internals**
+
+- Fix the server getting slow when the job log gets full ([#643](https://github.com/gw2efficiency/issues/issues/643))
+
+---
+
 ### 2017-01-05
 
 **Bugfixes**
