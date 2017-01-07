@@ -2,6 +2,18 @@
 
 **Enhancements**
 
+- *Account/PvP:* Show league rating change for ranked games ([#649](https://github.com/gw2efficiency/issues/issues/649))
+
+**Chores**
+
+- *Account/Statistics:* Include missing gemstore toy items ([#648](https://github.com/gw2efficiency/issues/issues/648))
+
+---
+
+### 2017-01-06
+
+**Enhancements**
+
 - *Account/Achievements:* Exclude dailies from the "available" display if the daily cap is reached ([#644](https://github.com/gw2efficiency/issues/issues/644))
 - *Account/Achievements:* Exclude historic achievements when using the "Earnable AP" filter ([#638](https://github.com/gw2efficiency/issues/issues/638))
 - *Account/Achievements:* Show level and extenstion requirement for daily achievements ([#195](https://github.com/gw2efficiency/issues/issues/195))
