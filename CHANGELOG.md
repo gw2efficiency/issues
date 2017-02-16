@@ -1,3 +1,33 @@
+### 2017-02-16
+
+**Enhancements**
+
+- *Account/Guild:* Add the initial gold price to guild upgrades ([#276](https://github.com/gw2efficiency/issues/issues/276))
+- *Account/Search:* Add the option to filter by equipment status ([#675](https://github.com/gw2efficiency/issues/issues/675))
+- *Account/Search:* Add the option to group item into one stack ([#679](https://github.com/gw2efficiency/issues/issues/679))
+- *Account/Statistics:* Add "Black Lion Miniature Claim Tickets" to the player statistics ([#669](https://github.com/gw2efficiency/issues/issues/669))
+- *Account/Statistics:* Use the account age instead of the sum of all character ages ([#667](https://github.com/gw2efficiency/issues/issues/667))
+
+**Bugfixes**
+
+- *Account/Value:* Value Eternity as Sunrise + Twilight, instead of being valued as Eternity (and therefor being worth less) ([#681](https://github.com/gw2efficiency/issues/issues/681))
+- *General:* Fix export to Excel not triggering a download in Firefox ([#652](https://github.com/gw2efficiency/issues/issues/652))
+
+**Chores**
+
+- *Account/Statistics:* Add "Infinite Repair Contract" to the permanent contracts statistic ([#668](https://github.com/gw2efficiency/issues/issues/668))
+- *Account/Value:* Add Living World Season 1 reward values ([#654](https://github.com/gw2efficiency/issues/issues/654))
+- *Account/Value:* Add new gemstore items ([#676](https://github.com/gw2efficiency/issues/issues/676))
+- *Crafting/Calculator:* Add new mystic forge recipes ([#677](https://github.com/gw2efficiency/issues/issues/677))
+- *Crafting/Calculator:* Add recipe for "The HMS Divinity" ([#671](https://github.com/gw2efficiency/issues/issues/671))
+- *Crafting/Calculator:* Fix minor recipe inconsistencies for generation 2 legendaries ([#672](https://github.com/gw2efficiency/issues/issues/672))
+
+**Internals**
+
+- *General:* Update the translations ([#670](https://github.com/gw2efficiency/issues/issues/670))
+
+---
+
 ### 2017-01-22
 
 **Features**
