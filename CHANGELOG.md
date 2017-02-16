@@ -1,3 +1,16 @@
+### 2017-01-22
+
+**Features**
+
+- *Dungeons*: Migrade the dungeon page to a temporary daily page
+- *Chat*: Move to a public [Discord](https://discord.gg/ZgKdTra)
+
+**Internals**
+
+- Move currency, gathering, worldbosses, sharing, dungeons and lottery into the new backend ([#24](https://github.com/gw2efficiency/issues/issues/24))
+
+---
+
 ### 2017-01-07
 
 **Enhancements**
