@@ -1,3 +1,15 @@
+### 2017-02-18
+
+**Enhancements**
+
+- *Account/Statistics:* Add "Jade Shards" to the player statistics ([#684](https://github.com/gw2efficiency/issues/issues/684))
+
+**Bugfixes**
+
+- *Account/Statistics:* Fix Eternity not being counted as a legendary item or legendary skin ([#683](https://github.com/gw2efficiency/issues/issues/683))
+
+---
+
 ### 2017-02-16
 
 **Enhancements**
@@ -10,7 +22,6 @@
 
 **Bugfixes**
 
-- *Account/Value:* Value Eternity as Sunrise + Twilight, instead of being valued as Eternity (and therefor being worth less) ([#681](https://github.com/gw2efficiency/issues/issues/681))
 - *General:* Fix export to Excel not triggering a download in Firefox ([#652](https://github.com/gw2efficiency/issues/issues/652))
 
 **Chores**
