@@ -43,12 +43,12 @@
 
 **Features**
 
-- *Dungeons*: Migrade the dungeon page to a temporary daily page
+- *Dungeons*: Migrate the dungeon page to a temporary daily page
 - *Chat*: Move to a public [Discord](https://discord.gg/ZgKdTra)
 
 **Internals**
 
-- Move currency, gathering, worldbosses, sharing, dungeons and lottery into the new backend ([#24](https://github.com/gw2efficiency/issues/issues/24))
+- Move currency, gathering, world bosses, sharing, dungeons and lottery into the new backend ([#24](https://github.com/gw2efficiency/issues/issues/24))
 
 ---
 
@@ -99,7 +99,7 @@
 **Chores**
 
 - *General:* Trial new ad network and layouts
-- *Community/Lottery:* Add the 2016 christmas lottery to the past lotteries
+- *Community/Lottery:* Add the 2016 Christmas lottery to the past lotteries
 
 ---
 
@@ -252,7 +252,7 @@
 
 - *General:* Switch over to the new internal API client
 - *General:* Finish refactor of the generic internal backend ([#13](https://github.com/gw2efficiency/issues/issues/13))
-- *General:* Move historic issues into the public repository ([#312](https://github.com/gw2efficiency/issues/issues/312))
+- *General:* Move historical issues into the public repository ([#312](https://github.com/gw2efficiency/issues/issues/312))
 
 ---
 
@@ -667,7 +667,7 @@
 
 **Bugfixes**
 
-- *Account/Value:* Remove value of "Grand Weapon Crate", "Chest of Insignia" and "Chest of Loyality" ([#158](https://github.com/gw2efficiency/issues/issues/158))
+- *Account/Value:* Remove value of "Grand Weapon Crate", "Chest of Insignia" and "Chest of Loyalty" ([#158](https://github.com/gw2efficiency/issues/issues/158))
 - *Crafting/Calculator:* Remove recipe for "Glob of Coagulated Mists Essence" and "Shard of Crystallized Mists Essence" ([#155](https://github.com/gw2efficiency/issues/issues/155))
 
 ---
