@@ -1,3 +1,30 @@
+### 2017-03-02
+
+**Features**
+
+- *Dungeons:* Add raid information with automatic weekly completion status ([#700](https://github.com/gw2efficiency/issues/issues/700))
+
+**Enhancements**
+
+- *Dungeons:* Toggle daily completion status of dungeons automatically ([#699](https://github.com/gw2efficiency/issues/issues/699))
+- *Account/Statistics:* Add "Unlocked Home Cats" to the player statistics ([#698](https://github.com/gw2efficiency/issues/issues/698))
+- *Account/Statistics:* Add "Unlocked Home Nodes" to the player statistics ([#697](https://github.com/gw2efficiency/issues/issues/697))
+- *Account/Statistics:* Add "Gifts of Exploration" to the player statistics ([#696](https://github.com/gw2efficiency/issues/issues/696))
+- *Crafting/Recipe Overview:* Add pagination buttons to the bottom of the page ([#688](https://github.com/gw2efficiency/issues/issues/688))
+- *General:* Make desaturated buttons slightly more visible ([#689](https://github.com/gw2efficiency/issues/issues/689))
+- *Community/Lottery:* Handle lottery entries with multiple API keys more smoothly ([#692](https://github.com/gw2efficiency/issues/issues/692))
+
+**Bugfixes**
+
+- *Crafting/Precursors & Legendaries:* Fix precursors of generation 2 legendaries being ignored if "craft precursors" was set to "no" ([#694](https://github.com/gw2efficiency/issues/issues/694))
+
+**Chores**
+
+- *Account/Value:* Add new gemstore items ([#690](https://github.com/gw2efficiency/issues/issues/690))
+- *Crafting/Calculator:* Add recipes for new Caladbolg weapons ([#693](https://github.com/gw2efficiency/issues/issues/693))
+
+---
+
 ### 2017-02-18
 
 **Enhancements**
