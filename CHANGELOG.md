@@ -1,3 +1,17 @@
+### 2017-03-03
+
+**Enhancements**
+
+- *Account/Statistics:* Add ascended materials to player statistics ([#704](https://github.com/gw2efficiency/issues/issues/704))
+- *Dungeons:* Show "Dungeon Frequenter" status on dungeon page ([#703](https://github.com/gw2efficiency/issues/issues/703))
+
+**Bugfixes**
+
+- *Account/Achievements:* Remove flavor code from achievement descriptions ([#705](https://github.com/gw2efficiency/issues/issues/705))
+- *Dungeons:* Fix hidden dungeons not resetting correctly ([#706](https://github.com/gw2efficiency/issues/issues/706))
+
+---
+
 ### 2017-03-02
 
 **Features**
