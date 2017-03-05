@@ -23,8 +23,6 @@ The one exception to this are ascended boxes, which use the average value across
 
 ### Gemstore items
 
-:construction: **This is not supported yet.** :construction:
-
 While a lot of gemstore items are acquired for free from dailies or events, they definitely hold a value. This value is the default gem price (without taking sales into account) at the current gold to gem conversion rate.
 
 ## Account value
@@ -45,8 +43,6 @@ The value of unlocked dyes and miniatures equals the value of the items needed t
 
 ### Outfits
 
-:construction: **This is not supported yet.** :construction:
-
 Outfits are values by the price (either in gold, items or gems) that is payed to unlock them.
 
 ### Wallet
@@ -62,9 +58,7 @@ Every currency in the wallet is valued at the currently best *permanent & safe* 
 - **Laurels:** Best conversion excluding once-per-account items
 - **Karma / Badges of Honor / Guild Commendations / Claim Tickets:** Best conversion rate
 
-### Crafting & recipes
-
-:construction: **This is not supported yet.** :construction:
+### Crafting & Recipes
 
 - The value of a crafting profession equals the cost of leveling the crafting profession to that rating.
 - The value of unlocked recipes equals the cost of the recipe itself.
