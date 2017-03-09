@@ -1,3 +1,16 @@
+### 2017-03-09
+
+**Enhancements**
+
+- *User/API keys:* Order API keys alphabetically by account name ([#709](https://github.com/gw2efficiency/issues/issues/709))
+
+**Chores**
+
+- *Account/Statistics:* Update the pvp statistics to the new league ([#708](https://github.com/gw2efficiency/issues/issues/708))
+- *Account/Value:* Add new gemstore items ([#707](https://github.com/gw2efficiency/issues/issues/707))
+
+---
+
 ### 2017-03-03
 
 **Enhancements**
