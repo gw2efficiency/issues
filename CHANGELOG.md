@@ -1,3 +1,15 @@
+### 2017-03-13
+
+**Enhancements**
+
+- *User/API keys:* Sort API keys by added date. This essentially reverts the last change, since ordering them alphabetically broke the flow for more users than expected ([#710](https://github.com/gw2efficiency/issues/issues/710))
+
+**Chores**
+
+- *Crafting/Calculator:* Add new daily cooldowns for the grandmaster marks ([#711](https://github.com/gw2efficiency/issues/issues/711))
+
+---
+
 ### 2017-03-09
 
 **Enhancements**
