@@ -1,3 +1,12 @@
+### 2017-03-14
+
+**Bugfixes**
+
+- *Account/PvP:* Handle past pvp seasons with ratings instead of divisions ([#713](https://github.com/gw2efficiency/issues/issues/713))
+- *Crafting/Calculator:* Fix searching for short items (e.g. "Bo") ([#712](https://github.com/gw2efficiency/issues/issues/712))
+
+---
+
 ### 2017-03-13
 
 **Enhancements**
