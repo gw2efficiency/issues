@@ -1,3 +1,30 @@
+### 2017-04-02
+
+**Enhancements**
+
+- *Lottery:* Show the contestants and draw date for daily lotteries ([#720](https://github.com/gw2efficiency/issues/issues/720))
+- *Account/Achievements:* Add a filter for hidden achievements ([#715](https://github.com/gw2efficiency/issues/issues/715))
+
+**Bugfixes**
+
+- *Crafting/Calculator:* Fix crafts without a daily cooldown showing up in the daily breakdown ([#719](https://github.com/gw2efficiency/issues/issues/719))
+- *Dungeons:* Fix daily completion for story dungeons ([#722](https://github.com/gw2efficiency/issues/issues/722))
+
+**Chores**
+
+- *Account/Guild:* Add the new SAB upgrades ([#721](https://github.com/gw2efficiency/issues/issues/721))
+- *Account/Value:* Add new gemstore items ([#723](https://github.com/gw2efficiency/issues/issues/723))
+
+---
+
+### 2017-04-01
+
+**Features**
+
+- *Lottery:* :rabbit: Add the Easter lottery
+
+---
+
 ### 2017-03-14
 
 **Bugfixes**
