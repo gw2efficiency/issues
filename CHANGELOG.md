@@ -1,3 +1,11 @@
+### 2017-04-08
+
+**Features**
+
+- *Account/SAB:* Show progression of characters for the Super Adventure Box zones, unlocks and songs
+
+---
+
 ### 2017-04-02
 
 **Enhancements**
