@@ -1,3 +1,33 @@
+### 2017-05-16
+
+**Bugfixes**
+
+- Fix the session expiring when the browser gets closed
+- Fix logout not working with slow API response times
+- Fix some links pointing to HTTP instead of HTTPS
+
+---
+
+### 2017-05-14
+
+**Bugfixes**
+
+- Fix encoding issues for all new API requests
+- Fix form targeting for some versions of Firefox
+- Fix login names being wrongly case-sensitive
+
+---
+
+### 2017-05-13
+
+**Internals**
+
+- Refactor the last parts of the backend ([#24](https://github.com/gw2efficiency/issues/issues/24))
+- Find and migrate to a new server and hoster ([#682](https://github.com/gw2efficiency/issues/issues/682))
+- Clean up the repository history ([#311](https://github.com/gw2efficiency/issues/issues/311))
+
+---
+
 ### 2017-04-08
 
 **Features**
