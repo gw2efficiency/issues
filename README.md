@@ -17,6 +17,13 @@
 ---
 
 <p align="center">
+  <b><a href="https://github.com/gw2efficiency/issues/projects/3">Click here to open the current kanban board.</a></b><br>
+  <sub>Or just switch to the "Projects" tab in this repository, if that's what you fancy.</sub>
+</p>
+
+---
+
+<p align="center">
   <b><a href="https://github.com/gw2efficiency/issues/blob/master/CHANGELOG.md">Click here to open the changelog.</a></b><br>
   <sub>Lists all features, enhancements and bugfixes and when they happend.</sub>
 </p>
