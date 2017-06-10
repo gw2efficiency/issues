@@ -1,3 +1,25 @@
+### 2017-05-20
+
+**Enhancements**
+
+- Show exact missing permission on the API key page ([#736](https://github.com/gw2efficiency/issues/issues/736))
+- Add ordering by next birthday to the character page ([#739](https://github.com/gw2efficiency/issues/issues/739))
+- Show decimals for appropriate statistics on graphs ([#734](https://github.com/gw2efficiency/issues/issues/734))
+- Add "g/s/c" when copying gold values out fo the website ([#730](https://github.com/gw2efficiency/issues/issues/730))
+
+**Bugfixes**
+
+- Fix the range selector sizing for charts with long labels ([#725](https://github.com/gw2efficiency/issues/issues/725))
+- Fix that hiding some gathering nodes hid multiple nodes ([#742](https://github.com/gw2efficiency/issues/issues/742))
+- Fix parsing dates on Safari, e.g. in the investment tracker ([#743](https://github.com/gw2efficiency/issues/issues/743))
+
+**Chores**
+
+- Update mystic forge recipes, including "Perfected Envoy" sets and "Flames of War" legendary ([#740](https://github.com/gw2efficiency/issues/issues/740))
+- Add new gemstore items ([#737](https://github.com/gw2efficiency/issues/issues/737))
+
+---
+
 ### 2017-05-16
 
 **Bugfixes**
