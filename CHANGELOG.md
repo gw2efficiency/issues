@@ -1,3 +1,25 @@
+### 2017-06-10
+
+**Enhancements**
+
+- Add new player statistics (Legendary Spikes, Gifts of Battle, Legendaries based on Type) ([#755](https://github.com/gw2efficiency/issues/issues/755))
+- Add "type" filter to the legendary crafting tab ([#758](https://github.com/gw2efficiency/issues/issues/758))
+
+**Bugfixes**
+
+- Fix a mixup of a phospholuminescent infusion and a luminescent refractor for the account statistics ([#763](https://github.com/gw2efficiency/issues/issues/763))
+
+**Chores**
+
+- Add "Infinite Unbound Magic Gathering Tools" to the account statistics ([#761](https://github.com/gw2efficiency/issues/issues/761))
+- Add missing item values for ascended items from the first and second raid wings, fractals, world vs world and living world ([#756](https://github.com/gw2efficiency/issues/issues/756))
+- Add legendary armor to the legendary crafting tab ([#757](https://github.com/gw2efficiency/issues/issues/757))
+- Add recipes for the "Warbringer" backpack components ([#759](https://github.com/gw2efficiency/issues/issues/759))
+- Update gemstore items ([#760](https://github.com/gw2efficiency/issues/issues/760))
+- Add Caladbolg Regrown weapons to the ascended crafting tab ([#750](https://github.com/gw2efficiency/issues/issues/750))
+
+---
+
 ### 2017-05-20
 
 **Enhancements**
