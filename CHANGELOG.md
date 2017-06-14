@@ -1,3 +1,11 @@
+### 2017-06-11
+
+**Enhancements**
+
+- Add new player statistics (PvP Heroes, Mailcarriers, Gliders, Immortal Weapons, Mastery Points Earned) ([#767](https://github.com/gw2efficiency/issues/issues/767))
+
+---
+
 ### 2017-06-10
 
 **Enhancements**
