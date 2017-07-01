@@ -1,8 +1,24 @@
+### 2017-07-01
+
+**Features**
+
+- *Account/Value:* Add unlocked pvp heroes into the calculation ([#773](https://github.com/gw2efficiency/issues/issues/773))
+- *Account/Value:* Add unlocked mailcarriers into the calculation ([#773](https://github.com/gw2efficiency/issues/issues/773))
+- *Account/Value:* Add unlocked home instance nodes into the calculation ([#773](https://github.com/gw2efficiency/issues/issues/773))
+- *Account/Value:* Add unlocked gliders into the calculation ([#773](https://github.com/gw2efficiency/issues/issues/773))
+
+**Chores**
+
+- *Crafting/Calculator:* Add recipes for Warbringer and Warcry ([#762](https://github.com/gw2efficiency/issues/issues/762))
+- *Account/Value:* Add new gemstore items ([#774](https://github.com/gw2efficiency/issues/issues/774))
+
+---
+
 ### 2017-06-11
 
 **Enhancements**
 
-- Add new player statistics (PvP Heroes, Mailcarriers, Gliders, Immortal Weapons, Mastery Points Earned) ([#767](https://github.com/gw2efficiency/issues/issues/767))
+- *Account/Statistics:* Add PvP Heroes, Mailcarriers, Gliders, Immortal Weapons, Mastery Points Earned ([#767](https://github.com/gw2efficiency/issues/issues/767))
 
 ---
 
@@ -10,21 +26,21 @@
 
 **Enhancements**
 
-- Add new player statistics (Legendary Spikes, Gifts of Battle, Legendaries based on Type) ([#755](https://github.com/gw2efficiency/issues/issues/755))
-- Add "type" filter to the legendary crafting tab ([#758](https://github.com/gw2efficiency/issues/issues/758))
+- *Account/Statistics:* Add Legendary Spikes, Gifts of Battle, Legendaries based on Type ([#755](https://github.com/gw2efficiency/issues/issues/755))
+- *Crafting/Legendaries:* Add "type" filter ([#758](https://github.com/gw2efficiency/issues/issues/758))
 
 **Bugfixes**
 
-- Fix a mixup of a phospholuminescent infusion and a luminescent refractor for the account statistics ([#763](https://github.com/gw2efficiency/issues/issues/763))
+- *Account/Statistics:* Fix a mixup of a phospholuminescent infusion and a luminescent refractor ([#763](https://github.com/gw2efficiency/issues/issues/763))
 
 **Chores**
 
-- Add "Infinite Unbound Magic Gathering Tools" to the account statistics ([#761](https://github.com/gw2efficiency/issues/issues/761))
-- Add missing item values for ascended items from the first and second raid wings, fractals, world vs world and living world ([#756](https://github.com/gw2efficiency/issues/issues/756))
-- Add legendary armor to the legendary crafting tab ([#757](https://github.com/gw2efficiency/issues/issues/757))
-- Add recipes for the "Warbringer" backpack components ([#759](https://github.com/gw2efficiency/issues/issues/759))
-- Update gemstore items ([#760](https://github.com/gw2efficiency/issues/issues/760))
-- Add Caladbolg Regrown weapons to the ascended crafting tab ([#750](https://github.com/gw2efficiency/issues/issues/750))
+- *Account/Statistics:* Add "Infinite Unbound Magic Gathering Tools" to the list of gemstore tools ([#761](https://github.com/gw2efficiency/issues/issues/761))
+- *Account/Value:* Add missing item values for ascended items from the first and second raid wings, fractals, world vs world and living world ([#756](https://github.com/gw2efficiency/issues/issues/756))
+- *Crafting/Legendaries:* Add legendary armor to the legendary crafting tab ([#757](https://github.com/gw2efficiency/issues/issues/757))
+- *Crafting/Calculator:* Add recipes for the "Warbringer" backpack components ([#759](https://github.com/gw2efficiency/issues/issues/759))
+- *Account/Value:* Update gemstore items ([#760](https://github.com/gw2efficiency/issues/issues/760))
+- *Crafting/Ascended:* Add Caladbolg Regrown weapons to the ascended crafting tab ([#750](https://github.com/gw2efficiency/issues/issues/750))
 
 ---
 
@@ -32,21 +48,21 @@
 
 **Enhancements**
 
-- Show exact missing permission on the API key page ([#736](https://github.com/gw2efficiency/issues/issues/736))
-- Add ordering by next birthday to the character page ([#739](https://github.com/gw2efficiency/issues/issues/739))
-- Show decimals for appropriate statistics on graphs ([#734](https://github.com/gw2efficiency/issues/issues/734))
-- Add "g/s/c" when copying gold values out fo the website ([#730](https://github.com/gw2efficiency/issues/issues/730))
+- *General:* Show exact missing permission on the API key page ([#736](https://github.com/gw2efficiency/issues/issues/736))
+- *Account/Characters:* Add ordering by next birthday to the character page ([#739](https://github.com/gw2efficiency/issues/issues/739))
+- *General:* Show decimals for appropriate statistics on graphs ([#734](https://github.com/gw2efficiency/issues/issues/734))
+- *General:* Add "g/s/c" when copying gold values out fo the website ([#730](https://github.com/gw2efficiency/issues/issues/730))
 
 **Bugfixes**
 
-- Fix the range selector sizing for charts with long labels ([#725](https://github.com/gw2efficiency/issues/issues/725))
-- Fix that hiding some gathering nodes hid multiple nodes ([#742](https://github.com/gw2efficiency/issues/issues/742))
-- Fix parsing dates on Safari, e.g. in the investment tracker ([#743](https://github.com/gw2efficiency/issues/issues/743))
+- *General:* Fix the range selector sizing for charts with long labels ([#725](https://github.com/gw2efficiency/issues/issues/725))
+- *Gathering:* Fix that hiding some gathering nodes hid multiple nodes ([#742](https://github.com/gw2efficiency/issues/issues/742))
+- *General:* Fix parsing dates on Safari, e.g. in the investment tracker ([#743](https://github.com/gw2efficiency/issues/issues/743))
 
 **Chores**
 
-- Update mystic forge recipes, including "Perfected Envoy" sets and "Flames of War" legendary ([#740](https://github.com/gw2efficiency/issues/issues/740))
-- Add new gemstore items ([#737](https://github.com/gw2efficiency/issues/issues/737))
+- *Crafting/Calculator:* Update mystic forge recipes, including "Perfected Envoy" sets and "Flames of War" legendary ([#740](https://github.com/gw2efficiency/issues/issues/740))
+- *Account/Value:* Add new gemstore items ([#737](https://github.com/gw2efficiency/issues/issues/737))
 
 ---
 
@@ -54,9 +70,9 @@
 
 **Bugfixes**
 
-- Fix the session expiring when the browser gets closed
-- Fix logout not working with slow API response times
-- Fix some links pointing to HTTP instead of HTTPS
+- *General:* Fix the session expiring when the browser gets closed
+- *General:* Fix logout not working with slow API response times
+- *General:* Fix some links pointing to HTTP instead of HTTPS
 
 ---
 
@@ -64,9 +80,9 @@
 
 **Bugfixes**
 
-- Fix encoding issues for all new API requests
-- Fix form targeting for some versions of Firefox
-- Fix login names being wrongly case-sensitive
+- *General:* Fix encoding issues for all new API requests
+- *General:* Fix form targeting for some versions of Firefox
+- *General:* Fix login names being wrongly case-sensitive
 
 ---
 
@@ -74,9 +90,9 @@
 
 **Internals**
 
-- Refactor the last parts of the backend ([#24](https://github.com/gw2efficiency/issues/issues/24))
-- Find and migrate to a new server and hoster ([#682](https://github.com/gw2efficiency/issues/issues/682))
-- Clean up the repository history ([#311](https://github.com/gw2efficiency/issues/issues/311))
+- *General:* Refactor the last parts of the backend ([#24](https://github.com/gw2efficiency/issues/issues/24))
+- *General:* Find and migrate to a new server and hoster ([#682](https://github.com/gw2efficiency/issues/issues/682))
+- *General:* Clean up the repository history ([#311](https://github.com/gw2efficiency/issues/issues/311))
 
 ---
 
