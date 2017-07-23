@@ -11,12 +11,12 @@
 
 **Bugfixes**
 
-*Account/Miniatures:* Fix ordering when choosing name, rarity or order
+- *Account/Miniatures:* Fix ordering when choosing name, rarity or order
 
 **Chores**
 
-*Account/Statistics:* Update items for tonics and champion bags
-*Supporters:* Update the list of donators and patreons
+- *Account/Statistics:* Update items for tonics and champion bags
+- *Supporters:* Update the list of donators and patreons
 
 ---
 
