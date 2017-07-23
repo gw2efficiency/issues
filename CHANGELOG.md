@@ -1,3 +1,25 @@
+### 2017-07-23
+
+**Features**
+
+- *Account/Recipes:* Add page for showing unlocked recipes on the account
+
+**Enhancements**
+
+- *General:* Improve the night mode rendering on all pages
+- *Account/Statistics:* Include legendary insights from items, e.g. legendary armor (Thanks to @atjeff) ([#678](https://github.com/gw2efficiency/issues/issues/678))
+
+**Bugfixes**
+
+*Account/Miniatures:* Fix ordering when choosing name, rarity or order
+
+**Chores**
+
+*Account/Statistics:* Update items for tonics and champion bags
+*Supporters:* Update the list of donators and patreons
+
+---
+
 ### 2017-07-04
 
 **Features**
