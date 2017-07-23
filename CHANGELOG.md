@@ -1,3 +1,18 @@
+### 2017-07-04
+
+**Features**
+
+- *General:* Add a first rough nightmode ([#51](https://github.com/gw2efficiency/issues/issues/51))
+
+**Bugfixes**
+
+- *Account/Dyes:* Fix dye sets for gemstore dyes missing ([#775](https://github.com/gw2efficiency/issues/issues/775))
+- *Account/Characters:* Fix sharing for accounts with spaces ([#776](https://github.com/gw2efficiency/issues/issues/776))
+- *Account/PvP:* Fix rating limits for new season ([#777](https://github.com/gw2efficiency/issues/issues/777))
+- *Account/Statistics:* Fix pvp statistics to always use the current season ([#777](https://github.com/gw2efficiency/issues/issues/777))
+
+---
+
 ### 2017-07-01
 
 **Features**
