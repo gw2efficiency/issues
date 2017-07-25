@@ -1,3 +1,23 @@
+### 2017-07-24
+
+**Features**
+
+- *Account/PvP Heroes:* Add page for showing unlocked pvp heroes on the account
+- *Account/Mailcarriers:* Add page for showing unlocked mailcarriers on the account
+- *Account/Outfits:* Add page for showing unlocked outfits on the account
+- *Account/Finishers:* Add page for showing unlocked finishers on the account
+- *Account/Gliders:* Add page for showing unlocked gliders on the account
+- *Account/Home Nodes:* Add page for showing unlocked home instance nodes on the account
+- *Account/Home Cats:* Add page for showing unlocked home instance cats on the account
+- *Account/Shared Inventory:* Add page for showing the shared inventory
+- *Account/Statistics:* Add "luck" to the player statistics (as the sum from essence items) (Thanks to [@atjeff](https://github.com/atjeff))
+
+**Enhancements**
+
+- *Account/Recipes:* Open the wiki when clicking on a recipe
+
+---
+
 ### 2017-07-23
 
 **Features**
@@ -7,7 +27,7 @@
 **Enhancements**
 
 - *General:* Improve the night mode rendering on all pages
-- *Account/Statistics:* Include legendary insights from items, e.g. legendary armor (Thanks to @atjeff) ([#678](https://github.com/gw2efficiency/issues/issues/678))
+- *Account/Statistics:* Include legendary insights from items, e.g. legendary armor (Thanks to [@atjeff](https://github.com/atjeff)) ([#678](https://github.com/gw2efficiency/issues/issues/678))
 
 **Bugfixes**
 
