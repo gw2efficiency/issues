@@ -1,3 +1,17 @@
+### 2017-08-01
+
+**Features**
+
+- *Account/Tonics:* Add a page to show acquired tonics on the account
+- *Account/Value:* Add items and coins up for collection in the tradingpost
+
+**Chores**
+
+- *Account/Value:* Update gemstore items
+- *Dungeons:* Update fractal level islands
+
+---
+
 ### 2017-07-24
 
 **Features**
