@@ -1,3 +1,29 @@
+### 2017-08-06
+
+**Features**
+
+- *Tradingpost/Delivery Box:* Add a page to show the current delivery box, including auto-refresh and notifications
+- *Account/Gemstore Account Upgrades:* Add a page to see all gemstore items of the account (reachable from the account overview)
+- *Account/Statistics:* Add legendary trinkets, liquid aurillium and celestial infusions
+
+**Enhancements**
+
+- *Account/Statistics:* Exclude statistics from game masters
+- *General:* Persist login sessions after server crashes (after this release)
+- *General:* Update the donation buttons
+
+**Bugs**
+
+- *General:* Fix the client sometimes initializing with a invalid API key
+- *General:* Fix the dashboard for russian languages ([#786](https://github.com/gw2efficiency/issues/issues/786))
+
+**Chores**
+
+- *Account/Cats:* Add Simon the celestial cat ([#787](https://github.com/gw2efficiency/issues/issues/787))
+- *Account/Value:* Add value to new ascended items
+
+---
+
 ### 2017-08-01
 
 **Features**
