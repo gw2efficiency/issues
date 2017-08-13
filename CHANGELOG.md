@@ -1,3 +1,15 @@
+### 2017-08-13
+
+**Features**
+
+- *Daily:* Added a page to manage daily cooldowns ([#62](https://github.com/gw2efficiency/issues/issues/62))
+
+**Chores**
+
+- *General:* Added a countdown to the expansion with our affiliate link
+
+---
+
 ### 2017-08-06
 
 **Features**
