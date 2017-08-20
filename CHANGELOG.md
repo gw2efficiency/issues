@@ -1,3 +1,31 @@
+### 2017-08-20
+
+**Enhancements**
+
+- *Daily:* Ignore changing dailies inside hidden groups, causing the group to stay hidden
+- *Daily:* Add a toggle to expand / collapse all group
+- *Daily:* Automatically reload official dailies on daily reset
+- *Daily:* Import completion status of dungeon dailies in an interval instead of on pageload
+- *Daily:* Show a timeline/heatmap of completed dailies
+- *Account/Recipes:* Show the icon of the output instead of the recipe icons
+- *Account/Minis:* Open the wiki when clicking on a mini
+- *Account/Dyes:* Add a wiki link for each dye
+- *Account/Achievements:* Add the ability to filter mastery points by their region
+
+**Bugfixes**
+
+- *Daily:* Fix the t1-3 fractal dailies not being filtered out for some languages
+- *Account/Recipes:* Add "Jeweler" as a filter option
+
+**Chores**
+
+- *Account/Home Cats:* Add the missing home instance cats
+- *Gathering:* Add missing permanent gathering nodes ([#781](https://github.com/gw2efficiency/issues/issues/781), [#749](https://github.com/gw2efficiency/issues/issues/749))
+- *Contributors:* Update the list of patreons and donators
+- *Account/Value:* Update gemstore items
+
+---
+
 ### 2017-08-13
 
 **Features**
@@ -24,7 +52,7 @@
 - *General:* Persist login sessions after server crashes (after this release)
 - *General:* Update the donation buttons
 
-**Bugs**
+**Bugfixes**
 
 - *General:* Fix the client sometimes initializing with a invalid API key
 - *General:* Fix the dashboard for russian languages ([#786](https://github.com/gw2efficiency/issues/issues/786))
