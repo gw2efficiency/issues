@@ -1,3 +1,34 @@
+### 2017-09-02
+
+**Features**
+
+- *Account/Characters:* Change to tabular design with more condensed information ([#31](https://github.com/gw2efficiency/issues/issues/31))
+- *Crafting/Characters:* Include amounts and options (material price, use own materials, etc.) into the share link ([#258](https://github.com/gw2efficiency/issues/issues/258))
+
+**Enhancements**
+
+- *Account/Statistics:* Add "Orrian Pearls" to the player statistics ([#810](https://github.com/gw2efficiency/issues/issues/810))
+- *Crafting/Calculator:* Add the option to sort the shopping list by price & quantity
+
+**Bugfixes**
+
+- *Account/Characters:* Fix wrong character birthdays due to leap year
+- *Account/Gemstore Unlocks:* Add bag upgrades (previously counted to each characters' value)
+- *Account/PvP:* Fix the rank point requirement for low ranks
+- *Account/Value:* Exclude beta characters from the account value
+- *Crafting/Calculator:* Use the selling price of items if the buy price does not exist (and vice versa) ([#272](https://github.com/gw2efficiency/issues/issues/272))
+- *General:* When linking to the wiki, use the wiki of the user's language
+
+**Chores**
+
+- *Account/Statistics:* Add non-counted liquid aurillium infusions
+- *Account/Value:* Update the gemstore items
+- *Crafting/Calculator:* Add recipes for Gifts of PvP / WvW legendary armour
+- *Daily:* Add the fractal challenge motes to the fractal dailies
+- *Gathering:* Update the optimal order for nodes
+- *Supporters:* Updated donators and patrons list
+- *Translations:* Update the Portuguese and Russian translations ([#791](https://github.com/gw2efficiency/issues/issues/791), [#796](https://github.com/gw2efficiency/issues/issues/796))
+
 ### 2017-08-20
 
 **Enhancements**
