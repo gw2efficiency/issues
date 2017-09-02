@@ -3,7 +3,7 @@
 **Features**
 
 - *Account/Characters:* Change to tabular design with more condensed information ([#31](https://github.com/gw2efficiency/issues/issues/31))
-- *Crafting/Characters:* Include amounts and options (material price, use own materials, etc.) into the share link ([#258](https://github.com/gw2efficiency/issues/issues/258))
+- *Crafting/Calculator:* Include amounts and options (material price, use own materials, etc.) into the share link ([#258](https://github.com/gw2efficiency/issues/issues/258))
 
 **Enhancements**
 
