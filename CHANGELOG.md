@@ -29,6 +29,8 @@
 - *Supporters:* Updated donators and patrons list
 - *Translations:* Update the Portuguese and Russian translations ([#791](https://github.com/gw2efficiency/issues/issues/791), [#796](https://github.com/gw2efficiency/issues/issues/796))
 
+---
+
 ### 2017-08-20
 
 **Enhancements**
