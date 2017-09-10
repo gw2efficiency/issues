@@ -1,3 +1,17 @@
+### 2017-09-10
+
+**Bugfixes**
+
+- *Crafting/Calculator:* Move the crafting calculator link to a different format, which supports longer recipe lists ([#814](https://github.com/gw2efficiency/issues/issues/814))
+- *General:* Fix error splash when hovering over an unknown item ([#817](https://github.com/gw2efficiency/issues/issues/817))
+
+**Chores**
+
+- *Supporters:* Updated donators and patrons list
+- *General:* Reduce the download size of the website by roughly 75%
+
+---
+
 ### 2017-09-02
 
 **Features**
