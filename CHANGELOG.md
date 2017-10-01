@@ -1,3 +1,40 @@
+### 2017-10-01
+
+**Enhancements**
+
+- *Account/Statistics:* Add "Ascended Shards of Glory", "Trade Contracts", "Elegy Mosaics" and "Testimony of Heroics" to the player statistics
+- *Community/Lottery:* Group past monthly lotteries with multiple daily giveaways together
+
+**Bugfixes**
+
+- *Account/Achievements:* Fix SAB achievements not appearing in "Historical"
+- *Account/Characters:* Fix sharing of deleted or renamed shared characters
+
+**Chores**
+
+- *Account/Value:* Update the gemstore items
+- *Supporters:* Update donators and patrons list
+
+---
+
+### 2017-09-18
+
+**Features**
+
+- *General:* All pages with filters can now persist them in the URL and be linked to with preselected filters (for example [the cheapest locked home nodes](https://gw2efficiency.com/account/home-nodes)). (Supported pages in question are Daily, Account > Overview, Account > Characters, Account > Character, Account > Guild, Account > PvP, Account > Achievements, Account > Wardrobe, Account > Miniatures, Account > Dyes, Account > Recipes, Account > Pvp Heroes, Account > Mailcarriers, Account > Outfits, Account > Finishers, Account > Home Nodes, Account > Home Cats, Account > Gliders, Account > Tonics, Currencies > Dungeon Tokens, Currencies > Spirit Shards, Currencies > Karma, Currencies > Badges of Honor, Currencies > Gems, Currencies > Laurels, Currencies > Guild Commendations, Currencies > Claim Tickets, Tradingpost > Overview, Tradingpost > Current Transactions, Tradingpost > Delivery Box, Tradingpost > Transaction History, Worldbosses, Dungeons, Crafting > Precursors & Legendaries, Crafting > Ascended Weapons & Armor, Gathering)
+
+**Enhancements**
+
+- *Currencies/Gems:* Add the ability to calculate conversions by entering the desired result
+- *Account/Achievements:* Show linked titles
+- *Account/Achievements:* Show total and remaining collection cost
+
+**Chores**
+
+- *Supporters:* Update donators and patrons list
+
+---
+
 ### 2017-09-10
 
 **Bugfixes**
@@ -7,7 +44,7 @@
 
 **Chores**
 
-- *Supporters:* Updated donators and patrons list
+- *Supporters:* Update donators and patrons list
 - *General:* Reduce the download size of the website by roughly 75%
 
 ---
@@ -40,7 +77,7 @@
 - *Crafting/Calculator:* Add recipes for Gifts of PvP / WvW legendary armour
 - *Daily:* Add the fractal challenge motes to the fractal dailies
 - *Gathering:* Update the optimal order for nodes
-- *Supporters:* Updated donators and patrons list
+- *Supporters:* Update donators and patrons list
 - *Translations:* Update the Portuguese and Russian translations ([#791](https://github.com/gw2efficiency/issues/issues/791), [#796](https://github.com/gw2efficiency/issues/issues/796))
 
 ---
