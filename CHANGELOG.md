@@ -1,3 +1,11 @@
+### 2017-10-04
+
+**Supporter Features**
+
+- *General:* Patreons now automatically get their account upgraded to "supporters" when they link the same email they used on patreon. Supporters do not get advertisements.
+
+---
+
 ### 2017-10-01
 
 **Enhancements**
