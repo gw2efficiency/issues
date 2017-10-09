@@ -1,8 +1,28 @@
+### 2017-10-08
+
+**Enhancements**
+
+- *Account/Achievements:* Add PoF mastery icons and filters
+- *Account/Achievements:* Show available/total achievement points for groups and categories
+- *Account/Characters:* Add a filter by crafting discipline filter
+- *Crafting/Calculator:* Show crafting profit for each recipe in the recipe tree if multiple recipes are added
+
+**Bugfixes**
+
+- *General (Supporters):* Fix "supporters" status not being applied to patreons of the current month
+- *Tradingpost/Overview:* Fix some search queries not rendering correctly
+
+**Chores**
+
+- *Account/Statistics:* Add missing chak infusions
+
+---
+
 ### 2017-10-04
 
-**Supporter Features**
+**Features**
 
-- *General:* Patreons now automatically get their account upgraded to "supporters" when they link the same email they used on patreon. Supporters do not get advertisements.
+- *General (Supporters):* Patreons now automatically get their account upgraded to "supporters" when they link the same email they used on patreon. Supporters do not get advertisements.
 
 ---
 
@@ -1185,7 +1205,7 @@
 **Bugfixes**
 
 - *Crafting/Calculator:* Fix crafting steps not appearing in the right order in rare cases ([#151](https://github.com/gw2efficiency/issues/issues/151))
- 
+
 ---
 
 ### 2016-05-31
