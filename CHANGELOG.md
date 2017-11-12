@@ -1,3 +1,41 @@
+### 2017-11-12
+
+**Bugfixes**
+
+- *Currencies/Claim Tickets:* Fix "War God's Skins" not showing up for conversion ([#837](https://github.com/gw2efficiency/issues/issues/837))
+- *Account/Cats:* Fix description for "Super-Hot Saffron-Scented Poultry Soup" cat
+
+**Chores**
+
+- *Account/Value:* Update the gemstore items
+
+---
+
+### 2017-10-24
+
+**Enhancements**
+
+- *Account/Statistics:* Add Crystal Desert mastery point statistics
+- *Account/Characters:* Add detection and images for PoF character specializations
+- *Gathering:* Show current & total gold on gathering process bar
+- *Account/Achievements:* Show achievement groups/categories as completed when all AP are achieved
+- *Daily:* Add seasonal daily achievements (e.g. Halloween)
+
+**Bugfixes**
+
+- *Currencies/Spirit Shards:* Fix the promotion result count of "Piles of Radiant Dust"
+- *Account/Statistics:* Fix legendary insight count for more than one armor-set ([#788](https://github.com/gw2efficiency/issues/issues/788))
+- *Daily:* Show possible dailies of all extensions
+- *Daily:* Fix completed dungeons not resetting correctly ([#828](https://github.com/gw2efficiency/issues/issues/828))
+
+**Chores**
+
+- *Account/Value:* Update the gemstore items
+- *Account/Value:* Add value to items in the Black Lion Exclusives Chest
+- *Account/Value:* Add value to legendary recipes sold by Miyani ([#813](https://github.com/gw2efficiency/issues/issues/813))
+
+---
+
 ### 2017-10-08
 
 **Enhancements**
