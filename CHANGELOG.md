@@ -1,3 +1,46 @@
+### 2017-12-03
+
+**Features**
+
+- *Account/Statistics:* Add new player statistics
+	- Festive Confetti Infusions (also counts as an aura)
+	- Unstable Cosmic Essences
+	- Gaeting Crystals
+	- Volatile Magic
+
+**Bugfixes**
+
+- *Account/Achievements:* Fix the crystal desert mastery point filter
+- *Account/Value:* Fix some legendary skins counting their precursor skin value twice
+- *Account/Wallet:* Fix text formatting for Elegy Mosaic
+- *Community/Lottery:* Fix GUIDs not being accepted for lottery entries
+- *General:* Fix the nightmode icon not displaying in browsers that don't support emojis
+- *General:* Remove the dot in the navigation for mobile users
+- *Nightmode:* Fix copy/paste buttons being invisible
+- *Nightmode:* Fix highlight of expensive materials being nearly invisible
+
+**Chores**
+
+- *Account/Statistics:* Improve item detection for "Celesital Infusions"
+- *Account/Wallet:* Add sprites for new currencies
+- *Crafting/Calculator:* Add recipes for "The Binding of Ipos"
+- *Crafting/Calculator:* Add recipes for WvW and PvP legendary armors
+- *Supporters:* Update donators and patrons list
+
+---
+
+### 2017-12-01
+
+**Features**
+
+- *Lottery:* Add the yearly advent calendar 🎅
+
+**Chores**
+
+- *Supporters:* Update donators and patrons list
+
+---
+
 ### 2017-11-12
 
 **Bugfixes**
