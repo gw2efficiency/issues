@@ -56,7 +56,7 @@
 
 ### 2017-10-24
 
-**Enhancements**
+**Features**
 
 - *Account/Statistics:* Add Crystal Desert mastery point statistics
 - *Account/Characters:* Add detection and images for PoF character specializations
@@ -81,7 +81,7 @@
 
 ### 2017-10-08
 
-**Enhancements**
+**Features**
 
 - *Account/Achievements:* Add PoF mastery icons and filters
 - *Account/Achievements:* Show available/total achievement points for groups and categories
@@ -109,7 +109,7 @@
 
 ### 2017-10-01
 
-**Enhancements**
+**Features**
 
 - *Account/Statistics:* Add "Ascended Shards of Glory", "Trade Contracts", "Elegy Mosaics" and "Testimony of Heroics" to the player statistics
 - *Community/Lottery:* Group past monthly lotteries with multiple daily giveaways together
@@ -131,9 +131,6 @@
 **Features**
 
 - *General:* All pages with filters can now persist them in the URL and be linked to with preselected filters (for example [the cheapest locked home nodes](https://gw2efficiency.com/account/home-nodes)). (Supported pages in question are Daily, Account > Overview, Account > Characters, Account > Character, Account > Guild, Account > PvP, Account > Achievements, Account > Wardrobe, Account > Miniatures, Account > Dyes, Account > Recipes, Account > Pvp Heroes, Account > Mailcarriers, Account > Outfits, Account > Finishers, Account > Home Nodes, Account > Home Cats, Account > Gliders, Account > Tonics, Currencies > Dungeon Tokens, Currencies > Spirit Shards, Currencies > Karma, Currencies > Badges of Honor, Currencies > Gems, Currencies > Laurels, Currencies > Guild Commendations, Currencies > Claim Tickets, Tradingpost > Overview, Tradingpost > Current Transactions, Tradingpost > Delivery Box, Tradingpost > Transaction History, Worldbosses, Dungeons, Crafting > Precursors & Legendaries, Crafting > Ascended Weapons & Armor, Gathering)
-
-**Enhancements**
-
 - *Currencies/Gems:* Add the ability to calculate conversions by entering the desired result
 - *Account/Achievements:* Show linked titles
 - *Account/Achievements:* Show total and remaining collection cost
@@ -164,9 +161,6 @@
 
 - *Account/Characters:* Change to tabular design with more condensed information ([#31](https://github.com/gw2efficiency/issues/issues/31))
 - *Crafting/Calculator:* Include amounts and options (material price, use own materials, etc.) into the share link ([#258](https://github.com/gw2efficiency/issues/issues/258))
-
-**Enhancements**
-
 - *Account/Statistics:* Add "Orrian Pearls" to the player statistics ([#810](https://github.com/gw2efficiency/issues/issues/810))
 - *Crafting/Calculator:* Add the option to sort the shopping list by price & quantity
 
@@ -193,7 +187,7 @@
 
 ### 2017-08-20
 
-**Enhancements**
+**Features**
 
 - *Daily:* Ignore changing dailies inside hidden groups, causing the group to stay hidden
 - *Daily:* Add a toggle to expand / collapse all group
@@ -238,9 +232,6 @@
 - *Tradingpost/Delivery Box:* Add a page to show the current delivery box, including auto-refresh and notifications
 - *Account/Gemstore Account Upgrades:* Add a page to see all gemstore items of the account (reachable from the account overview)
 - *Account/Statistics:* Add legendary trinkets, liquid aurillium and celestial infusions
-
-**Enhancements**
-
 - *Account/Statistics:* Exclude statistics from game masters
 - *General:* Persist login sessions after server crashes (after this release)
 - *General:* Update the donation buttons
@@ -284,9 +275,6 @@
 - *Account/Home Cats:* Add page for showing unlocked home instance cats on the account
 - *Account/Shared Inventory:* Add page for showing the shared inventory
 - *Account/Statistics:* Add "luck" to the player statistics (as the sum from essence items) (Thanks to [@atjeff](https://github.com/atjeff))
-
-**Enhancements**
-
 - *Account/Recipes:* Open the wiki when clicking on a recipe
 
 ---
@@ -296,9 +284,6 @@
 **Features**
 
 - *Account/Recipes:* Add page for showing unlocked recipes on the account
-
-**Enhancements**
-
 - *General:* Improve the night mode rendering on all pages
 - *Account/Statistics:* Include legendary insights from items, e.g. legendary armor (Thanks to [@atjeff](https://github.com/atjeff)) ([#678](https://github.com/gw2efficiency/issues/issues/678))
 
@@ -346,7 +331,7 @@
 
 ### 2017-06-11
 
-**Enhancements**
+**Features**
 
 - *Account/Statistics:* Add PvP Heroes, Mailcarriers, Gliders, Immortal Weapons, Mastery Points Earned ([#767](https://github.com/gw2efficiency/issues/issues/767))
 
@@ -354,7 +339,7 @@
 
 ### 2017-06-10
 
-**Enhancements**
+**Features**
 
 - *Account/Statistics:* Add Legendary Spikes, Gifts of Battle, Legendaries based on Type ([#755](https://github.com/gw2efficiency/issues/issues/755))
 - *Crafting/Legendaries:* Add "type" filter ([#758](https://github.com/gw2efficiency/issues/issues/758))
@@ -376,7 +361,7 @@
 
 ### 2017-05-20
 
-**Enhancements**
+**Features**
 
 - *General:* Show exact missing permission on the API key page ([#736](https://github.com/gw2efficiency/issues/issues/736))
 - *Account/Characters:* Add ordering by next birthday to the character page ([#739](https://github.com/gw2efficiency/issues/issues/739))
@@ -436,7 +421,7 @@
 
 ### 2017-04-02
 
-**Enhancements**
+**Features**
 
 - *Lottery:* Show the contestants and draw date for daily lotteries ([#720](https://github.com/gw2efficiency/issues/issues/720))
 - *Account/Achievements:* Add a filter for hidden achievements ([#715](https://github.com/gw2efficiency/issues/issues/715))
@@ -472,7 +457,7 @@
 
 ### 2017-03-13
 
-**Enhancements**
+**Features**
 
 - *User/API keys:* Sort API keys by added date. This essentially reverts the last change, since ordering them alphabetically broke the flow for more users than expected ([#710](https://github.com/gw2efficiency/issues/issues/710))
 
@@ -484,7 +469,7 @@
 
 ### 2017-03-09
 
-**Enhancements**
+**Features**
 
 - *User/API keys:* Order API keys alphabetically by account name ([#709](https://github.com/gw2efficiency/issues/issues/709))
 
@@ -497,7 +482,7 @@
 
 ### 2017-03-03
 
-**Enhancements**
+**Features**
 
 - *Account/Statistics:* Add ascended materials to player statistics ([#704](https://github.com/gw2efficiency/issues/issues/704))
 - *Dungeons:* Show "Dungeon Frequenter" status on dungeon page ([#703](https://github.com/gw2efficiency/issues/issues/703))
@@ -515,7 +500,7 @@
 
 - *Dungeons:* Add raid information with automatic weekly completion status ([#700](https://github.com/gw2efficiency/issues/issues/700))
 
-**Enhancements**
+**Features**
 
 - *Dungeons:* Toggle daily completion status of dungeons automatically ([#699](https://github.com/gw2efficiency/issues/issues/699))
 - *Account/Statistics:* Add "Unlocked Home Cats" to the player statistics ([#698](https://github.com/gw2efficiency/issues/issues/698))
@@ -538,7 +523,7 @@
 
 ### 2017-02-18
 
-**Enhancements**
+**Features**
 
 - *Account/Statistics:* Add "Jade Shards" to the player statistics ([#684](https://github.com/gw2efficiency/issues/issues/684))
 
@@ -550,7 +535,7 @@
 
 ### 2017-02-16
 
-**Enhancements**
+**Features**
 
 - *Account/Guild:* Add the initial gold price to guild upgrades ([#276](https://github.com/gw2efficiency/issues/issues/276))
 - *Account/Search:* Add the option to filter by equipment status ([#675](https://github.com/gw2efficiency/issues/issues/675))
@@ -592,7 +577,7 @@
 
 ### 2017-01-07
 
-**Enhancements**
+**Features**
 
 - *Account/PvP:* Show league rating change for ranked games ([#649](https://github.com/gw2efficiency/issues/issues/649))
 
@@ -604,7 +589,7 @@
 
 ### 2017-01-06
 
-**Enhancements**
+**Features**
 
 - *Account/Achievements:* Exclude dailies from the "available" display if the daily cap is reached ([#644](https://github.com/gw2efficiency/issues/issues/644))
 - *Account/Achievements:* Exclude historic achievements when using the "Earnable AP" filter ([#638](https://github.com/gw2efficiency/issues/issues/638))
@@ -651,7 +636,7 @@
 
 ### 2016-12-23
 
-**Enhancements**
+**Features**
 
 - *Account/PvP:* Update the PVP panel for the new league system ([#618](https://github.com/gw2efficiency/issues/issues/618))
 - *Account/Achievements:* Move completed achievements to the bottom ([#629](https://github.com/gw2efficiency/issues/issues/629))
@@ -718,7 +703,7 @@
 
 ### 2016-12-09
 
-**Enhancements**
+**Features**
 
 - *Account/Achievements:* Hide daily achievements for the "Earnable AP" filter if the daily cap is reached ([#304](https://github.com/gw2efficiency/issues/issues/304))
 - *Account/Guilds:* Add an icon to show which guilds you are leading ([#602](https://github.com/gw2efficiency/issues/issues/602))
@@ -818,7 +803,7 @@
 
 ### 2016-11-10
 
-**Enhancements**
+**Features**
 
 - *Currencies/Karma:* Add a toggle for the component price ([#297](https://github.com/gw2efficiency/issues/issues/297))
 - *Account/Statistics:* Add more player statistics: Tomes of Knowledge, Blood Rubies, Petrified Wood, Permanent contracts ([#260](https://github.com/gw2efficiency/issues/issues/260))
@@ -837,7 +822,7 @@
 
 ### 2016-11-06
 
-**Enhancements**
+**Features**
 
 - *Account/Overview:* Include guild banks into the account search ([#283](https://github.com/gw2efficiency/issues/issues/283))
 - *Account/Overview:* Allow searching for upgrades in items ([#267](https://github.com/gw2efficiency/issues/issues/267))
@@ -950,7 +935,7 @@
 
 ### 2016-09-24
 
-**Enhancements**
+**Features**
 
 - *Account/Statistics:* Show last scan date and last standing generation date
 - *Account/Statistics:* Massively improve performance for the generation of the live standings :fire_engine::fire: ([#249](https://github.com/gw2efficiency/issues/issues/249))
@@ -973,7 +958,7 @@
 - *Account/Value:* Add crafting professions into the calculation ([#111](https://github.com/gw2efficiency/issues/issues/111))
 - *Account/Value:* Add bag values into the calculation ([#108](https://github.com/gw2efficiency/issues/issues/108))
 
-**Enhancements**
+**Features**
 
 - *Account/Overview:* Add hover for character values, showing detailed information ([#239](https://github.com/gw2efficiency/issues/issues/239))
 
@@ -981,7 +966,7 @@
 
 ### 2016-09-21
 
-**Enhancements**
+**Features**
 
 - *Account/Guilds:* Add new guild upgrades ([#237](https://github.com/gw2efficiency/issues/issues/237))
 
@@ -999,7 +984,7 @@
 
 ### 2016-09-14
 
-**Enhancements**
+**Features**
 
 - *Account/Statistics:* Add a history for all statistics ([#220](https://github.com/gw2efficiency/issues/issues/220))
 - *Account/Statistics:* Ignore keys that are went invalid ([#203](https://github.com/gw2efficiency/issues/issues/203))
@@ -1048,7 +1033,7 @@
 
 ### 2016-08-18
 
-**Enhancements**
+**Features**
 
 - *Account/Overview:* Add last update display and refresh button
 - *Account/Overview:* Fix chart tooltip sometimes clipping below the legend
@@ -1057,7 +1042,7 @@
 
 ### 2016-08-17
 
-**Enhancements**
+**Features**
 
 - *Account/Overview:* Improve the account overview graph ([#119](https://github.com/gw2efficiency/issues/issues/119))
 
@@ -1087,7 +1072,7 @@
 
 ### 2016-08-13
 
-**Enhancements**
+**Features**
 
 - *Community/Chat:* Add the ability for custom emojis
 - *Community/Chat:* Add `/me` action messages
@@ -1100,7 +1085,7 @@
 
 ### 2016-08-12
 
-**Enhancements**
+**Features**
 
 - *Account/Guild:* Use crafting prices for accountbound upgrade ingredients ([#198](https://github.com/gw2efficiency/issues/issues/198))
 
@@ -1144,7 +1129,7 @@
 
 ### 2016-08-04
 
-**Enhancements**
+**Features**
 
 - *Guides:* Update the system that handles the guides ([#189](https://github.com/gw2efficiency/issues/issues/189))
 
@@ -1156,7 +1141,7 @@
 
 ### 2016-07-31
 
-**Enhancements**
+**Features**
 
 - *Crafting/Calculator:* Add a wiki link for items in the crafting tree ([#162](https://github.com/gw2efficiency/issues/issues/162))
 - *Tradingpost:* Fix the date field for investments and history ([#67](https://github.com/gw2efficiency/issues/issues/67))
@@ -1183,7 +1168,7 @@
 
 ### 2016-07-02
 
-**Enhancements**
+**Features**
 
 - *Account/Value:* Add value to results of Ectoplasm gambling ([#2](https://github.com/gw2efficiency/issues/issues/2))
 - *Account/Value:* Add value to the "Kaiser Snake" weapons & skins, inherited from their skin items ([#129](https://github.com/gw2efficiency/issues/issues/129))
@@ -1221,7 +1206,7 @@
 
 ### 2016-06-21
 
-**Enhancements**
+**Features**
 
 - *Account/Guild:* Add the "Guild Enhancement: World Reward Tracks" upgrade
 
@@ -1249,7 +1234,7 @@
 
 ### 2016-06-06
 
-**Enhancements**
+**Features**
 
 - *Crafting/Calculator:* Add copying on click to the shopping list items ([#145](https://github.com/gw2efficiency/issues/issues/145))
 
@@ -1279,7 +1264,7 @@
 
 ### 2016-06-02
 
-**Enhancements**
+**Features**
 
 - *Crafting/Calculator:* Add vendor items from master scribe ([#149](https://github.com/gw2efficiency/issues/issues/149))
 
@@ -1352,7 +1337,7 @@
 
 ### 2016-05-22
 
-**Enhancements**
+**Features**
 
 - *Account/PvP:* Show season and division name on hover for past seasons ([#135](https://github.com/gw2efficiency/issues/issues/135))
 
@@ -1360,7 +1345,7 @@
 
 ### 2016-05-19
 
-**Enhancements**
+**Features**
 
 - *Crafting/Legendaries:* Add the new season of legendaries
 - *Account/Character:* Add stat selectable item stats
@@ -1377,7 +1362,7 @@
 
 ### 2016-05-10
 
-**Enhancements**
+**Features**
 
 - *Account:* Add toggles for "value" to guild, materials, bank, dyes, miniatures and characters ([#28](https://github.com/gw2efficiency/issues/issues/28))
 - *Account/Guild:* Show the gold stored in guild banks ([#3](https://github.com/gw2efficiency/issues/issues/3))
