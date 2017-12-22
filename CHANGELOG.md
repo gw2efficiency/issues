@@ -1,12 +1,36 @@
+### 2017-12-22
+
+**Features**
+
+- *General:* Add "action" dropdown when clicking on any item icons ([Preview](https://i.imgur.com/sgqw04p.gifv))
+- *Account/Statistics:* Add new player statistics
+  - Kralkatite Ore
+  - Winter Wonderland Completions
+- *Account/Overview:* Also filter by item description when searching
+
+**Bugfixes**
+
+- *Crafting/Calculator:* Fix Ars Goetia not including it's precursors in the crafting tree
+- *Crafting/Overview:* Fix link to crafting calculator
+- *Daily:* Fix overlapping text in other languages than English
+
+**Chores**
+
+- *Dungeons/Fractals:* Update fractal levels
+- *Account/Value:* Add value to some account bound halloween miniatures
+- *Supporters:* Update donators and patrons list
+
+---
+
 ### 2017-12-03
 
 **Features**
 
 - *Account/Statistics:* Add new player statistics
-	- Festive Confetti Infusions (also counts as an aura)
-	- Unstable Cosmic Essences
-	- Gaeting Crystals
-	- Volatile Magic
+  - Festive Confetti Infusions (also counts as an aura)
+  - Unstable Cosmic Essences
+  - Gaeting Crystals
+  - Volatile Magic
 
 **Bugfixes**
 
