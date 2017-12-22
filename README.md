@@ -14,11 +14,10 @@
   <sub>Or just switch to the "Issues" tab in this repository, if that's what you fancy.</sub>
 </p>
 
----
-
 <p align="center">
-  <b><a href="https://github.com/gw2efficiency/issues/projects/3">Click here to open the current kanban board.</a></b><br>
-  <sub>Or just switch to the "Projects" tab in this repository, if that's what you fancy.</sub>
+  <sub>
+  <b><a href="https://github.com/gw2efficiency/issues/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+-label%3AIdea+">Currently Planned</a><b> — <b><a href="https://github.com/gw2efficiency/issues/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3AIdea+">Future Ideas</a><b>
+    </sub>
 </p>
 
 ---
