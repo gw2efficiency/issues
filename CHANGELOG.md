@@ -2,7 +2,7 @@
 
 **Features**
 
-- [*Stats/Unlock Statistics:*](http://gw2efficiency.com/account/unlock-statistics) Add page showing the rarity of account unlocks based on the entire playerbase (for achievements, outfits, skins, titles, ...)
+- [*Stats/Unlock Statistics:*](http://gw2efficiency.com/account/unlock-statistics) Add page showing the rarity of account unlocks based on the entire playerbase (for achievements, cats, dyes, finishers, gliders, mailcarriers, miniatures, nodes, outfits, recipes, skins, titles)
 
 **Bugfixes**
 
