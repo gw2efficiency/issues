@@ -1,3 +1,36 @@
+### 2018-01-20
+
+**Features**
+
+- [*Stats/Unlock Statistics:*](http://gw2efficiency.com/account/unlock-statistics) Add page showing the rarity of account unlocks based on the entire playerbase (for achievements, outfits, skins, titles, ...)
+
+**Bugfixes**
+
+- *Account/Characters:* Fix wrong character birthdays due to leap year calculation
+
+**Chores**
+
+- *Daily:* Add "Windswept Haven Guild Hall" to "Gathering" tasks
+- *Daily:* Add "Sunspear Cache Run" to "Domain of Istan" tasks
+- *Dungeons/Raids:* Add "Hall of Chains"
+- *Supporters:* Update donators and patrons list
+
+---
+
+### 2018-01-01
+
+**Features**
+
+- *Daily:* Add a daily Zommoros' fortune
+- *User/Account:* Show the current supporter status for donators & patreons
+- *Lottery:* Add back the normal montly lottery
+
+**Chores**
+
+- *Supporters:* Update donators and patrons list
+
+---
+
 ### 2017-12-22
 
 **Features**
