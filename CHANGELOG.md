@@ -1,3 +1,23 @@
+### 2018-01-23
+
+**Features**
+
+- *Stats/Unlock Statistics:* Add additional filter capabilities
+	- Weapon & armor type for skins
+	- Discipline for recipes
+	- Category for achievements
+- *Stats/Unlock Statistics:* Add additional search capabilities
+	- `term term` to include results with both terms (in any order)
+	- `"term term"` to include results with both terms in the exact order
+	- `-term` to exclude results with the term
+
+**Bugfixes**
+
+- *Account/Achievements:* Fix achievements with a Crystal Desert mastery point not showing an icon
+- *Stats/Unlock Statistics:* Fix wrongly whitelisted skins being displayed
+
+---
+
 ### 2018-01-20
 
 **Features**
