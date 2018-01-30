@@ -1,15 +1,36 @@
+### 2018-01-30
+
+**Features**
+
+- *Lottery:* Enter supporters to all lotteries automatically
+- [*Stats/Player Statistics:*](http://gw2efficiency.com/account/player-statistics) Add aggregated statistics for race, gender, profession and account type, by count and playtime
+
+**Bugfixes**
+
+- *Supporters:* Fix automatic update of the supporter status for Patreons
+- *Account/Miniatures & Recipes:* Fix redirect to the wiki when clicking on an item icon
+
+**Chores**
+
+- *Supporters:* Update donators and patrons list
+- *Account/Value:* Update the gemstore items
+- *Stats/Account Statistics:* Blacklist support-cheaters from all leaderboards (this can take up to 48 hours)
+- *Internals:* Enabled HTTP/2 (this should make things load slightly faster)
+
+---
+
 ### 2018-01-23
 
 **Features**
 
 - *Stats/Unlock Statistics:* Add additional filter capabilities
-	- Weapon & armor type for skins
-	- Discipline for recipes
-	- Category for achievements
+  - Weapon & armor type for skins
+  - Discipline for recipes
+  - Category for achievements
 - *Stats/Unlock Statistics:* Add additional search capabilities
-	- `term term` to include results with both terms (in any order)
-	- `"term term"` to include results with both terms in the exact order
-	- `-term` to exclude results with the term
+  - `term term` to include results with both terms (in any order)
+  - `"term term"` to include results with both terms in the exact order
+  - `-term` to exclude results with the term
 
 **Bugfixes**
 
