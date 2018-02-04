@@ -1,3 +1,23 @@
+### 2018-02-04
+
+**Features**
+
+- *Stats/Player Statistics:* Add more account types (core with no expansions, all expansions)
+
+**Bugfixes**
+
+- *Account/Achievements:* Remove HTML from achievement descriptions
+
+**Chores**
+
+- *Internals:* Improve performance for API routes that require the resolution of an API key
+- *Internals:* Majorly improve intitial pageload performance for international locations
+- *Internals:* Majorly improve backup procedure and data safety
+- *Internals:* Improve scalability of services for the future
+- *Supporters:* Update donators and patrons list
+
+---
+
 ### 2018-01-30
 
 **Features**
