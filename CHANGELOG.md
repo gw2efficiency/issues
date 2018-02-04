@@ -7,6 +7,7 @@
 **Bugfixes**
 
 - *Account/Achievements:* Remove HTML from achievement descriptions
+- *Stats/Player Statistics:* Fix counting "Play For Free" status on accounts that got upgraded
 
 **Chores**
 
