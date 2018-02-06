@@ -1,3 +1,12 @@
+### 2018-02-06
+
+**Features**
+
+- *Stats/Unlock Statistics:* Add filter for skin armor weight
+- *Stats/Player Statistics:* Add statistic for armor weight
+
+---
+
 ### 2018-02-04
 
 **Features**
