@@ -2,6 +2,14 @@
 
 **Features**
 
+- *[Account/Farming](https://gw2efficiency.com/account/farming-tracker):* Add page to calculate your farming profit and display changes in your wallet and items ([Preview](https://i.imgur.com/T1h19je.gifv))
+
+---
+
+### 2018-02-06
+
+**Features**
+
 - *Stats/Unlock Statistics:* Add filter for skin armor weight
 - *Stats/Player Statistics:* Add statistic for armor weight
 
