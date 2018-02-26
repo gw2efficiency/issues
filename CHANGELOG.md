@@ -1,3 +1,34 @@
+### 2018-02-26
+
+**Features**
+
+- *Account/Dyes:* Add the option to only show gemstore dyes
+- *Account/Wardrobe:* Add a rarity filter and show rarity
+- *General:* Improve caching of API requests on subsequent pageloads
+- *Stats/Account Statistics:* Add statistic for PoF music boxes
+- *Stats/Account Statistics:* Include fractal relics and pristine fractal relics from titles
+- *Tradingpost/Overview:* Add the ability to sell partial investments
+
+**Bugfixes**
+
+- *Account/Search:* Include upgrades & infusions inside of bank/shared inventory equipment
+- *Daily:* Fix extreme lag in Firefox when darkmode is enabled
+- *Supporters:* Fix automatic update of the supporter status for Patreons
+
+**Chores**
+
+- *Account/Value:* Add value to Funerary Incense
+- *Account/Value:* Add value to Gift of Blade recipes
+- *Account/Value:* Add value to outfits converted from clothing tonics
+- *Account/Value:* Update the gemstore items
+- *Crafting/Calculator:* Add recipe for "Lucky Great Dog Lantern"
+- *Crafting/Calculator:* Add recipe for "Mini Failed Attempt"
+- *Daily:* Add Mystic Clovers to fractal dailies
+- *General:* Add some spots to show supporter advantages
+- *Supporters:* Update donators and patrons list
+
+---
+
 ### 2018-02-06
 
 **Features**
