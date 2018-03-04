@@ -1,5 +1,15 @@
 ### 2018-02-26
 
+**Chores**
+
+- *API Keys:* Improve and redesign the page layout
+- *Internal:* Improve monitoring of host metrics
+- *Supporters:* Update donators and patrons list
+
+---
+
+### 2018-02-26
+
 **Features**
 
 - *Account/Dyes:* Add the option to only show gemstore dyes
