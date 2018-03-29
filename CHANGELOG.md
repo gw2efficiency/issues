@@ -12,8 +12,8 @@
 
 **Chores**
 
-- Updated recipes for [Sigil of Mischief](https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-68436) (thanks to @CuriousCharr)
-- Added recipes for [Mystical +9 Agony Infusion](https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-86180) (thanks to @CuriousCharr)
+- *Crafting/Calculator:* Updated recipes for [Sigil of Mischief](https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-68436) (thanks to @CuriousCharr)
+- *Crafting/Calculator:* Added recipes for [Mystical +9 Agony Infusion](https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-86180) (thanks to @CuriousCharr)
 
 ---
 
