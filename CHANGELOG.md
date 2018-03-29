@@ -1,3 +1,30 @@
+### 2018-03-29
+
+**Chores**
+
+- *Account/Characters:* Added back the link to SAB unlocks
+- *Supporters:* Update donators and patrons list
+- *General:* Marked "Claw of the Khan-Ur" as a legendary (statistics / crafting pages)
+
+---
+
+### 2018-03-24
+
+**Chores**
+
+- Updated recipes for [Sigil of Mischief](https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-68436) (thanks to @CuriousCharr)
+- Added recipes for [Mystical +9 Agony Infusion](https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-86180) (thanks to @CuriousCharr)
+
+---
+
+### 2018-03-14
+
+**Chores**
+
+- *Crafting/Calculator:* Added recipe for [Claw of the Khan-Ur](https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-87109)
+
+---
+
 ### 2018-03-04
 
 **Chores**
@@ -132,7 +159,7 @@
 
 - *Daily:* Add "Windswept Haven Guild Hall" to "Gathering" tasks
 - *Daily:* Add "Sunspear Cache Run" to "Domain of Istan" tasks
-- *Dungeons/Raids:* Add "Hall of Chains"
+- *Dungeons/Raids:* Add "Hall of Chains" (thanks to @CuriousCharr)
 - *Supporters:* Update donators and patrons list
 
 ---
