@@ -1,3 +1,12 @@
+### 2018-04-01
+
+**Chores**
+
+- *General:* Added chairs
+- *Account/Value:* Temporarily removed tradingpost orders from account value due to bugs in the official API ([Read more](https://github.com/gw2efficiency/issues/issues/943))
+
+---
+
 ### 2018-03-29
 
 **Chores**
