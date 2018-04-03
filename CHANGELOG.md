@@ -1,9 +1,19 @@
+### 2018-04-03
+
+**Chores**
+
+- *General:* Removed chairs
+- *Supporters:* Update donators and patrons list
+
+---
+
 ### 2018-04-01
 
 **Chores**
 
-- *General:* Added chairs
 - *Account/Value:* Temporarily removed tradingpost orders from account value due to bugs in the official API ([Read more](https://github.com/gw2efficiency/issues/issues/943))
+- *General:* Added chairs
+- *Supporters:* Update donators and patrons list
 
 ---
 
@@ -12,8 +22,8 @@
 **Chores**
 
 - *Account/Characters:* Added back the link to SAB unlocks
-- *Supporters:* Update donators and patrons list
 - *General:* Marked "Claw of the Khan-Ur" as a legendary (statistics / crafting pages)
+- *Supporters:* Update donators and patrons list
 
 ---
 
@@ -21,8 +31,8 @@
 
 **Chores**
 
-- *Crafting/Calculator:* Updated recipes for [Sigil of Mischief](https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-68436) (thanks to @CuriousCharr)
 - *Crafting/Calculator:* Added recipes for [Mystical +9 Agony Infusion](https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-86180) (thanks to @CuriousCharr)
+- *Crafting/Calculator:* Updated recipes for [Sigil of Mischief](https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-68436) (thanks to @CuriousCharr)
 
 ---
 
