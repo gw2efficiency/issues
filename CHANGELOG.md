@@ -1,3 +1,26 @@
+### 2018-04-15
+
+**Features**
+
+- *Account/Guild:* Show the current Aetherium and Favor
+- *Account/Wardrobe:* Add gathering tool skins
+- *Currency/Karma:* Add Trade Caches to the conversion methods
+- *Tradingpost/Overview:* Add an option to only filter through tracked items
+
+**Bugfixes**
+
+- *Account/Dyes:* Fix sets not being loaded correctly
+
+**Chores**
+
+- *Account/Value*: Add a value to the "Endless Upgrade Extractor"
+- *Crafting/Caculator:* Add recipes for "Hateful Sworl"
+- *Crafting/Caculator:* Add recipes for "Mini Nova Griffon Hatchling"
+- *Crafting/Caculator:* Add recipes for Path of Fire elite specialization weapons (e.g. "Veilrender")
+- *Supporters:* Update donators and patrons list
+
+---
+
 ### 2018-04-03
 
 **Chores**
