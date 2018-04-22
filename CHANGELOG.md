@@ -1,3 +1,29 @@
+### 2018-04-22
+
+**Features**
+
+- *Account/Dyes:* Add birthday dye pack filter
+- *Stats/Account Statistics:* Add more player statistics
+  - [Potion of PvP Rewards](https://gw2efficiency.com/account/statistics/statistics.potionOfPvpRewards)
+  - [Potion of WvW Rewards](https://gw2efficiency.com/account/statistics/statistics.potionOfWvwRewards)
+  - [Skirmish Chests](https://gw2efficiency.com/account/statistics/statistics.skirmishChests)
+
+**Chores**
+
+- *Account/Value:* Update the gemstore items
+- *Stats/Account Statistics:* Add endless upgrade extractor to permanent contracts
+- *Stats/Account Statistics:* Update unlimited gathering tools items
+
+---
+
+### 2018-04-21
+
+**Internals**
+
+- Improve how the backend jobs, such as account crawling, get processed and logged
+
+---
+
 ### 2018-04-15
 
 **Features**
