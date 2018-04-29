@@ -5,7 +5,7 @@
 - *Supporters:* Crawl accounts of supporters more frequently
     - *The accounts of free users get crawled once every 24 hours, copper supporters get crawled once every 12 hours, silver supporters get crawled once every 6 hours, gold supporters get crawled once every 3 hours.*
 - *Supporters*: The account statistic history of supporters is now unlimited
-    - *The account statistic history of free users reaches back one year. For supporters there is no limit.*
+    - *The account statistic history of free users will be displayed going back 1 year. For supporters there is no limit. However, the statistics of free users will continue to be saved past 1 year, so once their accounts are upgraded they will have access to the full history.*
 
 **Bugfixes**
 
