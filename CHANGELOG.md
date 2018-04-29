@@ -2,12 +2,15 @@
 
 **Features**
 
-- *Account/Statistics:* Crawl accounts only once per time frame
-  - *Previously, all keys of each game account got crawled once per timeframe and then merged to calculate the leaderboard rank. This could cause spikes in the history of certain statistics if the permissions of the keys were different and was a major cause of server strain. Now each account only gets crawled once, with the key that has the best permissions for account statistic generation. This also means that adding multiple API keys no longer increases the crawling frequency.*
 - *Supporters:* Crawl accounts of supporters more frequently
     - *The accounts of free users get crawled once every 24 hours, copper supporters get crawled once every 12 hours, silver supporters get crawled once every 6 hours, gold supporters get crawled once every 3 hours.*
 - *Supporters*: The account statistic history of supporters is now unlimited
     - *The account statistic history of free users reaches back one year. For supporters there is no limit.*
+
+**Bugfixes**
+
+- *Account/Statistics:* Crawl accounts only once per time frame
+  - *Previously, all keys of each game account got crawled once per timeframe and then merged to calculate the leaderboard rank. This could cause spikes in the history of certain statistics if the permissions of the keys were different and was a major cause of server strain. Now each account only gets crawled once, with the key that has the best permissions for account statistic generation. This also means that adding multiple API keys no longer increases the crawling frequency.*
 
 **Chores**
 
