@@ -1,3 +1,22 @@
+### 2018-05-06
+
+**Features**
+
+- *Account/Farming Tracker:* Add the ability to export farming results to CSV
+- *Tradingpost/Overview:* Add the ability to set a maximum % for the "demand > supply" filter
+- *Gathering:* Add the ability to sort the gathering nodes by profit
+
+**Chores**
+
+- *Gathering:* Update the site style
+- *Supporters:* Update donators and patrons list
+
+**Internals**
+
+- *General:* Refactored the way that the site saves user information (this includes filter settings and daily checkmarks)
+
+---
+
 ### 2018-04-29
 
 **Features**
