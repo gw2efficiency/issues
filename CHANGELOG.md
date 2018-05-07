@@ -1,3 +1,21 @@
+### 2018-05-07
+
+**Features**
+
+- *Supporters:* Add support for "Platinum" supporters (previously counted as "Gold")
+
+**Bugfixes**
+
+- *General:* Fix top warning banner on mobile
+- *General:* Fix graph line rendering issue
+
+*Chores*
+
+- *General:* Add two extra ad units on the side of the page
+- *Supporters:* Update donators and patrons list
+
+---
+
 ### 2018-05-06
 
 **Features**
