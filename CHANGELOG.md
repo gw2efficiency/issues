@@ -1,3 +1,15 @@
+### 2018-05-10
+
+**Chores**
+
+- *Supporters:* Update donators and patrons list
+
+**Internals**
+
+- *Account Crawling:* Refactor existing internal functionality for upcoming features
+
+---
+
 ### 2018-05-07
 
 **Features**
@@ -9,7 +21,7 @@
 - *General:* Fix top warning banner on mobile
 - *General:* Fix graph line rendering issue
 
-*Chores*
+**Chores**
 
 - *General:* Add two extra ad units on the side of the page
 - *Supporters:* Update donators and patrons list
