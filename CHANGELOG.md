@@ -1,3 +1,47 @@
+### 2018-05-17
+
+**Bugfixes**
+
+- *Crafting/Calculator:* Fix achievement progress not being recognised during crafting
+- *Stats/Unlock Statistics:* Fix search field not responding
+
+**Chores**
+
+- *Crafting/Calculator:* Updated crafting recipes
+- *Supporters:* Update donators and patrons list
+
+---
+
+### 2018-05-12
+
+**Bugfixes**
+
+- *Account/Value:* Fix backend calculated crafting price for items without sell/buy price on the tradingpost
+
+**Chores**
+
+- *Nightmode:* Improve the nightmode display for newer pages (less agressive black, better button styles)
+- *Languages:* Drop language support for Polish, Portuguese, Russian, Dutch, Czech and Norwegian. These languages were not used (< 1% of total users **combined**) and still showed English item names due to the game not supporting them.
+- *Languages:* Move translations into their own [Github repository](https://github.com/gw2efficiency/translations) for public contributions
+- *Supporters:* Update donators and patrons list
+
+**Internals**
+
+- *Frontend:* Update dependencies for the build system
+- *Frontend:* Update internal framework version
+- *Languages:* Add support for translations for newly created pages. Translations will follow in the next few months.
+
+---
+
+### 2018-05-11
+
+**Chores**
+
+- *Crafting/Calculator:* Create a set of internal scripts to help find differences, update and validate crafting recipes from different sources (including the official wiki)
+- *Crafting/Calculator:* Update a lot (500+) of different Mystic Forge recipes
+
+---
+
 ### 2018-05-10
 
 **Chores**
