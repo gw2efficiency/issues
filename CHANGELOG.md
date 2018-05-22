@@ -1,3 +1,21 @@
+### 2018-05-22
+
+**Bugfixes**
+
+- *Gathering:* Fix daily profit not being calculated correctly for mulitple runs
+
+**Chores**
+
+- *Account/Nodes:* Add new home gathering nodes
+- *Translations:* Update translations
+- *Supporters:* Update donators and patrons list
+
+**Internals**
+
+- *Translations:* Refactor and add support for translations to "Stats/Unlock Statistics", "Stats/Player Statistics", "User/API Key Management" and "Gathering" pages
+
+---
+
 ### 2018-05-17
 
 **Bugfixes**
@@ -21,15 +39,15 @@
 **Chores**
 
 - *Nightmode:* Improve the nightmode display for newer pages (less agressive black, better button styles)
-- *Languages:* Drop language support for Polish, Portuguese, Russian, Dutch, Czech and Norwegian. These languages were not used (< 1% of total users **combined**) and still showed English item names due to the game not supporting them.
-- *Languages:* Move translations into their own [Github repository](https://github.com/gw2efficiency/translations) for public contributions
+- *Translations:* Drop language support for Polish, Portuguese, Russian, Dutch, Czech and Norwegian. These languages were not used (< 1% of total users **combined**) and still showed English item names due to the game not supporting them.
+- *Translations:* Move translations into their own [Github repository](https://github.com/gw2efficiency/translations) for public contributions
 - *Supporters:* Update donators and patrons list
 
 **Internals**
 
 - *Frontend:* Update dependencies for the build system
 - *Frontend:* Update internal framework version
-- *Languages:* Add support for translations for newly created pages. Translations will follow in the next few months.
+- *Translations:* Add support for translations for newly created pages. Translations will follow in the next few months.
 
 ---
 
