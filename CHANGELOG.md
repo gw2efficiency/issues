@@ -1,3 +1,13 @@
+### 2018-05-24
+
+**Chores**
+
+- *Legal Notice:* Update the privacy policy
+	- *We only updated the wording to be a little bit clearer and fixed a bunch of spelling mistakes, nothing really changed. We have and always will respect your privacy and protect your data.*
+
+---
+
+
 ### 2018-05-22
 
 **Bugfixes**
