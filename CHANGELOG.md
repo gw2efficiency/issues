@@ -1,9 +1,12 @@
-### 2018-05-24
+### 2018-05-26
 
 **Chores**
 
 - *Legal Notice:* Update the privacy policy
-	- *We only updated the wording to be a little bit clearer and fixed a bunch of spelling mistakes, nothing really changed. We have and always will respect your privacy and protect your data.*
+  - *We only updated the wording to be a little bit clearer and fixed a bunch of spelling mistakes, nothing really changed. We have and always will respect your privacy and protect your data.*
+- *General:* Show consent modal for personalized advertisements for free users
+- *Supporters:* Update donators and patrons list
+- *Translations:* Update translations
 
 ---
 
