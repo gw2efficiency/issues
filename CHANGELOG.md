@@ -1,3 +1,14 @@
+### 2018-06-11
+
+**Chores**
+
+- *Stats/Unlocks:* Replace the infinitely scrolling table with a paginated table
+- *Account/Farming:* Replace the infinitely scrolling table with a paginated table
+- *Supporters:* Update donators and patrons list
+- *Account/Home Nodes:* Add Bauble Gathering System
+
+---
+
 ### 2018-05-26
 
 **Chores**
