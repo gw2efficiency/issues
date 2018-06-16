@@ -1,3 +1,20 @@
+<!-- Upcoming:
+
+- Account Time Machine page public release
+- *Internals:* Add backend job to invalidate API keys (needs job configuration)
+
+-->
+
+### 2018-06-16
+
+**Chores**
+
+- *User/API Keys:* Add warning message about Privacy Badger
+- *Supporters:* Update donators and patrons list
+- *Translations:* Update translations
+
+---
+
 ### 2018-06-11
 
 **Chores**
