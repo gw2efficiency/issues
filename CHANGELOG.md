@@ -1,11 +1,26 @@
-<!-- Upcoming:
+### 2018-06-22
 
-- Account Time Machine page public release
-- *Internals:* Add backend job to invalidate API keys (needs job configuration)
+**Features**
 
--->
+- *Account/Time Machine:* Many minor improvements to the beta release
+
+**Bugfixes**
+
+- *General:* Fix ads on the sides not being clickable
+
+**Chores**
+
+- *Internals:* Add backend job to invalidate non-crawled API keys
+- *Supporters:* Update donators and patrons list
+- *Translations:* Update translations
+
+---
 
 ### 2018-06-16
+
+**Features**
+
+- *Account/Time Machine:* Beta release. Get access by joining our [Discord](https://discord.gg/ZgKdTra) and give us feedback!
 
 **Chores**
 
