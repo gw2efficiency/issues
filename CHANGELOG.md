@@ -1,4 +1,18 @@
-### 2018-06-22
+#### 2018-06-29
+
+**Features**
+
+- [*Account/Time Machine:*](http://gw2efficiency.com/account/time-machine) Pick 2 crawling snapshot date points, and you can see exactly what changed in your account. ([Preview](https://i.imgur.com/tHG7lVr.png))
+- *Account/Time Machine:* More minor improvements since the last the beta release
+
+**Chores**
+
+- *Supporters:* Update donators and patrons list
+- *Translations:* Update translations
+
+---
+
+#### 2018-06-22
 
 **Features**
 
