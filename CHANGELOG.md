@@ -1,3 +1,11 @@
+#### 2018-07-04
+
+**Chores**
+
+- *Crafting/Calculator:* Update recipes
+
+---
+
 #### 2018-06-29
 
 **Features**
