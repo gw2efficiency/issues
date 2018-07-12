@@ -1,3 +1,31 @@
+#### 2018-07-12
+
+**Bugfixes**
+
+- *Account/Value:* Update the item value calculation to handle price manipulations better
+    - *The item value calculation now ignores the sell price of an item if it is likely to be inflated (low supply, sell price is a lot higher than buy price, buy price is fairly low and the difference between the prices is substantial). This currently impacts around 1300 items and will not make a difference for 99% of users.*
+    - *The change was required because a player gamed the system to get to the top of the leaderboard. They created about 270 of a craftable item, which had no supply on the tradingpost. They then proceeded to list that item for 10,000 gold, making gw2efficiency believe the value of this item to be 10,000 gold. In effect, this inflated the value of their account by about 2,700,000 gold.*
+- *Account/Value:* Reenable tradingpost listings for the account value (this might get reverted if it still causes issues)
+- *Account/Time Machine:* Add missing icons for crafting disciplines
+
+**Chores**
+
+- *Account/Statistics:* Update list of unlimited gathering tools
+- *Account/Value:* Add value to Black Lion Statuettes
+- *Account/Value:* Add value to missing home instance nodes
+- *Account/Value:* Add value to missing unlimited gathering tools
+- *Account/Value:* Add value to recipes for legendary armor crafting
+- *Account/Value:* Update the gemstore items
+- *Crafting/Ascended:* Update list of ascended items
+- *Crafting/Calculator:* Add Xunlai Ingots to the Spark of Sentinence recipe
+- *Crafting/Calculator:* Fix the name of the NPC selling Mists Stones
+- *Crafting/Calculator:* Remove confusing cyclic agony infusion upgrade recipes
+- *Crafting/Calculator:* Update the recipes
+- *Supporters & Contributors:* Redesign the page
+- *Supporters:* Update donators and patrons list
+
+---
+
 #### 2018-07-04
 
 **Chores**
