@@ -6,10 +6,18 @@
 
 ### Item value
 
-1. If the item is currently sold in the tradingpost, then the **sell price** is used
-2. If the item is currently not sold in the tradingpost, then the greater of the **last known sell price** and the **crafting price** is used
-3. If the item was never sold and cannot be crafted, then the **buy price** is used
-4. If the item has no tradingpost price and cannot be crafted, then the **vendor price** is used
+An item is considered **artificially inflated** if it has a low buy price, a low supply on the market, a sell price that is a lot higher than the buy price and a substantial difference between buy and sell price.
+
+The first row that is defined for an item determines it's "value":
+
+| **Artificially inflated item** | **Not artificially inflated item** |
+|-------------------------------------------|-----------------------------------------------------------------------------------|
+| - | Current sell listing |
+| Crafting cost (materials via buy order) | Higher of last known sell listing<br> and crafting cost (materials via buy order) |
+| Current buy order | Current buy order |
+| Last known buy order | Last known buy order |
+| Vendor price | Vendor price |
+| 0 | 0 |
 
 ### Untradable items
 
