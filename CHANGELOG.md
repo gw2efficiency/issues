@@ -1,3 +1,19 @@
+#### 2018-07-13
+
+**Bugfixes**
+
+- *Stats/Account Statistics:* Use the "buy price" version of "liquid gold" for the statistics to prevent abuse with inflated sell listings
+- *General:* Fix translations not rendering correctly in some cases
+- *Account/Time Machine:* Fix the value and value change of buy listings not displaying correctly
+
+**Chores**
+
+- *Account/Value:* Update the [design document](./docs/account-value.md) with the new definition of "item value"
+- *Tradingpost/Transactions:* Try another methodology to get the transaction API to work (cache busting)
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 #### 2018-07-12
 
 **Bugfixes**
