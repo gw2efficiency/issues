@@ -1,3 +1,23 @@
+#### 2018-07-18
+
+**Features**
+
+- *Account/Value:* Improve the value calculation for non-craftable & non-tradeable ascended items
+  - *Most accounts should see an increased account value because of this change.*
+  - *With this change, the calculation will use the average crafting price of craftable ascended items, instead of the average value. It will also pick up newly released items (e.g. from raids) without having to wait for data updates. Additionally, it will now attach the same value to items that are "craftable" from achievements, which were previously in many cases valued extremely low or not valued at all.*
+- *Crafting/Calculator:* Show recipes in the crafting calculator that are missing in the official API (due to the recent whitelist issue) but are still in gw2efficiency's database
+
+**Bugfixes**
+
+- *Crafting/Calculator:* Prioritize official crafting recipes over mystic forge/achievement recipes
+- *Currency/Badges of Honor:* Fix an issue that prevented the page from loading correctly
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 #### 2018-07-13
 
 **Bugfixes**
