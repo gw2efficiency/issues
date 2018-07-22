@@ -1,3 +1,13 @@
+#### 2018-07-22
+
+**Chores**
+
+- *General:* First step to improve error handling and reporting
+- *General:* Remove red warning for tradingpost issues, fixed in the official API
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 #### 2018-07-18
 
 **Features**
