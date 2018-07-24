@@ -1,3 +1,15 @@
+#### 2018-07-24
+
+**Features**
+
+- [*Crafting/Zephyrite Supply Boxes:*](https://gw2efficiency.com/crafting/zephyrite-supply-boxes) Added page for best conversion of materials into Zephyrite Supply Boxes
+
+**Chores**
+
+- *Translations:* Update translations
+
+---
+
 #### 2018-07-22
 
 **Chores**
