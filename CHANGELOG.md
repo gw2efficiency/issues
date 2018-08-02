@@ -1,3 +1,24 @@
+#### 2018-08-02
+
+**Features**
+
+- *General:* Add a link to the API status page in the footer
+
+**Bugfixes**
+
+- *Account/Time Machine:* Hide impossible option for "end" snapshot selection
+- *Crafting/Calculator:* Remove the horizontal scroll bar when crafting a lot of different items
+- *General:* Fix an issue that caused logins to fail in some cases
+  - *Due to this change, all users will be logged out once.*
+- *Stats:* Fix an issue that caused some API keys not to be crawled since the 27th of July
+
+**Chores**
+
+- *Crafting/Calculator:* Update the list of recipes
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 #### 2018-07-24
 
 **Features**
