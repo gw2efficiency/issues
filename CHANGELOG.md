@@ -1,3 +1,17 @@
+#### 2018-08-13
+
+**Features**
+
+- *Supporters:* Automatically assign the supporter status to PayPal donators when they link their gw2efficiency account to the same email they used on PayPal
+- *Supporters:* Show the total and montly donation amount in dollars on the [user](https://gw2efficiency.com/user#supporter-status) page
+
+**Chores**
+
+- *Crafting/Calculator:* Update the list of recipes
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 #### 2018-08-02
 
 **Features**
