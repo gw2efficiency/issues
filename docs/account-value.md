@@ -10,14 +10,15 @@ An item is considered **artificially inflated** if it has a low buy price, a low
 
 The first row defined for an item determines it's value:
 
-| **Artificially inflated item** | **Not artificially inflated item** |
-|-------------------------------------------|-----------------------------------------------------------------------------------|
-| - | Current sell listing |
-| Crafting cost (materials via buy order) | Higher of last known sell listing<br> and crafting cost (materials via buy order) |
-| Current buy order | Current buy order |
-| Last known buy order | Last known buy order |
-| Vendor price | Vendor price |
-| 0 | 0 |
+| **Artificially inflated item**                  | **Not artificially inflated item**              |
+|-------------------------------------------------|-------------------------------------------------|
+| -                                               | Current sell order                              |
+| -                                               | Last known sell order                           |
+| Current buy order                               | Current buy order                               |
+| Current crafting cost (materials via buy order) | Current crafting cost (materials via buy order) |
+| Last known buy order                            | Last known buy order                            |
+| Vendor price                                    | Vendor price                                    |
+| 0                                               | 0                                               |
 
 ### Untradable items
 
