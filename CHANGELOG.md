@@ -1,3 +1,68 @@
+#### 2018-09-12
+
+**Features**
+
+- *[Account/Dyes](https://gw2efficiency.com/account/dyes):* Completely redesign the dye page
+  - *You can now also preview and compare dyes based on in-game screenshots. Massive thanks to Saskia Van Leeuwen for her dedication to take 2240 screenshots.*
+- *Account/Value:* Update the item value calculation to be fairer
+  - *You can read more about how the item value is now calculated [here](https://github.com/gw2efficiency/issues/blob/master/docs/account-value.md#item-value).*
+  - *This should not cause any big spikes, except for items that were previously valued incorrectly.*
+- *Account/Guild:* Show the sell price subtotal for each stash tab
+- *Account/Overview*: Add a link to the delivery box
+- *Stats/Account Statistics*: Add new statistics
+  - Diflourite Crystals
+  - Kites
+  - Ranked PvP Winrate (250+ games)
+  - Ranked PvP Winrate (500+ games)
+  - Ranked PvP Winrate (1000+ games)
+  - Snow Diamond Infusions
+- *Stats/Unlock Statistics*: Add achievement point values to the achievements table
+- *Stats/Unlock Statistics*: Add filters for "Armor", "Weapon", "Backpieces" and "Gathering Tools" to the skins table
+- *Stats/Unlock Statistics*: Add wiki links to all tables
+
+**Bugfixes**
+
+- *Crafting/Calculator*: Fix the recipes for "+9 Agony Infusions"
+- *Crafting/Calculator*: Remove the recipes for "Ascended weapon/armor boxes" from achievements
+- *Gathering:* Fix output quantity for Seaweed in Ember Bay
+- *Stats/Unlock Statistics:* Fix an issue where the recipes statistics would not load
+
+**Chores**
+
+- *Account/Tonics:* Update the list of tonics
+- *Account/Value*: Add a value to the "Endless Mushroom Emperor Tonic"
+- *Account/Value:* Update the gemstore items
+- *Crafting/Calculator:* Update the list of mystic forge recipes
+- *Daily:* Add more daily tasks
+  - "Defeat the Ley-Line Anomaly" under Worldbosses
+  - "Daily Completionist" under PvE
+- *Stats/Account Statistics:* Update the list of items for multiple statistics. This improves the correctness of the following statistics:
+  - Unique Permanent Tonics
+  - Toys
+  - Unlimited Gathering Tools
+  - Musical Instruments
+  - Music Boxes
+  - Fossilized Insects
+  - Permanent Contracts
+  - Chak Egg Sacks
+  - Preserved Queen Bees
+  - Ghostly Infusions
+  - Bauble Infusions
+  - Poly-luminescent Refractors
+  - Winter's Heart Infusions
+  - Phospholuminescent Infusions
+  - Liquid Aurillium
+  - Celestial Infusions
+  - Festive Confetti Infusions
+- *Supporters & Contributors:* Update the list of supporters
+- *User:* Clarify the text explaining how automatic supporter upgrades work
+
+**Internals**
+
+- *Account/Crawling:* Improve the backend task which cleans expired account data
+
+---
+
 #### 2018-08-13
 
 **Features**
