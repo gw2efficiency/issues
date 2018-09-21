@@ -1,3 +1,23 @@
+#### 2018-09-21
+
+**Bugfixes**
+
+- **Account/Dyes:* Fix the page not rendering correctly with nightmode enabled
+
+**Chores**
+
+- *Account/Statistics:* Count "Collector's Edition Sandstorm" for the "Permanent Contracts" statistic
+- *Account/Statistics:* Count "Unidentified Fossilized Insect" for the "Fossilized Insects" statistic
+- *Dungeons:* Add the new raid wing (Mythwright Gambit)
+- *Supporters & Contributors:* Update the list of supporters
+
+**Internals**
+
+- *Account/Crawling:* Add a backend task that regularly retries API keys that got marked as "invalid" by the official API
+- *Account/Crawling:* Improve the backend task which cleans expired account data
+
+---
+
 #### 2018-09-12
 
 **Features**
