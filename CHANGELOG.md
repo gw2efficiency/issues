@@ -2,7 +2,7 @@
 
 **Bugfixes**
 
-- **Account/Dyes:* Fix the page not rendering correctly with nightmode enabled
+- *Account/Dyes:* Fix the page not rendering correctly with nightmode enabled
 
 **Chores**
 
