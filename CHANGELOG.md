@@ -1,3 +1,32 @@
+#### 2018-10-01
+
+**Features**
+
+- *Daily*: Rework the technical implementation and clean up the design
+  - *This also fixes a bunch of weird bugs, especially in other languages than English.*
+- *Crafting/Ascended Weapons*: Load all craftable ascended items automatically
+
+*Bugfixes*
+
+- *Account/Value:* Fix the value of precursors counting twice for "Claw of the Khan-Ur", "Verdarach" and "Xiuquatl"
+
+**Chores**
+
+- *Crafting/Precursors & Legendaries:* Add the new legendary "Xiuquatl" to the list
+- *Supporters & Contributors:* Update the list of supporters
+- *General:* Update translations
+- *General:* Update the Discord invite link
+
+---
+
+#### 2018-09-22
+
+**Chores**
+
+- *Crafting/Calculator:* Add recipes for crafting the new legendary "Xiuquatl"
+
+---
+
 #### 2018-09-21
 
 **Bugfixes**
