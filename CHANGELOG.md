@@ -1,3 +1,22 @@
+#### 2018-10-13
+
+*Bugfixes*
+
+- *Daily:* Fix link pointing to the crafting calculator
+
+**Chores**
+
+- *General:* Update advertising provider
+    - *We are now trialling a new advertising provider. If you see any ads that you deem inappropriate, please let us know immediately.*
+- *Supporters & Contributors:* Update the list of supporters
+
+**Internals**
+
+- *General:* Multiple small bugfixes and improvements in underlying modules
+- *Account/Stats:* Restructure to support faster account rank lookup in the future
+
+---
+
 #### 2018-10-01
 
 **Features**
