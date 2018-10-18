@@ -1,6 +1,39 @@
+#### 2018-10-17
+
+**Features**
+
+- *[Stats/Account Statistics](https://gw2efficiency.com/account/statistics):* Add a page to show an overview of account statistic ranks and values
+  - *[Preview](https://i.imgur.com/Lr5DGVq.png)*
+  - *Free users can see their top 10 stats, supporters can see all stats.*
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 #### 2018-10-13
 
-*Bugfixes*
+**Bugfixes**
+
+- *Daily:* Fix link pointing to the crafting calculator
+
+**Chores**
+
+- *General:* Update advertising provider
+    - *We are now trialling a new advertising provider. If you see any ads that you deem inappropriate, please let us know immediately.*
+- *Supporters & Contributors:* Update the list of supporters
+
+**Internals**
+
+- *General:* Multiple small bugfixes and improvements in underlying modules
+- *Account/Stats:* Restructure to support faster account rank lookup in the future
+
+---
+
+#### 2018-10-13
+
+**Bugfixes**
 
 - *Daily:* Fix link pointing to the crafting calculator
 
@@ -25,7 +58,7 @@
   - *This also fixes a bunch of weird bugs, especially in other languages than English.*
 - *Crafting/Ascended Weapons*: Load all craftable ascended items automatically
 
-*Bugfixes*
+**Bugfixes**
 
 - *Account/Value:* Fix the value of precursors counting twice for "Claw of the Khan-Ur", "Verdarach" and "Xiuquatl"
 
