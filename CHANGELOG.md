@@ -1,3 +1,30 @@
+#### 2018-10-21
+
+**Features**
+
+- *Stats/Account Statistics:* Add 7 new account statistics
+  - [Map Currencies -> Inscribed Shards](https://gw2efficiency.com/account/statistics/statistics.inscribedShards)
+  - [Map Currencies -> Lumps of Mistonium](https://gw2efficiency.com/account/statistics/statistics.lumpsOfMistonium)
+  - [Raids -> Legendary Divinations](https://gw2efficiency.com/account/statistics/statistics.legendaryDivinations)
+  - [Aura Items -> Crystal Infusions](https://gw2efficiency.com/account/statistics/statistics.crystalInfusions)
+  - [Aura Items -> Polysaturating Infusions](https://gw2efficiency.com/account/statistics/statistics.polysaturatingInfusions)
+  - [Miscellaneous -> Silverwastes Shovels](https://gw2efficiency.com/account/statistics/statistics.silverwastesShovels)
+  - [Gemstore -> Shared Inventory Slots](https://gw2efficiency.com/account/statistics/statistics.sharedInventorySlots)
+- *Daily:* Add "Gleam of Sentience" and "Volatile Singularity" to the "Converters" section
+
+**Bugfixes**
+
+- *Account/Overview:* Reset the "weight" filter correctly when switching the "type" filter
+- *Crafting/Calculator:* Handle the user entering "0" as the amount for an item better
+
+**Internals**
+
+- *General:* Update the development methology for the backend to a more recent standard
+- *General:* Update build tooling for sprites on the frontend to remove some legacy tooling
+- *General:* Update the way that ads are embedded to be more performant
+
+---
+
 #### 2018-10-17
 
 **Features**
