@@ -1,3 +1,13 @@
+#### 2018-10-27
+
+**Bugfixes**
+
+- *General:* Fix advertisement handling for smaller screen sizes
+  - *This also fixes the mobile navigation being out of view on the right side.*
+- *Account/PvP:* Fix PvP rank points not lining up with the in-game values
+
+---
+
 #### 2018-10-21
 
 **Features**
