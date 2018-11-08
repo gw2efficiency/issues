@@ -73,13 +73,8 @@ The value of a crafting profession equals the cost of levelling the crafting pro
 
 The value of unlocked recipes equals the cost of the recipe sheets.
 
-### Private Guilds ("Guild Bank")
-
-:construction: **This is not supported yet.** :construction:
-
-In the case that the account owns a private guild, which is defined by a guild with the **account as the only member with deposit & withdraw rights** and with **a maximum of 3 members**. All the items in the guild vault count to the account value with their specific values.
-
 ### What does not have a value?
 
 - **Achievements & Titles**: The values for achievements & titles are already included in some other section, either with the item you get for completing them or the items you need to progress them.
+- **Guild Banks**: While a portion of the playerbase uses guild banks as an extension of the account bank, including guild banks into the value is likely to add a whole host of issues around defining what a "personal" guild bank actually is.
 - **Guild Halls**: The amount of people owning a guild hall for themselves is minimal. Instead, guild halls are a collaborative effort, and can't be attributed to single accounts. Therefore they do not count towards the account value.
