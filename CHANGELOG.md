@@ -1,3 +1,20 @@
+#### 2018-11-09
+
+**Features**
+
+- *General:* Add (hover & click) tooltips to item icons in the new codebase
+  - *This adds tooltips to "Account -> Time Machine", "Stats -> Unlock Statistics" and "Crafting -> Zephyrite Supply Boxes"*
+
+**Bugfixes**
+
+- *Daily:* Fix the ability to un-hide dailies
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 #### 2018-10-27
 
 **Bugfixes**
