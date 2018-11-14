@@ -1,3 +1,25 @@
+#### 2018-11-14
+
+**Features**
+
+- [*Account/Mounts:*](https://gw2efficiency.com/account/mounts) Add a page for showing unlocked mount skins on the account
+- *Account/Value:* Add unlocked mount skins into the calculation
+- *Account/Time Machine:* Show changes in unlocked mount skin value
+- *Stats/Account Statistics:* Add 2 new account statistics
+  - [Wealth -> Mount value](https://gw2efficiency.com/account/statistics/values.mounts.value)
+  - [Progression -> Unlocked Mounts](https://gw2efficiency.com/account/statistics/statistics.mountCount))
+- [*Stats/Unlock Statistics:*](https://gw2efficiency.com/account/unlock-statistics?filter.key=mounts) Add unlock statistics for mounts
+
+**Bugfixes**
+
+- *Account/Character:* Fix two rare cases in which the displayed AR was incorrect
+
+**Chores**
+
+- *Stats/Account Statistics:* Update the list of blacklisted cheaters
+
+---
+
 #### 2018-11-09
 
 **Features**
