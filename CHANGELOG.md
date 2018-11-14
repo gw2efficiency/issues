@@ -7,7 +7,7 @@
 - *Account/Time Machine:* Show changes in unlocked mount skin value
 - *Stats/Account Statistics:* Add 2 new account statistics
   - [Wealth -> Mount value](https://gw2efficiency.com/account/statistics/values.mounts.value)
-  - [Progression -> Unlocked Mounts](https://gw2efficiency.com/account/statistics/statistics.mountCount))
+  - [Progression -> Unlocked Mounts](https://gw2efficiency.com/account/statistics/statistics.mountCount)
 - [*Stats/Unlock Statistics:*](https://gw2efficiency.com/account/unlock-statistics?filter.key=mounts) Add unlock statistics for mounts
 
 **Bugfixes**
