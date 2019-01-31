@@ -1,3 +1,60 @@
+#### Pending
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+**Internals**
+
+- *General:* Retry API requests up to 3 times, because of API instabilities
+
+---
+
+#### 2019-01-09
+
+**Chores**
+
+- *Account/Dyes:* Update the dye previews for the Kralkatorrik set
+- *Crafting/Calculator:* Update the list of recipes, including recipes for the new legendary "Pharus"
+
+---
+
+#### 2019-01-01
+
+**Features**
+
+- *Community/Lottery:* Add the regular lottery back & remove Quizmas
+
+**Bugfixes**
+
+- *Account/Miniatures:* Fix the miniature set filter not being crawled correctly (by @Ashden)
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+- *Translations:* Update translations
+
+**Internals**
+
+- *General:* Reword everything from "Donation" to "Support", since we pay taxes
+
+---
+
+#### 2018-12-01
+
+**Features**
+
+- *Community/Lottery:* Add the christmas lottery & Quizmas :santa:
+
+**Chores**
+
+- *General:* Revert to the previous advertising provider (Sovrn)
+- *General:* Remove the affiliate link from dashboard
+- *Stats/Account Statistics:* Rename "N/A" to "Click to see" for clarity
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 #### 2018-11-14
 
 **Features**
