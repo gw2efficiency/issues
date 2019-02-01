@@ -1,12 +1,25 @@
-### Pending
+### 2019-02-01
+
+**Bugfixes**
+
+- *Account/Achievements:* Fix overachieved achievements not being ordered to the bottom of the list
+- *Account/Wardrobe:* Fix some generation 1 legendaries having "Exotic" rarity
+- *Crafting/Calculator:* Fix the recipes for legendary armor crafting
+- *Gathering/Permanent Nodes:* Fix "reset daily progress" button not resetting the daily progress
+- *Legal Notice:* Fix link to opt out ouf account statistic gathering
+- *Stats/Unlock Statistics:* Remove data of accounts that have opted out of statistic gathering
 
 **Chores**
 
+- *Account/Value:* Add value to various items (including the items in the last "Black Lion Exclusives Chest")
+- *Account/Value:* Update gemstore items
+- *Crafting/Calculator:* Update the list of recipes
+- *Daily:* Add "Provisioner Tokens" and "Roller Beetle Racing Adventures" to the checklist
 - *Supporters & Contributors:* Update the list of supporters
 
 **Internals**
 
-- *General:* Retry API requests up to 3 times, because of API instabilities
+- *General:* Retry API requests up to 3 times, because of recent API instability
 
 ---
 
