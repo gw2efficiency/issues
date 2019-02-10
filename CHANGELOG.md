@@ -1,3 +1,44 @@
+### 2019-02-10
+
+**Features**
+
+- *Account/Value:* Add gems in the wallet to the account value, at current gold-to-gem rate
+- *Crafting/Calculator:* Add buttons to set the entire crafting tree to "best path" (default), "craft" or "buy"
+- *Crafting/Calculator:* Handle items with multiple crafting recipes by only showing the currently cheapest recipe
+  - *Recipe prices are updated every 4 hours.*
+- *Daily:* Add the name of the daily recommended fractal scale into the description
+- *Stats/Account Statistics:* Add 8 new account statistics
+  - [Currencies -> Racing Medallions](https://gw2efficiency.com/account/statistics/statistics.racingMedallions)
+  - [Map currencies -> Branded Mass](https://gw2efficiency.com/account/statistics/statistics.brandedMass)
+  - [Collectables -> Verdant Brink: Hero's Choice Chest](https://gw2efficiency.com/account/statistics/statistics.vbHerosChoice)
+  - [Collectables -> Tangled Depths: Hero's Choice Chest](https://gw2efficiency.com/account/statistics/statistics.tdHerosChoice)
+  - [Collectables -> Auric Basin: Hero's Choice Chest](https://gw2efficiency.com/account/statistics/statistics.abHerosChoice)
+  - [Collectables -> Dragon's Stand: Hero's Choice Chest](https://gw2efficiency.com/account/statistics/statistics.dsHerosChoice)
+  - [Player vs. Player -> PvP Tournament Vouchers](https://gw2efficiency.com/account/statistics/statistics.pvpTournamentVouchers)
+  - [Miscellaneous -> 32-Slot Bags](https://gw2efficiency.com/account/statistics/statistics.thirtyTwoSlotBags)
+- *Stats/Player Statistics:* Add region (North Ameria / Europe) distribution of accounts
+- *Stats/Unlock Statistics:* Add a rarity filter for skin unlocks
+- *Supporters:* Send a reminder email to supporters that have not claimed their supporter status after more than one month
+- *Supporters:* Show the date and time of the first support on the user page
+
+**Bugfixes**
+
+- *Account/Bank:* Fix bound items' sell/buy price being added to the total sell/buy price at the top
+- *Account/Characters:* Take character base stats into account when calculating their main attributes
+- *Account/Shared Inventory:* Fix bound items' sell/buy price being added to the total sell/buy price at the top
+- *Account/Value:* Fix the value of Pharus's precursors counting twice
+- *Daily:* Fix the "Roller Beetle Racing Adventure" daily reappearing after being hidden
+- *General:* Fix nightmode in Safari 12.1+ (by @darthmaim)
+
+**Chores**
+
+- *Account/Value:* Add value to the "Mini Husk-o-Lantern"
+- *Account/Value:* Fix the value for a few items that unlock multiple armor weights
+- *Account/Value:* Update gemstore values
+- *Translations:* Update German translations (by @Regitus)
+
+---
+
 ### 2019-02-01
 
 **Bugfixes**
