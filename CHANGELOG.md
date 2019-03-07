@@ -1,3 +1,25 @@
+### 2019-03-07
+
+**Features**
+
+- *Account/Search:* Show which items upgrades and infusions are equipped in at the top of their tooltips
+
+**Bugfixes**
+
+- *Account/Achievements:* Fix the completed percentage indicator of achievements being invisible with enabled night mode
+- *Account/Overview:* Fix the playtime calculation ignoring deleted characters
+- *Account/Statistics:* Add "Reinforced Olmakhan Bandolier" to the 32 slot bag statistic
+- *Crafting/Calculator:* Fix "buy all" setting the mode of top level recipes to buy when crafting multiple recipes
+- *Crafting/Calculator:* Fix "buy all" setting the mode to buy for non-tradable components
+- *Crafting/Calculator:* Remove all promotions requiring spirit shards
+
+**Chores**
+
+- *Supporters & Contributors:* Specify that supporter prices are in USD and other currencies will be converted
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2019-02-10
 
 **Features**
