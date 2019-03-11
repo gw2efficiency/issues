@@ -56,8 +56,6 @@ Outfits are valued by the price (either in gold, items or gems) that is paid to 
 
 ### Wallet
 
-:construction: **"Gems" are not supported yet.** :construction:
-
 - **Gold** is valued at it's direct value
 - **Gems** are valued at the current gems to gold conversion rate
 - **Other currencies** *are not valued, since there is no "best" way for conversion, and there are many other use cases for them other than conversion. If you want your currencies to count into the account value, convert them into Gold as you see fit.*
