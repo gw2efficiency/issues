@@ -1,3 +1,23 @@
+### 2019-03-26
+
+**Bugfixes**
+
+- *Daily:* / *Dungeons:* Fix some occurrences where dungeons and raids were incorrectly shown as completed if they were done before the last reset
+- *Stats/Account Statistics:* Count "Pharus" as a legendary
+
+**Chores**
+
+- *Account/Dyes:* Update the dye previews for the Sacred Dye Kit
+- *Account/Nodes:* Add new home gathering nodes
+- *Crafting/Calculator:* Fix some occurrences where an additional amalgamated gemstone was generated in recipes
+- *Supporters & Contributors:* Update the list of supporters
+
+**Internals**
+
+- *General:* Update the API client to support future schema changes and migrate latest changes
+
+---
+
 ### 2019-03-07
 
 **Features**
