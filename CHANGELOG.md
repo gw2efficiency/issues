@@ -1,3 +1,20 @@
+### 2019-04-11
+
+**Features**
+
+- *Account/Statistics:* Include unlocked account luck into the "luck" statistic
+  - *Previously, only the luck as items was counted, now both unlocked luck and luck as items counts.*
+- *Daily:* Sort the "world bosses" category by the next event start
+- *Daily:* Autoload the account daily status for world bosses, daily crafting items and HoT map chests
+- *Timers:* Autoload the account daily status for world bosses
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+- *Translations:* Update French translations (by @EDCDragon)
+
+---
+
 ### 2019-03-26
 
 **Bugfixes**
