@@ -1,3 +1,29 @@
+### 2019-04-28
+
+**Features**
+
+- *Crafting/Recipe Search:* Add a new page to search through crafting recipes
+  - *This replaces the previous "Recipe Overview"*
+- *Crafting/Ascended:* Add the ability to order items by crafting price
+
+**Bugfixes**
+
+- *Account/Characters:* Fix an issue where characters could become un-shared when the API returned wrong error codes
+
+**Chores**
+
+- *Account/Value:* Update gemstore values
+- *Account/Nodes:* Add value to "Supply Cache" and "Mistonium Node"
+- *Account/SAB:* Add the "Mega Bomb" unlock status
+- *Translations:* Update French translations (by @EDCDragon)
+- *Ads:* Run a month-long promotional advertisement
+
+**Internals**
+
+- *General:* Improve handling of API errors on a few pages
+
+---
+
 ### 2019-04-11
 
 **Features**
