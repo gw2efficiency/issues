@@ -1,3 +1,16 @@
+### 2019-05-15
+
+**Features**
+
+- *Stats/Account Statistics:* Add one new account statistic
+  - [Map Currencies -> Mistborn Mote](https://gw2efficiency.com/account/statistics/statistics.mistbornMote)
+- *Crafting/Calculator*: Add recipes for the new legendary "Exordium"
+
+**Chores**
+
+- *Account/Value:* Update gemstore values
+- *Account/Mounts:* Update mounts to match game content
+
 ### 2019-04-28
 
 **Features**
