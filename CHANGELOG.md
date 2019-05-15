@@ -9,6 +9,7 @@
 **Chores**
 
 - *Account/Value:* Update gemstore values
+- *Account/Value:* Fix some items not being counted at Black Lion Exclusives Chest price
 - *Account/Mounts:* Update mounts to match game content
 
 ### 2019-04-28
