@@ -1,3 +1,32 @@
+### 2019-05-30
+
+**Features**
+
+- *Account/Material Storage:* Completely redesign the material storage page
+  - *Now with filter and order options, and the ability to overlay a heatmap to find your priciest shinies.*
+- *Account/Dyes:* Replace the copy and wiki buttons with an item icon
+  - *This gives the same abilities before, and additionally the options to search and copy the name (when clicking on the icon).*
+- *Account/Overview:* Handle extended search modifiers in the account search
+
+**Bugfixes**
+
+- *Account/Farming Tracker:* Fix not being able to resume the farming tracker after API / network errors
+- *Crafting/Recipe Search:* Fix not being able to search for untradable result items
+- *General:* Fix on-click tooltip rendering not overlaying the item icon when clipping the right screen edge
+
+**Chores**
+
+- *General:* Update translations
+- *Supporters & Contributors:* Update the list of supporters
+
+**Internals**
+
+- Massive refactoring of components ("building blocks") to improve development speed, robustness and developer happiness
+- Extensive performance optimization of commonly rendered components (item icons, gold, tooltips, etc.)
+- Experimentally use the CDN provided by [gw2treasures](https://en.gw2treasures.com/) to render item icons instead of the one provided by the official API, to increase stability
+
+---
+
 ### 2019-05-15
 
 **Features**
