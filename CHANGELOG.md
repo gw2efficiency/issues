@@ -1,3 +1,27 @@
+### 2019-06-04
+
+**Features**
+
+- *Account/Material Storage:* Make the heatmap colours dependent on the currently active filters
+- *Account/Material Storage:* Add the ability to toggle the inclusion/exclusion of a material from the search filter via `ALT` + `Click`
+  - *Try this with activated heatmap on your most expensive materials!*
+- *Account/Material Storage:* Render bound items as "Bound" instead of "0 copper"
+- *Account/Material Storage:* Render items without a generated value as "No Value" instead of "0 copper"
+- *Account/Material Storage:* Add support for smaller screen sizes (e.g. phones)
+
+**Bugfixes**
+
+- *Account/Miniatures:* Fix images for miniatures with corrupted item links
+- *General:* Fix some partially transparent icons rendering a white background in night mode
+- *General:* Fix the outline of the icon subtext sometimes having the wrong colour in night mode
+
+**Chores**
+
+- *General:* Temporarily disable tooltips for touch devices
+  - *This was done because touch devices have no way to close the tooltips, and the tooltips are often rendered outside of screen bounds on small screens*
+
+---
+
 ### 2019-05-30
 
 **Features**
