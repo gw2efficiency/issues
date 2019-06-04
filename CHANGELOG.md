@@ -3,7 +3,7 @@
 **Features**
 
 - *Account/Material Storage:* Make the heatmap colours dependent on the currently active filters
-- *Account/Material Storage:* Add the ability to toggle the inclusion/exclusion of a material from the search filter via `ALT` + `Click`
+- *Account/Material Storage:* Add the ability to toggle materials via `ALT` + `Click`
   - *Try this with activated heatmap on your most expensive materials!*
 - *Account/Material Storage:* Render bound items as "Bound" instead of "0 copper"
 - *Account/Material Storage:* Render items without a generated value as "No Value" instead of "0 copper"
