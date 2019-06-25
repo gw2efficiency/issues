@@ -1,3 +1,28 @@
+### 2019-06-25
+
+**Features**
+
+- *General:* Add beta site for supporters
+  - *Supporters in Discord can now get access to the newest features a little early!*
+- *Account/Statistics:* Add new trinket legendaries "Vision" and "Coalescence"
+- *Account/Overview:* Add "Gathering" as a filterable type
+- *Dailies:* Add Hero's Choice Chests for Path of Fire maps
+- *Account/Home Nodes:* Add "Dragon Crystal" and "Mistborn Mote" home instance nodes
+- *Account/Material Storage:* With the heatmap active, show a grey overlay if the item does not have a value at all
+- *Account/Material Storage:* Signify more clearly when something is greyed out because the filter does not match
+
+**Bugfixes**
+
+- *Account/Value:* Remove value from discontinued Snowflake items
+
+**Chores**
+
+- *Account/Value:* Update gemstore values
+- *Crafting/Calculator*: Update mystic forge recipes
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2019-06-04
 
 **Features**
