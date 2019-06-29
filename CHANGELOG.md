@@ -7,7 +7,7 @@
 **Bugfixes**
 
 - *Account/Value:* Inherit value of discontinued Snowflake items from new "Snowflake" item
-- *Account/Statistics:* Count "Legendary Divinations" used to build "Gift of Compassion" and "Coalescence"
+- *Account/Statistics:* Include "Legendary Divinations" used to build "Gift of Compassion" and "Coalescence"
 
 ---
 
