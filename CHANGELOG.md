@@ -1,3 +1,16 @@
+### 2019-06-29
+
+**Features**
+
+- *Dungeons:* Add the data for the new raid "The Key of Ahdashim"
+
+**Bugfixes**
+
+- *Account/Value:* Inherit value of discontinued Snowflake items from new "Snowflake" item
+- *Account/Statistics:* Count "Legendary Divinations" used to build "Gift of Compassion" and "Coalescence"
+
+---
+
 ### 2019-06-25
 
 **Features**
