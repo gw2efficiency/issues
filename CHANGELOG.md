@@ -1,3 +1,19 @@
+### 2019-07-05
+
+**Features**
+
+- *Account/Novelties:* Add a new site to see your unlocked novelties
+  + *This site replaces the old "Tonics" site and includes all the novelties your account has unlocked.*
+- *Account/Value:* Novelties are now included in the account value calculation
+- *Stats/Player Statistics:* Add a new statistic for the unlocked novelty count
+- *Stats/Unlock Statistics:* Add unlock statistic for novelties
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2019-06-29
 
 **Features**
