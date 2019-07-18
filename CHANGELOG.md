@@ -1,3 +1,12 @@
+### 2019-07-18
+
+**Bugfixes**
+
+- *Account/Time Machine:* Support novelties
+- *Account/Mounts:* Remove random item descriptions on hover
+
+---
+
 ### 2019-07-05
 
 **Features**
