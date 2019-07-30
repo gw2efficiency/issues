@@ -4,6 +4,10 @@
 
 - *Account/Time Machine:* Fixed an issue where snapshot comparisons would never finish loading if no novelties changed between the two selected snapshots
 
+**Chores**
+
+- *Crafting/Zephyrite Supply Boxes:* Adjusted rates to the new game update
+
 ---
 
 ### 2019-07-18
