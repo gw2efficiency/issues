@@ -1,3 +1,11 @@
+### 2019-07-30
+
+**Bugfixes**
+
+- *Account/Time Machine:* Fixed an issue where snapshot comparisons would never finish loading if no novelties changed between the two selected snapshots
+
+---
+
 ### 2019-07-18
 
 **Bugfixes**
