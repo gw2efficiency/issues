@@ -42,7 +42,11 @@ The one exception to this are ascended boxes, which use the average value across
 
 ### Gemstore items
 
-While a lot of gemstore items are acquired for free from dailies or events, they do hold a value. This value is the default gem price (without taking sales into account) at the current gold to gem conversion rate.
+Items sold at the gemstore have the value of their default gem price (without taking sales into account) at the current gold to gem conversion rate.
+
+However, the following gem items are ignored for the value calculation, since they are amassed from dailies and events for free:
+
+Bank Access Express, Banker Golem (2 weeks), Black Lion Salvage Kit, Box o' Fun, Crafting Booster, Experience Booster, Gathering Booster, Glory Booster, Heroic Booster, Instant Repair Canister, Item Booster, Karma Booster, Killstreak Experience Booster, Magic Find Booster, Merchant Express, Metabolic Primer, Mystic Forge Stone, Revive Orb, Super Adventure Box o' Fun, Swim Speed Boost, Trading Post Express, Transmutation Charge, WXP Booster
 
 ## Account value
 
