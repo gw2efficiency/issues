@@ -1,8 +1,25 @@
+### 2019-09-14
+
+**Features**
+
+- *Account/Value:* Change the calculation for the value of items to be fairer and more consistent.
+  - *We employ an algorithm to detect whether or not the sell price of an item is an accurate representation of it's value. This algorithm previously excluded some item categories (e.g. miniatures), which are now handled the same. We have also tweaked the numbers a little. Please read [this document](./docs/account-value.md#item-value) on how item value is calculated for more information.*
+
+**Bugfixes**
+
+- *Account/Value:* Fix value of items that got flagged with "inaccurate sell price" being ignored for skin value calculation
+
+**Chores**
+
+- *General:* Update German translations (Thanks to @Superritchman!)
+
+---
+
 ### 2019-07-30
 
 **Bugfixes**
 
-- *Account/Time Machine:* Fixed an issue where snapshot comparisons would never finish loading if no novelties changed between the two selected snapshots
+- *Account/Time Machine:* Fix an issue where snapshot comparisons would never finish loading if no novelties changed between the two selected snapshots
 
 **Chores**
 
