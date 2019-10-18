@@ -1,3 +1,43 @@
+### 2019-10-18
+
+**Features**
+
+- *Account/Character -> Discovered Recipes:* Completely redesign the page
+  + *The page now also allows for showing undiscovered recipes and filtering by rating.*
+- *Account/Bank:* Completely redesign the page
+  + *The page now also allows for searching, changing the displayed price, overlaying a heatmap, and ordering by name, price, rarity and count.*
+- *Account/Shared Inventory:* Completely redesign the page
+  + *The page now also allows for searching, changing the displayed price and ordering by name, price, rarity and count.*
+- *Account/Miniatures:* Completely redesign the page
+  + *The page now also allow for filtering by binding status and ordering by in-game order.*
+- *Account/Mounts:* Completely redesign the page
+  + *The page now also allows for filtering by gemstore items and mount type.*
+- *Account/Recipes:* Completely redesign the page
+  + *The page now also allows for filtering by binding status.*
+- *Account/PvP Heroes:* Completely redesign the page
+  + *The page now also allows for filtering by hero.*
+- *Account/Mailcarries:* Completely redesign the page
+  + *The page now also allows for filtering by gemstore items and binding status, and ordering by in-game order.*
+- *Account/Outfits:* Completely redesign the page
+  + *The page now also allows for filtering by gemstore items.*
+- *Account/Finishers:* Completely redesign the page
+  + *The page now also allows for filtering by gemstore items and binding status, and ordering by in-game order.*
+- *Account/Home Nodes:* Completely redesign the page
+  + *The page now also allows for filtering by gemstore items and binding status.*
+- *Account/Home Cats:* Completely redesign the page
+  + *The page now also allows for ordering by release date and name, and has much better tooltips.*
+- *Account/Gliders:* Completely redesign the page
+  + *The page now also allows for filtering by gemstore items, and ordering by in-game order.*
+- *Account:* Improve mobile design for all redesigned account pages
+- *Account:* Add custom order directions (ascending and descending) to all redesigned account pages
+- *Account:* Show the split of gold and gems when hovering the "progression display" for unlocks
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2019-09-14
 
 **Features**
