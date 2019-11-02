@@ -1,3 +1,12 @@
+### 2019-11-02
+
+**Chores**
+
+- *Account/Value:* Add value to various items (Thanks to @sutgon)
+- *Account/Value:* Update gemstore values (Thanks to @sutgon)
+
+---
+
 ### 2019-10-18
 
 **Features**
