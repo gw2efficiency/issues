@@ -17,7 +17,7 @@
 **Features**
 
 - *Account/Value:* Improve the value calculation for some craftable items (Thanks to @sutgon)
-  - *Now, if an item is not being sold on the trading post, but can be crafted, it's value will be the higher of the crafting and the buy price (previously always buy price). This more accurately reflects the value of lesser traded, craftable items (e.g. bulk recipes).*
+  - *Now, if an item is marked as inflated (either current or last known sell price if it isn't being sold right now) and it can be crafted and crafting cost is below that of the inflated sell price, its value will be the higher of the crafting and the buy price (previously always buy price). This more accurately reflects the value of lesser traded, craftable items (e.g. bulk recipes).*
 - *Crafting/Calculator:* Also allow "0" as a quantity when crafting, for quick multi-recipe adjustments
 
 **Bugfixes**
