@@ -1,3 +1,17 @@
+### 2019-11-18
+
+**Features**
+
+- *Daily:* Add more timegated recipes to the crafting section
+
+**Bugfixes**
+
+- *Account/Value:* Remove value from untradable racing rewards (Racing Scarfs)
+- *Crafting/Calculator:* Remove a recipe for the "Attuned Mistborn Band" that infused twice
+- *Daily:* List guild hall syntesis output upgrade, not the type of guildhall for gathering
+
+---
+
 ### 2019-11-15
 
 **Features**
