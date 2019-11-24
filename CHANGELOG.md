@@ -1,3 +1,26 @@
+### 2019-11-24
+
+**Features**
+
+- *Stats/Account Statistics:* Add 6 new statistics:
+  - Cosmetic Auras -> Ember Infusions
+  - Cosmetic Auras -> Mystic Infusions
+  - Cosmetic Auras -> Peerless Infusions
+  - Cosmetic Auras -> Toy Shell Infusions
+  - Map Currencies -> Eternal Ice Shard
+  - Map Currencies -> Hatched Chili
+
+**Bugfixes**
+
+- *Daily:* Move the new "Living World" dailies next to the other main daily categories
+
+**Chores**
+
+- *Account/Value:* Update item values (Thanks to @sutgon)
+- *General:* Update French translations (Thanks to @gottfrois)
+
+---
+
 ### 2019-11-18
 
 **Features**
