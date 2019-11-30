@@ -1,3 +1,18 @@
+### 2019-11-30
+
+**Features**
+
+- *Community/Lottery:* Add the christmas lottery :santa:
+  - *This year also rocking a mobile-friendly design!*
+- *[Supporter Benefits](https://gw2efficiency.com/supporter-benefits):* Add a new page to show off the benefits of supporter tiers
+
+**Chores**
+
+- *Account/Value:* Update gemstore items (Thanks to @sutgon)
+- *Supporter Benefits:* Update PayPal link to pre-select USD to prevent some confusion
+
+---
+
 ### 2019-11-24
 
 **Features**
