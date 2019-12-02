@@ -1,3 +1,12 @@
+### 2019-12-02
+
+**Chores**
+
+- *General:* Add information about annual Christmas lottery to the top of the page
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2019-11-30
 
 **Features**
