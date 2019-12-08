@@ -1,3 +1,12 @@
+### 2019-12-08
+
+**Chores**
+
+- *Translations:* Update the translations
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2019-12-02
 
 **Chores**
