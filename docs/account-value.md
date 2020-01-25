@@ -8,12 +8,10 @@
 
 We employ the following algorithm to determine whether the sell price of an item is an accurate representation of it's value. If any of the following points match for an item, the sell price is assumed to be accurate:
 
-- **The buy price of the item is higher than 500 gold.** This metric catches generally valuable items that people might not have buy orders for temporarily because they are so expensive.
-  - *A person trying to trick the system can't manipulate this easily because if they add a buy order of e.g. 600g for an item that is only worth 3g, someone will fill the offer and it will correct itself down automatically.*
 - **The supply of the item is higher than 5000.** This metric is the "catch-all" for high throughput materials, where the market generally self-corrects very fast.
   - *A person trying to trick the system could theoretically manipulate this by listing 5000 items at a high price, but this will cost a ton of money, and someone can just list an item for cheaper to correct it back down.*
 - **The sell price is less than the buy price / 5.** We think it's fair to say that if someone is willing to order an item for 100g and there are some listed for 400g, the value could be / is closer to 400g. Meanwhile, if there are orders for 1g and there is an item listed for 10000g, the value is closer to 1g.
-- **The sell price minus the buy price is less than 2 gold.** This is to handle all the little items where the other metrics might not grip correctly (e.g. a 20c profit could be 800% ROI). 
+- **The sell price minus the buy price is less than 2 gold.** This is to handle all the little items where the other metrics might not grip correctly (e.g. a 20c profit could be 800% ROI).
   - *This is generally also hard to manipulate because to make a real shift in account value you will have to have a ton of the items on your account (1/2 item per 1g increase).*
 
 ### Item value

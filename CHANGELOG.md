@@ -4,6 +4,7 @@
 
 - *Account/Search*: Include items in equipment tabs into the search results
 - *Account/Value*: Include items in equipment tabs into the account value
+- *Account/Value:* Update the item valuation algorithm to remove an abusable edge-case
 - *Account/Character:* Support multiple equipment tabs & build tabs
 - *Account/Character:* Show skills and aquatic skills for the active build tab
 - *Account/Character:* Show the build template chat link for the active build tab
