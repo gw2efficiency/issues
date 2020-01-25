@@ -1,3 +1,40 @@
+### 2020-01-25
+
+**Features**
+
+- *Account/Search*: Include items in equipment tabs into the search results
+- *Account/Value*: Include items in equipment tabs into the account value
+- *Account/Character:* Support multiple equipment tabs & build tabs
+- *Account/Character:* Show skills and aquatic skills for the active build tab
+- *Account/Character:* Show the build template chat link for the active build tab
+
+**Chores**
+
+- *Account/Value:* Update gemstore items (Thanks to @sutgon)
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2020-01-04
+
+**Bugfixes**
+
+- *Lottery:* Fix an error when entering the lottery without an API key
+
+---
+
+### 2020-01-01
+
+**Features**
+
+- *Lottery:* Add the regular lottery back & remove Quizmas
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2019-12-08
 
 **Chores**
