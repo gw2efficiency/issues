@@ -1,3 +1,11 @@
+### 2020-01-26
+
+**Bugfixes**
+
+- *Account/Achievement:* Fix an error that prevented the site from loading
+
+---
+
 ### 2020-01-25
 
 **Features**
