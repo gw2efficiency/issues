@@ -1,3 +1,11 @@
+### 2020-01-29
+
+**Chores**
+
+- *Account/Dyes:* Update the rendered dyes for the newest patch
+
+---
+
 ### 2020-01-26
 
 **Bugfixes**
