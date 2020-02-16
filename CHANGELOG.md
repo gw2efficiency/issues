@@ -1,3 +1,20 @@
+### 2020-02-12
+
+**Chores**
+
+- *General:* Temporarily move to a new database cluster
+  - *Our database is running full, and this temporarily moved us into a cluster configuration with more storage, while we are waiting for the permanent future servers to be provisioned.*
+
+---
+
+### 2020-02-05
+
+**Chores**
+
+- *Account/Value:* Add a bound Leather Bag to the tradingpost blacklist
+
+---
+
 ### 2020-01-29
 
 **Chores**
