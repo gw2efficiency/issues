@@ -1,3 +1,45 @@
+### 2020-02-16
+
+**Features**
+
+- *Stats/Account Statistics:* Add new 8 statistics:
+  - Account -> Mastery Points (The Icebrood Saga)
+  - Collectables: Crystal Oasis: Hero's Choice Chest
+  - Collectables: Domain of Vabbi: Hero's Choice Chest
+  - Collectables: Elon Riverlands: Hero's Choice Chest
+  - Collectables: The Desolation: Hero's Choice Chest
+  - Cosmetic Auras -> Heart of the Khan-Ur
+  - Map Currencies -> Eitrite Ingots
+  - Miscellaneous -> New Year, New Quaggan
+- *Stats/Unlock Statistics:* Add PvP Heroes
+- *Account/Achievements:* Add a filter for Icebrood Saga mastery points
+- *General:* Encode applied skins & upgrades into generated chat codes
+
+**Bugfixes**
+
+- *Account/General:* Calculate "Liquid Gold (Sell)" with the buy price of items if the sell price is not available
+- *Account/Achievements:* Show achievement categories without groups under "Historical"
+- *Account/Dyes:* Also show an icon and allow item tooltip clicks for starter dyes
+- *Account/Character:* Fix page load error if build or equipment are not shared
+- *Stats/Unlock Statistics:* Fix not being able to load the page without an API key attached
+- *Supporter Benefits:* Fix showing the incorrect supporter status in some cases
+
+**Chores**
+
+- *Crafting/Calculator:* Add recipes for cultivating herbs
+- *Crafting/Calculator:* Update mystic forge recipes
+- *Crafting/Calculator:* Add recipe for opening the Endless Bottle of Batwing Brew
+- *Crafting/Calculator:* Add a few more vendor items
+- *Crafting/Calculator:* Purge some outdated recipes
+- *Account/Mounts:* Add new mount skins
+- *Account/Home Nodes:* Add new home instance nodes
+- *Account/Home Nodes:* Add unbound version of Hatched Chilly Pepper
+- *Daily:* Add treasure mushrooms
+- *Daily:* Add gossamer stuffing to the daily craftable items
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2020-02-12
 
 **Chores**
