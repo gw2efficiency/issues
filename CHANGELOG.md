@@ -1,3 +1,20 @@
+### 2020-02-27
+
+**Features**
+
+- *General:* Redesign the footer
+
+**Bugfixes**
+
+- *Dyes:* Fix a page crash when no API keys were provided
+
+**Chores**
+
+- *Account/Value:* Update gemstore items (Thanks to @sutgon)
+- *Translations:* Update German translations (Thanks to @holoxx)
+
+---
+
 ### 2020-02-16
 
 **Features**
