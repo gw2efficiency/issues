@@ -1,3 +1,17 @@
+### 2020-03-18
+
+**Bugfixes**
+
+- *Account/Characters:* Fix wrongly including items in the armory for stat calculations
+- *Account/Characters:* Fix a crash if not all equipped items are available in the API
+
+**Chores**
+
+- *Crafting/Calculator:* Update mystic forge recipes
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2020-02-27
 
 **Features**
