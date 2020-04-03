@@ -1,3 +1,26 @@
+### 2020-04-03
+
+**Features**
+
+- *Account/Guild:* Add an indicator if the required level for upgrades is not reached
+- *Account/Guild:* Show item progress and missing amount for treasury items
+- *General:* When available, use the item id for generating wiki links
+- *Account/Achievements:* Add a link to queue all remaining craftable items of collections in the crafting calculator
+
+**Bugfixes**
+
+- *Currency/Claim Tickets:* Fix not loading the correct claim tickets because of wiki changes
+- *Account/Miniatures:* Fix not loading some of the correct sets because of wiki changes
+- *Account/Value:* Fix not taking the value of some ascended items into account when generating skin values
+- *Stats & Crafting/Legendaries:* Fix Transcendence & Conflux not counting as legendary trinkets
+
+**Chores**
+
+- *Stats:* The Reinforced Boreal Trunk now counts for the "32-Slot Bags" statistic
+- *Crafting/Calculator:* Add more vendor items
+- *Gathering/Permanent Nodes:* Update the list of gathering nodes
+
+---
 
 ### 2020-03-26
 
@@ -95,7 +118,7 @@
 
 ### 2020-02-12
 
-**Chores**
+**Internals**
 
 - *General:* Temporarily move to a new database cluster
   - *Our database is running full, and this temporarily moved us into a cluster configuration with more storage, while we are waiting for the permanent future servers to be provisioned.*
