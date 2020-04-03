@@ -1,3 +1,25 @@
+
+### 2020-03-26
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+**Internals**
+
+- *General:* Move the database to a new architecture & cluster
+- *General:* Improve health checks for cluster status & backups
+
+---
+
+### 2020-03-22
+
+**Chores**
+
+- *Crafting/Calculator:* Update mystic forge recipes for Transcendence & Conflux
+
+---
+
 ### 2020-03-18
 
 **Bugfixes**
