@@ -1,3 +1,24 @@
+### 2020-04-12
+
+**Features**
+
+- *Account/Overview:* Update the account value chart to the new chart style
+  - *This now renders via our new code base, and has gotten a redesign and some new functionality. Click to zoom, CTRL+Click to pan.*
+- *Account:* Most icons now support an on-touch tooltip for mobile
+  - *This works for all of the "new style" icons, so on most unlock, and the bank & material storage pages.*
+
+**Bugfixes**
+
+- *General:* Fix nightmode not being rendered for the whole page
+- *Supporters:* Fix Discord tag in supporter emails
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+- *Translations:* Update German translations (Thanks to @holoxx)
+
+---
+
 ### 2020-04-03
 
 **Features**
