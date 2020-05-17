@@ -22,6 +22,7 @@
 **Internals**
 
 - *General:* Improve alerting for backend job issues
+- *Stats:* Improve distribution of crawling jobs
 
 ---
 
