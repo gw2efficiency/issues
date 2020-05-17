@@ -1,3 +1,30 @@
+### 2020-05-17
+
+**Features**
+
+- *Account/Overview:* Add support for "delta" mode to the chart
+- *Stats:* Update the main charts to the new chart style
+- *Stats:* Add support for "delta" mode to the main charts
+
+**Bugfixes**
+
+- *Stats:* Fix an issue where the ranks for some accounts were not generated intermittently
+- *Tradingpost:* Fix filters clipping on some Firefox versions
+
+**Chores**
+
+- *Account/Dyes:* Update the rendered dyes for the newest patch
+- *Supporters & Contributors:* Update the list of supporters
+- *Account/Value:* Update some missing item values (Thanks to @malagus!)
+- *Stats:* Remove a few cheaters from the leaderboard
+- *Crafting/Calculator:* Improve recipes for the "Aurora II: Empowering" collection (Thanks to @Archomeda!)
+
+**Internals**
+
+- *General:* Improve alerting for backend job issues
+
+---
+
 ### 2020-04-12
 
 **Features**
