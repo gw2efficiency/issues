@@ -1,3 +1,20 @@
+### 2020-05-30
+
+**Bugfixes**
+
+- *Currency/Laurels:* Fix output for light & small crafting bags (Thanks to @Arckange007!)
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+- *Account/Value:* Update some missing item & gemstore values (Thanks to @sutgon!)
+
+**Internals**
+
+- *Stats:* Improve distribution of crawling jobs
+
+---
+
 ### 2020-05-17
 
 **Features**
