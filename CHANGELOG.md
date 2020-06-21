@@ -1,3 +1,18 @@
+### 2020-06-21
+
+**Chores**
+
+- *Account/Mounts:* Update new mounts
+- *Account/Nodes:* Update new nodes
+- *Account/Value:* Update some missing item & gemstore values (Thanks to @sutgon!)
+- *Supporters & Contributors:* Update the list of supporters
+
+**Internals**
+
+- *General:* Server housekeeping
+
+---
+
 ### 2020-05-30
 
 **Bugfixes**
