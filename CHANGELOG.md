@@ -1,4 +1,34 @@
+### 2020-07-05
+
+**Bugfixes**
+
+- *Crafting/Calculator:* Fix crafting flow for legendary PvP & WvW armor (Thanks to @adrienfallot!)
+- *Account/Value:* Fix an issue where gemstore prices took precedence over item inheritance
+  - *This means that the items in the Black Lion Exclusives Chest are now back to being valued at it's tradingpost price, as opposed to being valued at the price of 1 Black Lion Key. If you saw a big value drop recently, this change fixes it.*
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+**Internals**
+
+- *General:* Improve database server handling
+
+---
+
+### 2020-06-27
+
+**Internals**
+
+- *General:* Improve database server handling
+
+---
+
 ### 2020-06-21
+
+**Bugfixes**
+
+- *Account/Value:* Fix an issue where item & gemstore values were not populating correctly
 
 **Chores**
 
@@ -9,7 +39,7 @@
 
 **Internals**
 
-- *General:* Server housekeeping
+- *General:* Improve database server handling
 
 ---
 
