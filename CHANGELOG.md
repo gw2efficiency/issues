@@ -1,3 +1,29 @@
+### 2020-07-15
+
+**Features**
+
+- *Account/Material Storage:* Add "Individual Price" sort order
+
+**Bugfixes**
+
+- *Stats:* Fix the count of the Icebrood Saga mastery points
+
+**Chores**
+
+- *Account/Mounts:* Update new mounts
+- *Account/Nodes:* Update new nodes
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2020-07-13
+
+**Internals**
+
+- *General:* Migrate the database to a new dedicated server
+
+---
+
 ### 2020-07-05
 
 **Bugfixes**
