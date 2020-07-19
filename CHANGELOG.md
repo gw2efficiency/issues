@@ -1,3 +1,27 @@
+### 2020-07-19
+
+**Features**
+
+- *Account/Characters:* Allow ordering by Agony Resistance
+- *Account/Achievements:* Add a wiki link to each achievement
+
+**Bugfixes**
+
+- *Stats:* Fix showing negative y-axis for graphs of absolute values
+- *General:* Replace CDN for guild emblems to allow for newer emblem styles to be rendered
+
+**Chores**
+
+- *Account/Characters:* Remove interface to search through shared characters
+  - *This feature caused a lot of confusion and regular reports because users thought it was either
+    the account search or a security issue when it wasn't. Based on analytics the feature was also
+    not used very much, and removing it arguably increases privacy a little bit. If you used it heavily,
+    and you would like to argue for adding it back, please PM me on Discord.*
+- *Supporters & Contributors:* Update the list of supporters
+- *Translations:* Update German translations
+
+---
+
 ### 2020-07-15
 
 **Features**
