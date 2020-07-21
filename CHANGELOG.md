@@ -1,3 +1,16 @@
+### 2020-07-22
+
+**Bugfixes**
+
+- *Currency/Claim Tickets:* Fix not loading the correct claim tickets because of wiki changes
+- *General:* Fix the tooltip for mobile devices rendering with very low opacity for locked unlocks
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2020-07-19
 
 **Features**
