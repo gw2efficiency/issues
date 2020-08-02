@@ -1,3 +1,28 @@
+### 2020-08-02
+
+**Bugfixes**
+
+- *Account/Value:* Fix valuation for items where the buy price is higher than the last known sell price (Thanks to @sutgon!)
+
+**Chores**
+
+- *Crafting/Calculator:* Update costs and vendors for a handful of crafting ingredients (Thanks to @holoxx!)
+- *Account/Value:* Update some missing item & gemstore values (Thanks to @sutgon!)
+- *Timer:* Update the waypoint for Shadow Behemoth to the shortest route
+- *Crafting/Calculator:* Add recipe for the Frost Legion Infusion (Thanks to @holoxx!)
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2020-07-23
+
+**Chores**
+
+- *Supporters:* Update requests to Patreon API due to changes on their access model
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2020-07-22
 
 **Bugfixes**
