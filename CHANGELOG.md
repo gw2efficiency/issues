@@ -1,3 +1,15 @@
+### 2020-08-11
+
+**Bugfixes**
+
+- *General:* Fix nightmode rendering on mobile pages with scrolling
+
+**Chores**
+
+- *Crafting/Zephyrite Supply Boxes:* Adjusted rates to the new game update
+
+---
+
 ### 2020-08-02
 
 **Bugfixes**
