@@ -1,3 +1,31 @@
+### 2020-09-21
+
+**Bugfixes**
+
+- *Daily/Dungeons:* Fix display of the wrong name for some fractal levels (Thanks @holoxx!)
+
+---
+
+### 2020-09-15
+
+**Bugfixes**
+
+- *Daily:* Fix crash if achievements were missing from the API
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2020-08-21
+
+**Bugfixes**
+
+- *Achievements:* Fix filtering & display of Icebrood Saga masteries
+
+---
+
 ### 2020-08-11
 
 **Bugfixes**
