@@ -1,3 +1,16 @@
+### 2020-11-06
+
+**Bugfixes**
+
+- *Account/Time Machine:* Fix crash because of missing home node item in the API
+- *Account/Home Nodes:* Fix 3rd garden plot not showing because of missing item in the API
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2020-09-21
 
 **Bugfixes**
