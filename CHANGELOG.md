@@ -1,3 +1,90 @@
+### 2020-11-14
+
+**Features**
+
+- *Daily:* Add the ability to create custom dailies
+- *Account/Character:* Add the ability to view and share the character story journal
+- *Account/API keys:* Add the ability to customize the order and name of the API keys
+- *Account/Characters:* Show playtime per day, deaths and deaths per hour on the characters overview
+- *Account/Guild:* Add the ability to exclude owned resources from upgrade costs
+- *Account/Overview & Stats:* Show which downscaled resolution the points on the chart are rendered at
+- *Account/Recipes:* Add "Any" as a discipline filter
+- *Account/Search:* Include items in tradingpost sell orders and delivery box
+- *Account/Value:* Include build & equipment templates and build storage into the account gemstore upgrades
+- *Crafting/Calculator:* Add a placeholder item for not-representable components
+  - *This now allows recipes that require "any exotic/ascended X" as a component to partially work. This includes Antonina, Boneskinner's Spine, Old Ascalon, Salvation, Sikandar & True Mettle.*
+- *Crafting/Calculator:* Make owned materials exportable to Excel
+- *Crafting/Calculator:* Show total crafting profit when crafting multiple recipes
+- *Daily & Timers:* Add Drakkar to the worldbosses
+- *Daily:* Show the current daily activity for the "Daily activity participation" daily
+- *Dungeons/Raids:* Show the current call of the mists buff
+- *Gathering:* Add the ability to filter by region and type (ore, plants, trees)
+- *Stats/Account Statistics:* Add 19 new statistics
+  - Wealth -> Tradingpost Value (Buy Orders)
+  - Wealth -> Tradingpost Value (Sell Orders)
+  - Wealth -> Tradingpost Value (Delivery Box)
+  - Currencies -> Festival Tokens
+  - Currencies -> War Supplies
+  - Currencies -> Unstable Fractal Essence (includes bought unlocks/items and discontinued "Unstable Cosmic Essence")
+    - *This takes over the previous "Unstable Cosmic Essence" statistic. Since they can be converted 1:5 you will likely see a big initial jump.*
+  - Raids -> Total Raid Tokens
+  - Progression -> Unlocked Skins (Weapons)
+  - Progression -> Unlocked Skins (Armor)
+  - Progression -> Unlocked Skins (Backpieces)
+  - Cosmetic Auras -> Frost Legion Infusions
+  - Cosmetic Auras -> Abyssal Infusions
+  - Cosmetic Auras -> Otter's Blessing Enrichments
+  - Cosmetic Auras -> Celebratory Birthday Enrichments
+  - Collectables -> Shiny Baubles
+  - Collectables -> Emblem of the Avenger
+  - Collectables -> Emblem of the Conqueror
+  - Collectables -> Emblem of Tournament Victory
+  - Collectables -> Emblem of Victory
+- *Stats/Account Statistics:* When shift-clicking or clicking with the middle mouse button open statistics in a new tab
+- *Stats/Unlock Statistics:* Add filter for achievement group & masteries
+- *Tradingpost/Current Transactions:* Add button to one-click create investments from current buy orders
+- *Tradingpost/Current Transactions:* Add optional automatic refresh
+- *Tradingpost/Overview:* Add columns for crafting price & crafting profit to the detail view
+- *Tradingpost/Overview:* Make the tradingpost overview available for non-logged-in users
+  - *This also fixes an annoying issue where non-logged-in users were allowed to use the Delivery Box, Current Transactions, and Transaction History but could not reach the pages via the navigation.*
+- *Tradingpost/Transaction History:* Add button to one-click create investments from historic buy orders
+  - *When creating an investment from the collapsed view, the date of the first purchase is used as the investment date.*
+
+**Bugfixes**
+
+- *Account/Character:* Fix stats from upgrades of non-equipment items (underwater / armory) counting towards the total
+- *Account/Farming Tracker:* Fix creating and canceling buy orders counting as profit and loss
+- *Account/Overview & Stats:* Fix "Show Delta" checkbox clipping into the chart points occasionally
+- *Account/Skins & Stats:* Remove a few unobtainable skins
+- *Account/Time Machine*: Fix page not correctly rendering errors when something went wrong
+- *Account/Value:* Value high-tier infusions at the value of their "Power" stat version
+  - *This fixes the issue that high-value infusions, e.g. the Confetti Infusion, were not valued accurately if they were set to an uncommon stat without orders on the tradingpost.*
+- *Account/Wallet:* Fix rendering sprites next to the quantity for newer currencies
+- *Crafting/Calculator:* Fix the recipe for "Great Destroyer's Talon" not referencing the correct items
+- *Daily:* Fix done dailies not counting into the total completion if hide done is checked
+- *Gathering:* Fix Quartz gathering not being counted as ore
+- *Gathering:* Fix flipped item output for two gathering nodes
+- *Stats/Account Statistics:* Fix Slumbering Conflux & Transcendence not counting as legendaries
+- *Stats/Unlock Statistics:* Fix duplicating Black Lion Garden Plot Deed when sorting gathering nodes
+
+**Chores**
+
+- *Account/Value:* Update the Black Lion Exclusives Chest
+  - *As usual, this will cause a big spike in value if you own any of the items now inside the chest.*
+- *Crafting/Calculator:* Add recipes for salvaging Extract of Nourishment
+- *Gathering:* Add additional gathering nodes
+- *Gathering:* Update optimal gathering route based on community feedback
+- *General:* Add SAB to the top-level navigation (only shows in April)
+- *General:* Optimize generated Excel files for better separator detection
+- *Supporters & Contributors:* Update the list of supporters
+- *User:* Add information about how to delete the account
+
+**Internals**
+
+- Add health checks to the worker containers (self-healing in case of problems)
+
+---
+
 ### 2020-11-06
 
 **Bugfixes**
