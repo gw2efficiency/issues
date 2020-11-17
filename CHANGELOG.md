@@ -1,3 +1,18 @@
+### 2020-11-17
+
+**Bugfixes**
+
+- *Stats/Account Statistics:* Disable the following statistics to see if they are the cause of 3x elevated crawling times
+  - Progression -> Unlocked Skins (Weapons)
+  - Progression -> Unlocked Skins (Armor)
+  - Progression -> Unlocked Skins (Backpieces)
+
+**Chores**
+
+- *Translations:* Update German translations (Thanks to @holoxx)
+
+---
+
 ### 2020-11-14
 
 **Features**
