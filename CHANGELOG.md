@@ -1,3 +1,19 @@
+### 2020-11-19
+
+**Bugfixes**
+
+- *General:* Fix a rogue job sending way too many API requests
+
+**Chores**
+
+- *Translations:* Update Spanish translations (Thanks to @Esartesu)
+
+**Internals**
+
+- *General:* Add much more logging for account crawling jobs
+
+---
+
 ### 2020-11-17
 
 **Bugfixes**
