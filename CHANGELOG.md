@@ -1,3 +1,21 @@
+### 2020-12-07
+
+**Features**
+
+- *Achievements:* Add a filter for "Rewards only"
+- *General:* Default the nightmode settings to the configured preferred color scheme
+
+**Bugfixes**
+
+- *Crafting/Calculator:* Fix crafting profit not taking tradingpost tax into account when crafting multiple recipes
+- *Timers:* Fix Drakkar timers starting 1 hour too late
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2020-11-19
 
 **Bugfixes**
