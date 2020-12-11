@@ -1,3 +1,19 @@
+### 2020-12-11
+
+**Features**
+
+- *Tradingpost/Overview:* Add a new chart for market depth in the item detail view
+
+**Bugfixes**
+
+- *General:* Fix an issue where nightmode settings were not persisted
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2020-12-07
 
 **Features**
