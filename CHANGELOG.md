@@ -1,3 +1,16 @@
+### 2020-12-19
+
+**Features**
+
+- *Crafting/Calculator:* Update crafting profit when crafting multiple recipes to be based of the sell price
+
+**Chores**
+
+- *Account/Mounts*: Update the list of mounts
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2020-12-11
 
 **Features**
