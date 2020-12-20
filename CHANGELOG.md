@@ -1,3 +1,11 @@
+### 2020-12-20
+
+**Bugfixes**
+
+- *Stats/Unlock Statistics:* Fix filter for achievement masteries ignoring locked/unlock filters
+
+---
+
 ### 2020-12-19
 
 **Features**
