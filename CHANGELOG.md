@@ -24,6 +24,30 @@
 
 <!-- TODO: Add missing changelog entries -->
 
+### 2021-01-04
+
+**Internals**
+
+- *General:* Add alerts for checking API connectivity
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2021-01-01
+
+**Features**
+
+- *Lottery:* Add the normal lottery back
+
+**Chores**
+
+- *General:* Update the legal notice to new managing company
+
+---
+
 ### 2020-12-20
 
 **Bugfixes**
@@ -76,6 +100,14 @@
 **Chores**
 
 - *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2020-12-01
+
+**Features**
+
+- *Lottery:* Add the christmas lottery
 
 ---
 
