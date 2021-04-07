@@ -1,3 +1,29 @@
+### 2021-04-08
+
+**Features**
+
+- *Account/Character:* Show biography choices in the story journal
+- *Crafting/Calculator:* Show a warning if sub-components are crafted in excess due to mismatching recipe output quantities
+- *Crafting/Calculator:* Show a warning if the specified amount can not be crafted with the recipe
+- *Currency/Spirit Shards:* Add ordering by total profit
+
+**Bugfixes**
+
+- *General:* Fix an issue where the modal was not positioned correctly in Firefox with active nightmode
+- *Crafting/Calculator:* Fix the best crafting path not recalculating after changing the material price
+- *Currencies/Spirit Shards:* Fix a price calculation error when components are unavailable
+- *Crafting/Calculator:* Remove cyclic conversion recipes for ley-line essences
+
+**Chores**
+
+- *Account/Statistics:* Add Endless Inner Demon Combat Tonic to unstable fractal essence statistic
+- *Account/Value:* Add value to equipped legendary runes & sigils
+- *Crafting/Calculator:* Add Gift of Gliding merchant price
+
+---
+
+<!-- TODO: Add missing changelog entries -->
+
 ### 2020-12-20
 
 **Bugfixes**
@@ -14,7 +40,7 @@
 
 **Chores**
 
-- *Account/Mounts*: Update the list of mounts
+- *Account/Mounts:* Update the list of mounts
 - *Supporters & Contributors:* Update the list of supporters
 
 ---
@@ -142,7 +168,7 @@
 - *Account/Farming Tracker:* Fix creating and canceling buy orders counting as profit and loss
 - *Account/Overview & Stats:* Fix "Show Delta" checkbox clipping into the chart points occasionally
 - *Account/Skins & Stats:* Remove a few unobtainable skins
-- *Account/Time Machine*: Fix page not correctly rendering errors when something went wrong
+- *Account/Time Machine:* Fix page not correctly rendering errors when something went wrong
 - *Account/Value:* Value high-tier infusions at the value of their "Power" stat version
   - *This fixes the issue that high-value infusions, e.g. the Confetti Infusion, were not valued accurately if they were set to an uncommon stat without orders on the tradingpost.*
 - *Account/Wallet:* Fix rendering sprites next to the quantity for newer currencies
@@ -578,8 +604,8 @@
 
 **Features**
 
-- *Account/Search*: Include items in equipment tabs into the search results
-- *Account/Value*: Include items in equipment tabs into the account value
+- *Account/Search:* Include items in equipment tabs into the search results
+- *Account/Value:* Include items in equipment tabs into the account value
 - *Account/Value:* Update the item valuation algorithm to remove an abusable edge-case
 - *Account/Character:* Support multiple equipment tabs & build tabs
 - *Account/Character:* Show skills and aquatic skills for the active build tab
@@ -836,7 +862,7 @@
 **Chores**
 
 - *Account/Value:* Update gemstore values
-- *Crafting/Calculator*: Update mystic forge recipes
+- *Crafting/Calculator:* Update mystic forge recipes
 - *Supporters & Contributors:* Update the list of supporters
 
 ---
@@ -900,7 +926,7 @@
 
 - *Stats/Account Statistics:* Add one new account statistic
   - [Map Currencies -> Mistborn Mote](https://gw2efficiency.com/account/statistics/statistics.mistbornMote)
-- *Crafting/Calculator*: Add recipes for the new legendary "Exordium"
+- *Crafting/Calculator:* Add recipes for the new legendary "Exordium"
 
 **Chores**
 
@@ -1239,9 +1265,9 @@
 
 **Features**
 
-- *Daily*: Rework the technical implementation and clean up the design
+- *Daily:* Rework the technical implementation and clean up the design
   - *This also fixes a bunch of weird bugs, especially in other languages than English.*
-- *Crafting/Ascended Weapons*: Load all craftable ascended items automatically
+- *Crafting/Ascended Weapons:* Load all craftable ascended items automatically
 
 **Bugfixes**
 
@@ -1294,29 +1320,29 @@
   - *You can read more about how the item value is now calculated [here](https://github.com/gw2efficiency/issues/blob/master/docs/account-value.md#item-value).*
   - *This should not cause any big spikes, except for items that were previously valued incorrectly.*
 - *Account/Guild:* Show the sell price subtotal for each stash tab
-- *Account/Overview*: Add a link to the delivery box
-- *Stats/Account Statistics*: Add new statistics
+- *Account/Overview:* Add a link to the delivery box
+- *Stats/Account Statistics:* Add new statistics
   - Diflourite Crystals
   - Kites
   - Ranked PvP Winrate (250+ games)
   - Ranked PvP Winrate (500+ games)
   - Ranked PvP Winrate (1000+ games)
   - Snow Diamond Infusions
-- *Stats/Unlock Statistics*: Add achievement point values to the achievements table
-- *Stats/Unlock Statistics*: Add filters for "Armor", "Weapon", "Backpieces" and "Gathering Tools" to the skins table
-- *Stats/Unlock Statistics*: Add wiki links to all tables
+- *Stats/Unlock Statistics:* Add achievement point values to the achievements table
+- *Stats/Unlock Statistics:* Add filters for "Armor", "Weapon", "Backpieces" and "Gathering Tools" to the skins table
+- *Stats/Unlock Statistics:* Add wiki links to all tables
 
 **Bugfixes**
 
-- *Crafting/Calculator*: Fix the recipes for "+9 Agony Infusions"
-- *Crafting/Calculator*: Remove the recipes for "Ascended weapon/armor boxes" from achievements
+- *Crafting/Calculator:* Fix the recipes for "+9 Agony Infusions"
+- *Crafting/Calculator:* Remove the recipes for "Ascended weapon/armor boxes" from achievements
 - *Gathering:* Fix output quantity for Seaweed in Ember Bay
 - *Stats/Unlock Statistics:* Fix an issue where the recipes statistics would not load
 
 **Chores**
 
 - *Account/Tonics:* Update the list of tonics
-- *Account/Value*: Add a value to the "Endless Mushroom Emperor Tonic"
+- *Account/Value:* Add a value to the "Endless Mushroom Emperor Tonic"
 - *Account/Value:* Update the gemstore items
 - *Crafting/Calculator:* Update the list of mystic forge recipes
 - *Daily:* Add more daily tasks
@@ -1665,7 +1691,7 @@
 
 - *Supporters:* Crawl accounts of supporters more frequently
     - *The accounts of free users get crawled once every 24 hours, copper supporters get crawled once every 12 hours, silver supporters get crawled once every 6 hours, gold supporters get crawled once every 3 hours.*
-- *Supporters*: The account statistic history of supporters is now unlimited
+- *Supporters:* The account statistic history of supporters is now unlimited
     - *The account statistic history of free users will be displayed going back 1 year. For supporters there is no limit. However, the statistics of free users will continue to be saved past 1 year, so once their accounts are upgraded they will have access to the full history.*
 
 **Bugfixes**
@@ -1729,7 +1755,7 @@
 
 **Chores**
 
-- *Account/Value*: Add a value to the "Endless Upgrade Extractor"
+- *Account/Value:* Add a value to the "Endless Upgrade Extractor"
 - *Crafting/Caculator:* Add recipes for "Hateful Sworl"
 - *Crafting/Caculator:* Add recipes for "Mini Nova Griffon Hatchling"
 - *Crafting/Caculator:* Add recipes for Path of Fire elite specialization weapons (e.g. "Veilrender")
@@ -2528,8 +2554,8 @@
 
 **Features**
 
-- *Dungeons*: Migrate the dungeon page to a temporary daily page
-- *Chat*: Move to a public [Discord](https://discord.gg/ZgKdTra)
+- *Dungeons:* Migrate the dungeon page to a temporary daily page
+- *Chat:* Move to a public [Discord](https://discord.gg/ZgKdTra)
 
 **Internals**
 
@@ -2567,7 +2593,7 @@
 
 - *Account/Statistics:* Update the item ids for "Preserved Queen Bee" ([#641](https://github.com/gw2efficiency/issues/issues/641))
 - *Account/Value:* Add values to the new PvP ascended gear ([#636](https://github.com/gw2efficiency/issues/issues/636))
-- *Crafting/Calculator*: Add recipes for legendary armor pieces ([#617](https://github.com/gw2efficiency/issues/issues/617))
+- *Crafting/Calculator:* Add recipes for legendary armor pieces ([#617](https://github.com/gw2efficiency/issues/issues/617))
 
 **Internals**
 
