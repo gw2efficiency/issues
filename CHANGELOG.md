@@ -14,6 +14,10 @@
 - *Currencies/Spirit Shards:* Fix a price calculation error when components are unavailable
 - *Crafting/Calculator:* Remove cyclic conversion recipes for ley-line essences
 
+**Internals**
+
+- *General:* Add more alerts for account crawling issues
+
 **Chores**
 
 - *Account/Statistics:* Add Endless Inner Demon Combat Tonic to unstable fractal essence statistic
@@ -22,7 +26,63 @@
 
 ---
 
-<!-- TODO: Add missing changelog entries -->
+### 2021-04-03
+
+**Bugfixes**
+
+- *Crafting/Calculator:* Fix crafting profit for multi-recipes with quantity > 1
+
+**Internals**
+
+- *Account/Stats:* Backend crawling optimizations
+
+---
+
+### 2021-03-12
+
+**Internals**
+
+- *General:* Improve our monitoring infrastructure
+- *Supporters:* Handle failure from our payment providers more gracefully
+
+---
+
+### 2021-03-06
+
+**Internals**
+
+- *General:* Switch back to the gw2treasures CDN for serving icons
+
+---
+
+### 2021-03-03
+
+**Internals**
+
+- *General:* Switch over to the official CDN for serving icons
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2021-02-23
+
+**Internals**
+
+- *Account/Stats:* Backend crawling optimizations
+
+---
+
+### 2021-01-27
+
+**Internals**
+
+- *Account/Stats:* Fix error message showing when crawling has not started yet on fresh keys
+- *Account/Stats:* Backend crawling optimizations
+
+---
 
 ### 2021-01-04
 
