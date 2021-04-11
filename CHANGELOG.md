@@ -1,3 +1,11 @@
+### 2021-04-11
+
+**Features**
+
+- *Gathering:* Update the list of gathering nodes (Thanks to @Bahamut731lp and @msmolev!)
+
+---
+
 ### 2021-04-08
 
 **Features**
