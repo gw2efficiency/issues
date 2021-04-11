@@ -4,6 +4,10 @@
 
 - *Gathering:* Update the list of gathering nodes (Thanks to @Bahamut731lp and @msmolev!)
 
+**Bugfixes**
+
+- *Tradingpost/Investment History:* Fix rounding error when calculating profits
+
 ---
 
 ### 2021-04-08
