@@ -8,6 +8,10 @@
 
 - *Tradingpost/Investment History:* Fix rounding error when calculating profits
 
+**Internals**
+
+- *Account/Stats:* Backend crawling optimizations
+
 ---
 
 ### 2021-04-08
