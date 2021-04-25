@@ -1,3 +1,12 @@
+### PENDING
+
+**Chores**
+
+- *Translations:* Update German translations (Thanks to @holoxx)
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2021-04-11
 
 **Features**
