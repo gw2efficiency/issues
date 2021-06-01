@@ -1,5 +1,9 @@
 ### PENDING
 
+**Bugfixes**
+
+- *Tradingpost/Transaction History:* Correctly round the average price for small copper amounts
+
 **Chores**
 
 - *Translations:* Update German translations (Thanks to @holoxx)
