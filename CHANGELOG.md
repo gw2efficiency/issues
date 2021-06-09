@@ -1,8 +1,10 @@
-### PENDING
+### 2021-06-09
 
 **Bugfixes**
 
 - *Tradingpost/Transaction History:* Correctly round the average price for small copper amounts
+- *General:* Fix some links navigating back to the homepage with some types of ads present on the page
+- *General:* Fix some links being clickable before the target URL was evaluated
 
 **Chores**
 
