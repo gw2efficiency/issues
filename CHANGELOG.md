@@ -1,3 +1,39 @@
+### 2021-07-03
+
+**Features**
+
+- *General:* Add support for `OR` operator when searching to all search fields
+  - *This means you can now filter e.g. your account with more intricate queries. An example would be `zojja or yassith` to find ascended gear of either stat.*
+- *Stats/Account Statistics:* Add new account statistics
+  - Dungeons -> Chest of Dungeoneering
+  - Map currencies -> Tyrian Defense Seals
+  - Keys -> Zephyrite Lockpicks
+  - Keys -> Bandit Skeleton Keys
+  - Keys -> Pact Crowbars
+  - Keys -> Exalted Keys
+  - Keys -> Vials of Chak Acid
+  - Keys -> Machetes
+  - Keys -> Trader's Keys
+  - Keys -> Mistborn Keys
+  - Keys -> Cache Keys
+  - Strike Missions -> Blue Prophet Crystals
+  - Strike Missions -> Green Prophet Crystals
+  - Strike Missions -> Red Prophet Crystals
+- *Stats/Player Statistics:* Add new interactive statistics for Race x Gender x Profession
+- *Account/Overview:* Show the character specializations
+- *Account/Character:* Show joined order on the story journal tab
+- *Crafting/Calculator:* Add the ability to press enter to accept the first item search result
+
+**Bugfixes**
+
+- *Account/Overview:* Fix link to tradingpost sell orders linking to the buy orders
+- *Account/Statistics:* Fix crawling being impacted for a long duration when the API mistakenly marks API keys as invalid
+
+**Chores**
+
+- *Crafting/Calculator:* Update crafting recipes
+- *Account/Value:* Update gemstore items
+
 ### 2021-06-09
 
 **Bugfixes**
