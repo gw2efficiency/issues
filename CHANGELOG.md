@@ -1,3 +1,9 @@
+### PENDING
+
+**Features**
+
+- *Crafting/Calculator:* Prefix the filename for the Excel export with the name of the crafted item
+
 ### 2021-07-03
 
 **Features**
