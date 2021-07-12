@@ -4,7 +4,7 @@
 
 - *Crafting/Calculator:* Prefix the filename for the Excel export with the name of the crafted item
 - *Account/Value:* Ignore equipped legendary items of characters that have logged in after the release of the Legendary Armoury for the value calculation
-  - *This change is necessary to prevent inflated account values due to the ability to duplicate legendary items over multiple characters. If will only affect you if you have duplicate legendaries, since it will now count the skin value instead. Once the Legendary Armoury is supported by the official API, we will make the changes to count duplicate legendary items again.*
+  - *This change is necessary to prevent inflated account values due to the ability to duplicate legendary items over multiple characters. If will only heavily affect you if you have duplicate legendaries, since it will now count the skin value instead. Once the Legendary Armoury is supported by the official API, we will make the changes to count duplicate legendary items again.*
 
 **Chores**
 
