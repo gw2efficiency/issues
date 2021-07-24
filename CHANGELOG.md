@@ -25,6 +25,8 @@
 
 - *Translations:* Update German translations (Thanks to @holoxx)
 
+---
+
 ### 2021-07-03
 
 **Features**
@@ -60,6 +62,8 @@
 
 - *Crafting/Calculator:* Update crafting recipes
 - *Account/Value:* Update gemstore items
+
+---
 
 ### 2021-06-09
 
