@@ -11,6 +11,8 @@
 
 - *General:* Fix top level navigation clipping items for some screen sizes
 
+---
+
 ### 2021-07-12
 
 **Features**
