@@ -1,3 +1,16 @@
+### 2021-07-25
+
+**Features**
+
+- *Account/Legendary Armory:* Add a new site to see your unlocked legendaries
+- *Stats/Account Statistics:* Take the items in the legendary armory into account
+- *Account/Value:* Take the items in the legendary armory into account
+- *Account/Time Machine:* Add support for the legendary armory
+
+**Bugfixes**
+
+- *General:* Fix top level navigation clipping items for some screen sizes
+
 ### 2021-07-12
 
 **Features**
