@@ -1,3 +1,12 @@
+### 2021-08-20
+
+**Chores**
+
+- *Crafting/Calculator:* Update vendor items (Thanks to @holoxx)
+  - *Gift of Dragon Magic, Gift of Bloodstone Magic, Essence of Carnage, Legendary War Insight, Certificate of Honor, Certificate of Heroics, Essence of Annihilation, Essence of Animosity, Essence of Strategy, Recruit's Wings of War, Soldier's Wings of War, General's Wings of War, Commander's Wings of War*
+
+---
+
 ### 2021-08-18
 
 **Bugfixes**
