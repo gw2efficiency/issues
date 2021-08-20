@@ -1,3 +1,36 @@
+### 2021-08-18
+
+**Bugfixes**
+
+- *Stats:* Strip out irrelevant information when generating the account statistic leaderboards
+
+**Internals**
+
+- *General:* Fix backend logging behavior after a rogue dependency update
+
+---
+
+### 2021-08-05
+
+**Internals**
+
+- *General:* Add 2 additional worker servers for account crawling
+
+---
+
+### 2021-08-02
+
+**Chores**
+
+- *Ads:* Add expansion countdown with affiliate link to the header
+- *Ads:* Improve resize handling for sidebar advertisements
+- *Ads:* Improve wording for the footer affiliate link
+- *Ads:* Move to a new advertisement provider
+- *Supporters & Contributors:* Update the list of supporters
+- *Translations:* Update German translations (Thanks to @holoxx)
+
+---
+
 ### 2021-07-25
 
 **Features**
