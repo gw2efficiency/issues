@@ -1,9 +1,73 @@
+### 2021-08-27
+
+**Features**
+
+- *Account/Achievements:* Show achievements that are not part of any category under "Historical" -> "Orphaned achievements"
+- *Account/Farming Tracker:* Show "per hour" values of individual rows on hover
+- *Account/Legendary Armory:* Add a filter to ignore duplicate legendaries
+- *Account/Overview:* Add the ability to toggle between "value" and "value excluding gemstore items"
+- *Account/Overview:* Show value and liquid buy/sell when searching
+- *Account/Overview:* Include infusions in equipment into liquid buy & sell values
+- *Account/Wardrobe:* Completely redesign the page
+- *Crafting/Calculator:* Show the price of the used owned materials
+- *Crafting/Calculator:* Show the required disciplines (as a table with the characters that have the required ratings and on the crafting steps)
+- *Crafting/Calculator:* Show the sources of the used owned materials without needing to hover
+- *Crafting/Calculator:* Add the ability to change the order of the recipes during multi-recipe crafting
+- *Daily:* Add the ability to change the order of the custom dailies
+- *Dungeons/Fractals:* Show the active dailies (scales & tiers)
+- *General:* Add "open wiki for skin" and "copy skin name" to on-click tooltips
+- *Stats/Account Statistics:* Add new account statistics
+  - "Progression" -> "Unlocked Legendaries"
+  - "Cosmetic Auras" -> "Deldrimor Stoneskin Infusions"
+  - "Cosmetic Auras" -> "Jormag Eye Infusions"
+  - "Cosmetic Auras" -> "Primordus Eye Infusions"
+- *Timers:* Add "Dragonstorm" and "Ley Line Anomaly"
+- *Tradingpost/Overview:* Add a day/time/price heatmap in the item detail view
+- *User:* Add the ability to export and import the account settings
+
+**Bugfixes**
+
+- *Account/Legendary Armory:* Include duplicates into the unlocked count value (consistent with worth)
+- *Account/Miniatures:* Fix some miniatures being assigned to incorrect sets
+- *Account/Skins & Stats:* Remove a few unobtainable skins
+- *Account/Time Machine:* When checked, ignore market fluctuations for category headers and total
+- *Account/Time Machine:* When checked, ignore market fluctuations for items where the quantity changed
+- *Crafting/Calculator:* Fix the order of crafting steps of some recipes
+- *Gathering:* Fix invalid format of 2 waypoints
+- *General:* Fix top level navigation clipping items for some screen sizes (again)
+- *Stats:* Fix wallet gems being included in the "Account Value (excl. Gemstore)" statistic
+- *Stats:* Include legendary items in character inventories for LI/LD statistics
+- *Timers:* Improve waypoint for "The Frozen Maw"
+
+**Chores**
+
+- *Ads:* Add beta dates to the header expansion countdown
+- *Account/Dyes:* Update the rendered dyes for the newest patch
+- *Account/Value:* Update gemstore items
+- *Account/Value:* Update the Black Lion Exclusives Chest
+  - *As usual, this will cause a big spike in value if you own any of the items now inside the chest.*
+- *Gathering:* Add missing permanent Orichalcum nodes (Thanks to @Sw0rly)
+- *Stats/Account Statistics:* Update the list of blacklisted cheaters
+- *Supporter Benefits:* Add the account statistic overview ranks feature
+- *Supporter Benefits:* Improve the wording for the account statistics crawling/history features
+- *Tradingpost/Overview:* Switch the provider of historical item prices from gw2spidy.com to datawars2.ie
+- *Translations:* Update German translations (Thanks to @holoxx)
+
+**Internals**
+
+- *General:* Improve the response time of most requests to our internal API
+- *Stats/Account Statistics:* Improve crawling behavior for API keys of accounts that had their name changed
+
+---
+
 ### 2021-08-20
 
 **Chores**
 
 - *Crafting/Calculator:* Update vendor items (Thanks to @holoxx)
   - *Gift of Dragon Magic, Gift of Bloodstone Magic, Essence of Carnage, Legendary War Insight, Certificate of Honor, Certificate of Heroics, Essence of Annihilation, Essence of Animosity, Essence of Strategy, Recruit's Wings of War, Soldier's Wings of War, General's Wings of War, Commander's Wings of War*
+- *Crafting/Calculator:* Update crafting recipes
+  - *Conflux, Transcendence, Mini Shiba Inu, Azure & Crimson Dragon Slayer Weapons, Glorious Hero's PvP Legendary Armor*
 
 ---
 
@@ -23,7 +87,7 @@
 
 **Internals**
 
-- *General:* Add 2 additional worker servers for account crawling
+- *Stats/Account Statistics:* Add 2 additional worker servers for account crawling
 
 ---
 
@@ -134,7 +198,7 @@
 
 **Internals**
 
-- *Account/Stats:* Backend crawling optimizations
+- *Stats/Account Statistics:* Backend crawling optimizations
 
 ---
 
@@ -174,7 +238,7 @@
 
 **Internals**
 
-- *Account/Stats:* Backend crawling optimizations
+- *Stats/Account Statistics:* Backend crawling optimizations
 
 ---
 
@@ -211,7 +275,7 @@
 
 **Internals**
 
-- *Account/Stats:* Backend crawling optimizations
+- *Stats/Account Statistics:* Backend crawling optimizations
 
 ---
 
@@ -219,8 +283,8 @@
 
 **Internals**
 
-- *Account/Stats:* Fix error message showing when crawling has not started yet on fresh keys
-- *Account/Stats:* Backend crawling optimizations
+- *Stats/Account Statistics:* Fix error message showing when crawling has not started yet on fresh keys
+- *Stats/Account Statistics:* Backend crawling optimizations
 
 ---
 
