@@ -55,7 +55,6 @@
 
 **Internals**
 
-- *General:* Improve the response time of most requests to our internal API
 - *Stats/Account Statistics:* Improve crawling behavior for API keys of accounts that had their name changed
 
 ---
