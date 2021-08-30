@@ -1,3 +1,18 @@
+### 2021-08-30
+
+**Bugfixes**
+
+- *Stats:* Fix legendary items in character equipment being included for LI/LD statistics
+- *Tradingpost/Overview:* Fix rendering for heatmap slots with no available values
+- *Timers:* Fix map names for Ley-Line Anomaly
+
+**Chores**
+
+- *General:* Add more untradable items to the tradingpost blacklist
+- *Translations:* Update German translations (Thanks to @holoxx)
+
+---
+
 ### 2021-08-27
 
 **Features**
