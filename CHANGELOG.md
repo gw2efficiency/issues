@@ -1,3 +1,11 @@
+### 2021-08-31
+
+**Chores**
+
+- *Crafting/Zephyrite Supply Boxes:* Adjusted rates to the new game update
+
+---
+
 ### 2021-08-30
 
 **Bugfixes**
