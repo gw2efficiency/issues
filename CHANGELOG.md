@@ -1,9 +1,15 @@
 ### 2021-09-28
 
+**Bugfixes**
+
+- *Ads:* Fix rendering of expansion countdown in nightmode
+
 **Chores**
 
 - *Account/Home Nodes:* Add new home instance nodes
 - *Account/Mounts:* Add new mount skins
+- *Supporter Benefits:* Improve wording for how the lifetime amount is calculated
+- *Supporters & Contributors:* Update the list of supporters
 
 ---
 
