@@ -1,3 +1,25 @@
+### 2021-11-08
+
+**Bugfixes**
+
+- *Account/Value:* Fix parsing of crafting profession level value
+
+**Chores**
+
+- *Daily:* Added Sunqua Peak Challenge Mote to the Daily Fractals category
+- *Supporters & Contributors:* Update the list of supporters
+- *Translations:* Update Spanish translations (Thanks to @poleshe)
+
+---
+
+### 2021-10-05
+
+**Chores**
+
+- *Account/Dyes:* Update the dye previews for the Darkest Abyss Dye Kit
+
+---
+
 ### 2021-09-28
 
 **Bugfixes**
