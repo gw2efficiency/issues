@@ -1,3 +1,12 @@
+### 2021-11-11
+
+**Chores**
+
+- *Account/Character:* Add "Jormag Rising" & "Champions" story chapters
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2021-11-08
 
 **Bugfixes**
