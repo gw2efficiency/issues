@@ -1,3 +1,11 @@
+### 2021-11-13
+
+**Features**
+
+- *Account/Characters:* Add ordering by free / used inventory slots
+
+---
+
 ### 2021-11-11
 
 **Chores**
