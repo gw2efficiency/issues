@@ -1,3 +1,43 @@
+### 2022-02-01
+
+**Features**
+
+- *Crafting/Calculator:* Show the crafted item name in the browser tab
+
+**Bugfixes**
+
+- *Crafting/Spirit shards:* Fix output for Pile of Shimmering Dust
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2022-01-01
+
+**Features**
+
+- *Community/Lottery:* Add the regular lottery back
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2021-12-01
+
+**Features**
+
+- *Community/Lottery:* Add the holiday calendar :santa:
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2021-11-13
 
 **Features**
