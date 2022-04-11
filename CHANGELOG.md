@@ -1,3 +1,68 @@
+### 2022-04-11
+
+**Features**
+
+- *Crafting/Calculator:* Add support for recipes with currency components
+  - *This allows recipes like the Jade Bot Core to be represented correctly in the crafting tree, used own materials, shopping list, and crafting steps. It also enables some really nice features coming in the future.*
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2022-03-15
+
+**Chores**
+
+- *Crafting/Calculator:* Update crafting recipes
+
+---
+
+### 2022-03-11
+
+**Chores**
+
+- *Crafting/Calculator:* Update crafting recipes
+
+---
+
+### 2022-03-08
+
+**Features**
+
+- *Achievements:* Add "End of Dragons" mastery filter
+
+**Internals**
+
+- *General:* Automatically set optimal DNS records for API crawling in the backend
+
+---
+
+### 2022-03-04
+
+**Chores**
+
+- *Crafting/Calculator:* Update crafting recipes
+
+---
+
+### 2022-03-03
+
+**Internals**
+
+- *General:* Add support for End of Dragons items
+
+---
+
+### 2022-02-10
+
+**Bugfixes**
+
+- *General:* Fix some wiki information not updating correctly
+
+---
+
 ### 2022-02-01
 
 **Features**
