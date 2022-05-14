@@ -1,3 +1,34 @@
+### 2022-05-14
+
+**Chores**
+
+- *Account/Value:* Update gemstore items (Thanks to Dumat)
+- *Account/Value:* Update the Black Lion Exclusives Chest (Thanks to Dumat)
+  - *As usual, this will cause a big spike in value if you own any of the items now inside the chest.*
+- *Crafting/Calculator:* Update crafting recipes
+- *Account/Mounts:* Add new mount skins
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2022-05-06
+
+**Features**
+
+- *Crafting/Precursors & Legendaries:* Add "Generation" filter
+
+**Bugfixes**
+
+- *Account/Value:* Fix generation 3 legendaries value being inflated
+
+**Chores**
+
+- *Crafting/Calculator:* Update crafting recipes
+- *Crafting/Precursors & Legendaries:* Add the new generation 3 legendaries to the list
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2022-04-11
 
 **Features**
