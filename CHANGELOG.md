@@ -1,3 +1,18 @@
+### 2022-05-21
+
+**Bugfixes**
+
+- *Crafting/Calculator:* Fix a crash when loading recipes with achievement ingredients
+- *General:* Accessing the "Account" -> "Time Machine" and "Stats" -> "Account Statistics" pages now
+  requires an API key with the `characters`, `inventories` and `wallet` permissions
+
+**Chores**
+
+- *Account/Achievements:* Improve time to interactive
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2022-05-14
 
 **Chores**
