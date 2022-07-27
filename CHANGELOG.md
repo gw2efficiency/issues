@@ -1,4 +1,4 @@
-### PENDING
+### 2022-07-27
 
 **Features**
 
@@ -23,6 +23,30 @@
 **Chores**
 
 - *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2022-06-12
+
+**Chores**
+
+- *Crafting/Calculator:* Update merchant recipes (Thanks to @holoxx)
+
+---
+
+### 2022-06-05
+
+**Bugfixes**
+
+- *Crafting/Calculator:* Fix some recipe disciplines for custom recipes
+
+---
+
+### 2022-05-29
+
+**Features**
+
+- *Crafting/Calculator:* Enable recipes with currencies and show merchant prices (Thanks to @holoxx)
 
 ---
 
