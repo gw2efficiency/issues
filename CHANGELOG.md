@@ -1,3 +1,31 @@
+### PENDING
+
+**Features**
+
+- *Stats/Player Statistics:* Add "End of Dragons" to account type statistics
+- *Stats/Unlock Statistics:* Add "End of Dragons" mastery filter
+- *Account/Wallet:* Add sprites for new currencies & hide removed currencies
+- *Currency/Dungeon Delving:* Update page for new "Tales of Dungeon Delving" currency
+- *Stats/Account Statistics:* Update statistics for new "Tales of Dungeon Delving" currency
+- *Stats/Account Statistics:* Update statistics for changes of "Legendary Insights" & "Legendary Divination" currencies
+- *Stats/Account Statistics:* Add new account statistics
+  - "World vs. World" -> "Testimony of Jade Heroics"
+  - "Currencies" -> "Research Notes"
+  - "Currencies" -> "Jade Slivers"
+  - "Currencies" -> "Unusual Coins"
+  - "Currencies" -> "Imperial Favor"
+  - "Currencies" -> "Canach Coins"
+
+**Bugfixes**
+
+- *Account/Value:* Remove average ascended item value from ascended fish
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2022-05-21
 
 **Bugfixes**
