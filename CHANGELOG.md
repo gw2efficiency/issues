@@ -1,3 +1,28 @@
+### 2021-08-04
+
+**Chores**
+
+- *Crafting/Zephyrite Supply Boxes:* Adjusted rates to the new game update
+
+---
+
+### 2022-08-03
+
+**Bugfixes**
+
+- *Crafting/Calculator:* Fix some vendor items that are now merchant recipes
+
+---
+
+### 2022-08-01
+
+**Chores**
+
+- *Crafting/Calculator:* Update merchant recipes (Thanks to @holoxx)
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2022-07-27
 
 **Features**
