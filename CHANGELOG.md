@@ -1,4 +1,177 @@
-### 2021-08-04
+### 2023-02-25
+
+**Features**
+
+- *Stats/Account Statistics:* Add group filter & search
+- *Stats/Account Statistics:* Add Fishing statistics
+- *Stats/Account Statistics:* Add Flying Cow Tokens statistic
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2023-02-04
+
+**Chores**
+
+- *General:* Replace last usages of gw2spidy (RIP)
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2023-01-18
+
+**Internals**
+
+- *Monitoring:* Fix segmentation fault in ElasticSearch
+
+---
+
+### 2023-01-13
+
+**Bugfixes**
+
+- *Crafting/Calculator:* Add Fractal Relics cost to Integrated Fractal Matrix
+
+**Chores**
+
+- *General:* Update translations
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2023-01-12
+
+**Chores**
+
+- *Crafting/Calculator:* Update mystic forge recipes
+- *Crafting/Calculator:* Update recipes from merchants
+
+---
+
+### 2022-12-28
+
+**Features**
+
+- *Lottery:* Disable advent calendar 2022
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2022-12-19
+
+**Features**
+
+- *Crafting/Calculator:* Add a decision price to each currency for optimizing the crafting tree
+- *Crafting/Calculator:* Improve rendering for merchant recipes in recipe tree, shopping list, owned materials and crafting steps
+
+**Bugfixes**
+
+- *Crafting/Calculator:* Fix Mystic Clover step order in the crafting steps
+
+---
+
+### 2022-12-16
+
+**Bugfixes**
+
+- *Account/Value:* Improve algorithm stability for ascended boxes
+
+---
+
+### 2022-12-15
+
+**Chores**
+
+- *Crafting/Calculator:* Update recipes from merchants
+- *Crafting/Calculator:* Add preferred display name / location for merchants
+
+---
+
+### 2022-12-12
+
+**Features**
+
+- *General:* Add Quizmas link
+
+---
+
+### 2022-12-09
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2022-12-03
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2022-11-30
+
+**Features**
+
+- *Lottery:* Enable advent calendar 2022
+
+**Chores**
+
+- *General:* Update translations 
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2022-10-20
+
+**Chores**
+
+- *General:* Add bait and lure item types
+
+---
+
+### 2022-10-19
+
+**Bugfixes**
+
+- *General:* Update the item categories after the API update
+- *Account/Achievements:* Complete achievement count and points independently
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2022-10-04
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2022-09-04
+
+**Bugfixes**
+
+- *Account/Achievements:* Show historical categories
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2022-08-04
 
 **Chores**
 
