@@ -1,3 +1,47 @@
+### 2023-03-23
+
+**Features**
+
+- *General:* When clicking a recipe item, the "Open the crafting calculator" action now opens the crafted item (and not the recipe itself)
+- *Daily:* Add End of Dragon Hero's Choice Chests to the daily page
+- *Stats/Unlock Statistics:* Add "Ignore 0% unlocked" filter
+- *Stats/Unlock Statistics:* The "Ignore without value" filter now hides achievements with 0 AP
+- *Crafting/Calculator:* Show the merchant name & location in the crafting steps (not fully enabled for all merchants yet)
+- *Crafting/Calculator:* Add the ability to collapse sections
+- *Crafting/Calculator:* Add the ability to mark crafting steps as "done" by clicking on the step number
+- *Crafting/Calculator:* Show a warning if the crafting output is not guaranteed
+
+**Bugfixes**
+
+- *Account/Overview:* Attempt to fix an issue where data from the previously selected API key was loaded when changing API keys
+- *Account/Overview:* Fix the value graph sometimes not loading
+- *Account/Overview:* Remove "value" display when searching the account (since it was largely incorrect)
+- *Crafting/Calculator:* Remove deprecated recipes
+- *Crafting/Precursors & Legendaries:* Remove Slumbering Transcendence and Slumbering Conflux
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2023-03-18
+
+**Chores**
+
+- *Crafting/Calculator:* Update mystic forge recipes
+- *Crafting/Calculator:* Update recipes from merchants
+
+---
+
+### 2023-03-16
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2023-02-25
 
 **Features**
