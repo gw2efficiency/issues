@@ -22,6 +22,7 @@
 **Chores**
 
 - *Supporters & Contributors:* Update the list of supporters
+- *Translations:* Update translations (Thanks to @holoxx)
 
 ---
 
@@ -30,7 +31,7 @@
 **Chores**
 
 - *Crafting/Calculator:* Update mystic forge recipes
-- *Crafting/Calculator:* Update recipes from merchants
+- *Crafting/Calculator:* Update merchant recipes (Thanks to @holoxx)
 
 ---
 
