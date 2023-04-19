@@ -1,3 +1,21 @@
+### 2023-04-19
+
+**Bugfixes**
+
+- *Account/Character:* Isolate quests API issues (so the other tabs work)
+- *General:* Fix error in item tooltip while loading
+- *Account/Time Machine:* Fix date formatting snapshot dropdown
+
+---
+
+### 2023-03-27
+
+**Bugfixes**
+
+- *General:* Ignore invalid tradingpost prices from the API
+
+---
+
 ### 2023-03-23
 
 **Features**

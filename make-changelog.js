@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-// git-standup -m 5 -A "2023-02-25" -D "iso" > issues/standup
+// git-standup -m 5 -A "2023-04-20" -D "iso" > issues/standup
 run()
 
 function run() {
@@ -59,7 +59,7 @@ function parseLine(line) {
     return null
   }
 
-  const matches = line.match(/^(\w*?) - (.*) \(([^ ]*) .* \+0000\)/)
+  const matches = line.match(/^(\w*?) - (.*) \(([^ ]*) .* \+\d{4}\)/)
 
   if (!matches) {
     console.log('Could not parse line: ' + line)
