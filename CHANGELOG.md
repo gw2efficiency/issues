@@ -1,3 +1,12 @@
+### 2023-04-23
+
+**Bugfixes**
+
+- *Crafting/Calculator:* Fix recipes for Aurene legendaries with items missing in the API (Thanks @holoxx)
+- *Account/Value:* Fix some Aurene legendaries with items missing in the API not inheriting their value (Thanks @holoxx)
+
+---
+
 ### 2023-04-19
 
 **Bugfixes**
