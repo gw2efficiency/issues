@@ -1,3 +1,14 @@
+### 2023-05-20
+
+**Chores**
+
+- *Account/Mounts:* Update mounts data
+  - *Note that they will still be missing their values until we update our gemstore data*
+- *Account/Mounts:* Add Siege Turtle to the mount filters
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2023-04-23
 
 **Bugfixes**
