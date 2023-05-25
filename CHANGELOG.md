@@ -1,3 +1,16 @@
+### 2023-05-25
+
+**Bugfixes**
+
+- *General:* Fix some elements not waiting for keyboard input to be finished before activating
+- *Lottery:* Fix some auto-entered contestants showing as entered before the lottery started
+
+**Chores**
+
+- *Crafting/Calculator:* Show more items for the auto-complete search
+
+---
+
 ### 2023-05-20
 
 **Chores**
