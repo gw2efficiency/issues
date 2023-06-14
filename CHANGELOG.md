@@ -1,3 +1,12 @@
+### 2023-06-14
+
+**Chores**
+
+- *Account/Value:* Update gemstore items (Thanks @Tyu)
+  - *As usual, this will cause fluctuations in account value.*
+
+---
+
 ### 2023-05-25
 
 **Bugfixes**
