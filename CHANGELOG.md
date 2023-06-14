@@ -4,6 +4,7 @@
 
 - *Account/Value:* Update gemstore items (Thanks @Tyu)
   - *As usual, this will cause fluctuations in account value.*
+- *Supporters & Contributors:* Update the list of supporters
 
 ---
 
