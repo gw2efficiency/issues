@@ -1,3 +1,56 @@
+### 2023-07-18
+
+**Chores**
+
+- *Crafting/Zephyrite Supply Boxes:* Adjusted rates to the new game update
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2023-07-11
+
+**Bugfixes**
+
+- *Supporters:* Fix the Discord username in the welcome email
+- *Supporters:* Fix Patreon supporter amount not populating correctly
+  - *This accidentally sent an email to all existing supporters, this is safe to ignore.*
+
+---
+
+### 2023-07-10
+
+**Chores**
+
+- *Crafting/Calculator:* Update mystic clover calculation to more closely represent real chance
+
+---
+
+### 2023-06-27
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+- *General:* Enable expansion countdown
+
+---
+
+### 2023-06-24
+
+**Chores**
+
+- *Account/Value:* Update gemstore items (Thanks @Tyu)
+  - *As usual, this will cause fluctuations in account value.*
+
+---
+
+### 2023-06-16
+
+**Bugfixes**
+
+- *Tradingpost/Overview:* Fix an error loading some tradingpost items
+
+---
+
 ### 2023-06-14
 
 **Chores**
