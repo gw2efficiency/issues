@@ -1,3 +1,22 @@
+### 2023-08-09
+
+**Chores**
+
+- *Account/Value:* Update gemstore items (Thanks to @Tyu)
+  - *As usual, this will cause fluctuations in account value.*
+- *Account/Value:* Update the Black Lion Exclusives Chest (Thanks to @Tyu)
+  - *As usual, this will cause a big spike in value if you own any of the items now inside the chest.*
+
+---
+
+### 2023-07-23
+
+**Chores**
+
+- *Crafting/Calculator:* Update merchant recipes (Thanks to @holoxx)
+
+---
+
 ### 2023-07-18
 
 **Chores**
@@ -38,7 +57,7 @@
 
 **Chores**
 
-- *Account/Value:* Update gemstore items (Thanks @Tyu)
+- *Account/Value:* Update gemstore items (Thanks to @Tyu)
   - *As usual, this will cause fluctuations in account value.*
 
 ---
@@ -55,7 +74,7 @@
 
 **Chores**
 
-- *Account/Value:* Update gemstore items (Thanks @Tyu)
+- *Account/Value:* Update gemstore items (Thanks to @Tyu)
   - *As usual, this will cause fluctuations in account value.*
 - *Supporters & Contributors:* Update the list of supporters
 
@@ -89,8 +108,8 @@
 
 **Bugfixes**
 
-- *Crafting/Calculator:* Fix recipes for Aurene legendaries with items missing in the API (Thanks @holoxx)
-- *Account/Value:* Fix some Aurene legendaries with items missing in the API not inheriting their value (Thanks @holoxx)
+- *Crafting/Calculator:* Fix recipes for Aurene legendaries with items missing in the API (Thanks to @holoxx)
+- *Account/Value:* Fix some Aurene legendaries with items missing in the API not inheriting their value (Thanks to @holoxx)
 
 ---
 
@@ -1146,7 +1165,7 @@
 
 **Bugfixes**
 
-- *Daily/Dungeons:* Fix display of the wrong name for some fractal levels (Thanks @holoxx!)
+- *Daily/Dungeons:* Fix display of the wrong name for some fractal levels (Thanks to @holoxx!)
 
 ---
 
