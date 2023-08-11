@@ -1,3 +1,18 @@
+### 2023-08-11
+
+**Features**
+
+- *Account:* Add "Guaranteed Wardrobe Unlock" filter (Thanks to @Tyu)
+  - *This works for all unlocks that are included in the "Guaranteed Wardrobe Unlock", so 
+    Wardrobe/Skins, Miniatures, Dyes, Mailcarriers, Outfits, Finishers, and Gliders*
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+- *Translations:* Update translations
+
+---
+
 ### 2023-08-09
 
 **Chores**
