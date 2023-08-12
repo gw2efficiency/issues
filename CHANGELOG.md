@@ -1,10 +1,25 @@
+### 2023-08-12
+
+**Features**
+
+- *Stats/Unlock Statistics:* Add "Guaranteed Wardrobe Unlock" filter
+  - *We suggest filtering with "Show = Locked" and "Guaranteed Wardrobe Unlock = Only" and ordering by "Unlocked by playerbase (DESC)" (default) to find good opportunities to improve the value of your Guaranteed Wardrobe Unlocks.*
+  - *This works for all unlocks that are included in the "Guaranteed Wardrobe Unlock", so Skins, Miniatures, Dyes, Mailcarriers, Outfits, Finishers, and Gliders.*
+- *Account/Wardrobe:* Add the option to collapse the groups into a single list of skins
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2023-08-11
 
 **Features**
 
 - *Account:* Add "Guaranteed Wardrobe Unlock" filter (Thanks to @Tyu)
   - *This works for all unlocks that are included in the "Guaranteed Wardrobe Unlock", so 
-    Wardrobe/Skins, Miniatures, Dyes, Mailcarriers, Outfits, Finishers, and Gliders*
+    Wardrobe/Skins, Miniatures, Dyes, Mailcarriers, Outfits, Finishers, and Gliders.*
 
 **Chores**
 
