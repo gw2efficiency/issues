@@ -1,3 +1,271 @@
+### 2023-12-05
+
+**Bugfixes**
+
+- *Account:* Take count of upgrades in equipment templates into account
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+ 
+---
+
+### 2023-12-03
+
+**Chores**
+
+- *Crafting/Calculator:* Update merchant recipes (Thanks to @holoxx)
+- *Crafting/Calculator:* Update mystic forge recipes
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2023-12-02
+
+**Features**
+
+- *Stats/Account Statistics:* Add "Ancient Coins" statistic
+
+**Chores**
+
+- *Account/Value:* Update gemstore data
+
+---
+
+### 2023-12-01
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2023-11-30
+
+**Features**
+
+- *Holiday Calendar:* Enable the holiday calendar for 2023
+
+**Chores**
+
+- *Supporter Benefits:* Add direct links for tier payments
+
+---
+
+### 2023-11-28
+
+**Chores**
+
+- *Account/Value:* Update gemstore data
+
+---
+
+### 2023-11-27
+
+**Bugfixes**
+
+- *Stats/Account Statistics:* Fix the user count rarely fluctuating during an update
+
+**Chores**
+
+- *General:* Update translations
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2023-11-19
+
+**Chores**
+
+- *General:* Update the footer links
+
+**Internals**
+
+- *General:* Improve advertisement placements across different screens
+- *General:* Show a small upgrade hint to users who run adblockers
+- *General:* Show a small upgrade hint to power users
+
+---
+
+### 2023-11-14
+
+**Chores**
+
+- *Stats/Account Statistics:* Make "Musical Instruments" unique and add more items
+- *Stats/Account Statistics:* Add "Permanent Mobile Crafting Station" to "Permanent Contracts"
+- *Account/Value:* Add value to music boxes and mobile crafting station
+
+---
+
+### 2023-11-13
+
+**Features**
+
+- *Dungeons:* Add Strikes
+
+---
+
+### 2023-10-29
+
+**Bugfixes**
+
+- *Dungeons:* Handle daily achievements APIs being down gracefully
+- *Dungeons:* Update fractal data
+
+---
+
+### 2023-10-25
+
+**Chores**
+
+- *Gathering:* Update permanent gathering nodes
+
+---
+
+### 2023-10-20
+
+**Internals**
+
+- *General:* Move to a new advertising provider
+
+---
+
+### 2023-10-18
+
+**Chores**
+
+- *Supporter Benefits:* Clarify upgrade behavior for account time machine
+
+---
+
+### 2023-10-12
+
+**Bugfixes**
+
+- *Account/Material Storage:* Fix soybeans duplicating when changing the order
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+- *Crafting/Calculator:* Update mystic forge recipes
+
+---
+
+### 2023-10-10
+
+**Bugfixes**
+
+- *Currencies/Claim Tickets:* Fix wiki crawling (Thanks @darthmaim)
+
+---
+
+### 2023-10-06
+
+**Chores**
+
+- *Account/Value:* Update gemstore data
+
+---
+
+### 2023-09-30
+
+**Chores**
+
+- *Account/Value:* Update gemstore data
+
+
+---
+
+### 2023-09-14
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+**Internals**
+
+- *General:* Update the database cluster version
+
+---
+
+### 2023-09-06
+
+**Bugfixes**
+
+- *Account/Farming Tracker:* Fix page not recovering on API errors
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
+### 2023-09-04
+
+**Bugfixes**
+
+- *General:* Fix chat codes for SotO items and builds (Thanks @darthmaim)
+
+---
+
+### 2023-09-02
+
+**Chores**
+
+- *Account/Value:* Update gemstore data
+
+---
+
+### 2023-08-30
+
+**Chores**
+
+- *Crafting/Calculator:* Update mystic forge recipes
+
+---
+
+### 2023-08-25
+
+**Bugfixes**
+
+- *General:* Fix SotO items not showing up correctly
+- *General:* Handle daily achievements APIs being down gracefully
+
+**Chores**
+
+- *General:* Remove disabled API warning for SotO
+
+---
+
+### 2023-08-20
+
+**Chores**
+
+- *Account/Value:* Update gemstore data
+
+---
+
+### 2023-08-18
+
+**Bugfixes**
+
+- *Stats:* Fix timeout issues for player crawling
+
+**Chores**
+
+- *General:* Add disabled API warning for SotO
+
+---
+
+### 2023-08-17
+
+**Bugfixes**
+
+- *Account/Achievements:* Reword filter to "Earnable AP"
+- *Account/Achievements:* Add missing sprite for EoD mastery points
+
+---
+
 ### 2023-08-12
 
 **Features**
@@ -32,10 +300,8 @@
 
 **Chores**
 
-- *Account/Value:* Update gemstore items (Thanks to @Tyu)
-  - *As usual, this will cause fluctuations in account value.*
-- *Account/Value:* Update the Black Lion Exclusives Chest (Thanks to @Tyu)
-  - *As usual, this will cause a big spike in value if you own any of the items now inside the chest.*
+- *Account/Value:* Update gemstore data (Thanks to @Tyu)
+- *Account/Value:* Update Black Lion Exclusives Chest data (Thanks to @Tyu)
 
 ---
 
