@@ -1,3 +1,25 @@
+### 2023-12-13
+
+**Features**
+
+- *Account/Statistics:* Add "Essence of Despair" statistic
+- *Account/Statistics:* Add "Essence of Greed" statistic
+- *Account/Statistics:* Add "Essence of Triumph" statistic
+- *Account/Statistics:* Add "Permanent Lounge Passes" statistic
+
+**Bugfixes**
+
+- *Account/Achievements:* Fix EoD and SotO mastery filters
+- *Stats/Unlock Statistics:* Fix EoD and SotO mastery filters
+- *General:* Fix some tradeable item checks not working correctly
+- *Wallet:* Remove Gaeting Crystals
+
+**Chores**
+
+- *Supporters & Contributors:* Update the list of supporters
+
+---
+
 ### 2023-12-05
 
 **Bugfixes**
